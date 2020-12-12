@@ -1,0 +1,358 @@
+Name,Processing,Dry Fragrance,Wet Aroma,Brightness,Flavor,Body,Finish,Sweetness,Clean Cup,Complexity,Uniformity,Floral,Honey,Sugars,Caramel,Fruits,Citrus,Berry,Cocoa,Nuts,Rustic,Spice,Body
+Ethiopia Bensa Kebele Mirado,Wet Process,2.0,3.0,2.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,1.0,3.0,9.1,9.2,9.2,9.0,8.5,8.6,9.0,8.1,9.0,8.5
+Kenya Nyeri Kiruga AB,Wet Process,0.0,0.0,4.0,3.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,4.0,8.8,9.1,8.8,9.0,9.0,9.1,9.5,8.8,9.2,8.5
+Kenya Kiambu Fram Farm AA,Wet Process,0.0,0.0,3.0,1.0,3.0,3.0,2.0,2.0,0.0,0.0,2.0,4.0,8.8,9.0,9.0,9.2,9.0,9.1,8.8,8.7,9.4,9.0
+Kenya Kiambu Fram Farm AA,Wet Process Kenya Type,2.0,2.0,4.0,0.0,4.0,4.0,2.0,2.0,0.0,1.0,4.0,3.0,9.2,9.5,9.5,9.3,8.8,9.1,9.0,8.2,9.6,8.5
+Kenya Kiambu Fram Farm AB,Wet Process,0.0,1.0,3.0,2.0,3.0,2.0,3.0,2.0,0.0,0.0,3.0,3.0,9.2,9.0,9.0,9.3,8.7,9.0,9.0,8.5,9.3,8.5
+Kenya Kiambu Fram Farm Peaberry,Wet Process Kenya Type,0.0,0.0,3.0,1.0,3.0,3.0,3.0,2.0,0.0,0.0,1.0,3.0,9.0,9.3,8.8,9.5,9.0,9.1,8.7,8.3,9.5,8.5
+Kenya Kiambu Mandela Farm AA,Wet Process,0.0,1.0,3.0,0.0,3.0,3.0,2.0,3.0,0.0,0.0,3.0,3.0,9.3,9.6,9.5,9.5,8.7,9.3,8.7,9.0,9.5,9.0
+Kenya Kiambu Mandela Farm AB,Wet Process,0.0,3.0,3.0,1.0,3.0,3.0,2.0,2.0,0.0,1.0,2.0,4.0,8.9,9.2,9.2,9.2,9.0,9.1,9.0,8.7,9.5,8.2
+Kenya Kirinyaga Kamwangi AA,Wet Process Kenya Type,0.0,2.0,3.0,1.0,3.0,3.0,3.0,2.0,0.0,2.0,2.0,3.0,8.8,9.1,9.2,8.9,8.8,8.4,8.7,8.2,9.2,8.5
+Kenya Murang'a Gatuya AA,Wet Process,0.0,0.0,4.0,0.0,3.0,3.0,2.0,0.0,0.0,2.0,2.0,4.0,8.8,9.3,9.2,9.0,8.7,8.7,8.7,8.2,9.6,8.5
+Kenya Nyeri Chinga AB,Wet Process,1.0,4.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,0.0,2.0,4.0,8.8,9.3,8.9,9.1,9.0,9.0,9.4,8.8,9.2,8.5
+Kenya Nyeri Gatugi AA,Wet Process Kenya Type,1.0,0.0,2.0,0.0,3.0,3.0,3.0,2.0,0.0,0.0,1.0,3.0,9.0,9.3,9.0,9.2,8.7,9.1,8.8,8.5,9.5,9.0
+Costa Rica Don Oscar Arracaches,Machine Washed,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,4.0,8.2,8.4,8.0,8.5,9.0,8.3,8.3,8.5,7.8,8.5
+Kenya Nyeri Gatugi Peaberry,Wet Process,0.0,0.0,4.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,1.0,4.0,8.8,9.0,9.1,9.2,9.0,8.7,9.5,8.7,9.2,8.5
+Kenya Nyeri Githiru AA,Wet Process,0.0,0.0,3.0,3.0,3.0,2.0,3.0,3.0,0.0,2.0,1.0,4.0,8.8,9.0,8.7,8.8,9.4,8.3,8.7,7.8,9.5,8.5
+Kenya Nyeri Githiru AB,Wet Process Kenya Type,0.0,1.0,3.0,3.0,3.0,1.0,3.0,3.0,0.0,1.0,1.0,4.0,8.7,8.8,8.5,8.8,9.3,8.7,8.7,8.3,9.0,8.2
+Kenya Nyeri Ichamama Peaberry,Wet Process,0.0,0.0,3.0,0.0,4.0,3.0,3.0,1.0,0.0,0.0,2.0,3.0,9.0,9.2,9.1,9.3,8.8,8.8,8.7,8.3,9.3,8.5
+Kenya Nyeri Kamoini AA,Wet Process Kenya Type,1.0,0.0,3.0,1.0,3.0,3.0,2.0,1.0,0.0,0.0,2.0,3.0,8.5,9.0,9.5,8.9,8.7,8.4,8.6,8.3,9.2,8.1
+Kenya Nyeri Kianjogu AA,Wet Process Kenya Type,0.0,1.0,3.0,1.0,3.0,3.0,2.0,2.0,0.0,0.0,1.0,3.0,8.8,9.1,9.2,9.0,8.8,8.7,8.6,8.7,9.3,8.5
+Kenya Nyeri Kiruga AA,Wet Process,1.0,2.0,3.0,0.0,3.0,3.0,2.0,2.0,0.0,0.0,1.0,3.0,9.0,9.5,9.4,9.2,8.5,9.1,8.9,9.0,9.3,9.0
+Kenya Nyeri Othaya Gura,Wet Process,0.0,2.0,4.0,1.0,3.0,2.0,2.0,2.0,0.0,0.0,2.0,4.0,9.0,9.4,9.3,9.3,8.9,9.2,8.7,9.0,9.4,8.5
+Kenya Nyeri Rukira AB,Wet Process Kenya Type,0.0,2.0,3.0,2.0,3.0,3.0,2.0,2.0,0.0,0.0,2.0,4.0,8.7,9.2,9.0,9.5,8.8,9.2,8.8,8.5,9.4,8.5
+Kenya Nyeri Thageini AA,Wet Process Kenya Type,0.0,2.0,3.0,1.0,3.0,4.0,2.0,0.0,0.0,0.0,2.0,3.0,9.3,9.5,9.6,9.5,8.8,9.2,8.8,8.3,9.5,8.5
+Costa Rica Don Oscar Limones,Machine Washed,0.0,2.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,0.0,2.0,3.0,8.3,8.6,8.2,8.6,8.8,8.5,8.5,9.0,8.0,8.5
+Kenya Nyeri Thageini Peaberry,Wet Process Kenya Type,0.0,0.0,3.0,3.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0,4.0,8.6,8.7,8.5,8.8,9.0,8.3,8.6,8.0,9.1,8.5
+Kenya Nyeri Thuti Peaberry,Wet Process Kenya Type,0.0,0.0,3.0,2.0,3.0,2.0,3.0,2.0,0.0,0.0,2.0,3.0,9.0,8.7,8.9,9.2,8.8,8.9,8.6,8.2,9.4,8.5
+Kenya Othaya Gura AB,Wet Process Kenya Type,0.0,2.0,3.0,1.0,3.0,3.0,2.0,2.0,0.0,0.0,2.0,3.0,9.1,9.3,9.3,9.2,8.8,8.8,8.8,8.6,9.3,8.5
+Kenya Othaya Mahiga Peaberry,Wet Process,0.0,1.0,4.0,0.0,3.0,3.0,3.0,2.0,0.0,0.0,2.0,4.0,9.0,9.4,9.1,9.3,8.9,9.1,9.0,9.0,9.7,9.0
+Rwanda Dry Process Ngororero,Dry Process,0.0,0.0,3.0,0.0,4.0,1.0,4.0,3.0,0.0,2.0,2.0,3.0,9.0,9.2,9.0,9.4,8.7,9.0,8.7,8.3,9.5,8.2
+Rwanda Dry Process Nyamasheke Karambi,Dry Process,0.0,2.0,3.0,2.0,4.0,2.0,4.0,4.0,0.0,3.0,2.0,4.0,8.3,8.7,8.0,8.7,9.0,8.0,8.6,7.5,9.7,8.0
+Rwanda Dry Process Rusizi Nyakarenzo,Dry Process,0.0,2.0,3.0,1.0,3.0,0.0,3.0,2.0,1.0,2.0,0.0,3.0,8.5,8.7,8.5,8.8,9.0,8.5,8.5,7.7,9.0,8.0
+Rwanda Dry Process Rusizi Nyakarenzo,Dry Process,0.0,0.0,3.0,2.0,4.0,3.0,4.0,2.0,0.0,1.0,2.0,3.0,9.0,9.1,8.7,9.2,8.7,8.9,8.7,8.5,9.3,8.2
+Rwanda Honey Process Karambi,Honey Process,1.0,1.0,3.0,1.0,3.0,2.0,3.0,3.0,0.0,2.0,2.0,4.0,8.7,8.8,8.5,8.8,9.2,8.6,8.7,8.0,9.0,8.2
+Rwanda Honey Process Ngororero,Honey Process,0.0,1.0,3.0,2.0,2.0,1.0,1.0,3.0,0.0,1.0,1.0,4.0,8.5,8.7,8.5,8.9,8.9,8.5,8.6,8.3,8.9,8.0
+Rwanda Ibisi Bya Huye Mountain Peaberry,Wet Process,1.0,2.0,3.0,0.0,2.0,2.0,1.0,2.0,0.0,1.0,3.0,3.0,8.7,8.8,8.7,8.9,8.5,8.9,8.6,8.2,9.0,8.5
+Rwanda Karongi Gitesi,Wet Process,1.0,2.0,4.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,3.0,2.0,9.0,9.0,8.9,9.1,8.5,8.8,8.8,8.7,9.0,8.0
+Rwanda Kivu Kageyo,Wet Process,0.0,2.0,2.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,2.0,3.0,8.6,8.9,8.5,8.8,8.6,8.4,8.7,8.5,8.8,8.2
+Rwanda Kivu Kageyo,Wet Process,0.0,1.0,3.0,1.0,2.0,1.0,2.0,3.0,0.0,0.0,3.0,3.0,8.6,8.9,8.6,9.0,9.0,8.7,8.9,8.5,8.9,8.0
+Rwanda Ngororero Matyazo,Wet Process,1.0,2.0,3.0,1.0,2.0,1.0,2.0,2.0,0.0,0.0,3.0,3.0,8.9,9.1,8.7,9.1,8.7,9.0,8.7,8.5,9.2,8.2
+Rwanda Nyamasheke Cyato,Wet Process,1.0,1.0,3.0,1.0,2.0,2.0,2.0,3.0,0.0,0.0,3.0,3.0,8.8,9.0,8.7,9.0,8.7,8.8,8.6,8.0,9.0,8.2
+Rwanda Nyamasheke Gitwe,Wet Process,0.0,0.0,3.0,2.0,2.0,1.0,1.0,2.0,0.0,0.0,3.0,2.0,8.7,8.7,8.6,8.7,8.1,8.6,8.6,8.5,8.7,8.2
+Rwanda Nyamasheke Kanyege,Wet Process,0.0,2.0,3.0,2.0,2.0,2.0,0.0,2.0,0.0,0.0,2.0,3.0,8.6,8.8,8.6,8.7,8.5,8.6,8.7,8.5,8.7,8.2
+Rwanda Nyamasheke Kanyege Station,Wet Process,1.0,1.0,3.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,3.0,3.0,8.7,8.9,8.7,8.8,8.8,8.7,8.7,8.8,8.8,8.2
+Rwanda Nyamasheke Karambi,Wet Process,0.0,1.0,3.0,1.0,2.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,8.4,8.9,8.7,9.0,8.3,8.8,8.6,8.5,8.8,8.3
+Costa Rica Helsar Macho Arce,Machine Washed,0.0,2.0,2.0,1.0,1.0,1.0,1.0,3.0,2.0,0.0,1.0,3.0,8.5,8.5,8.5,8.6,8.8,8.4,8.5,9.0,8.0,8.5
+Rwanda Nyamasheke Mutovu,Wet Process,1.0,2.0,4.0,3.0,2.0,1.0,1.0,3.0,0.0,0.0,2.0,3.0,8.8,8.9,8.7,8.9,8.7,8.9,9.0,8.5,8.9,8.2
+Rwanda Nyamasheke Nyakabingo,Wet Process,1.0,3.0,3.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,3.0,4.0,9.0,9.1,8.8,9.2,9.0,8.8,9.0,8.8,9.2,8.3
+Rwanda Rulindo Bushoki Peaberry,Wet Process,0.0,1.0,3.0,2.0,0.0,2.0,0.0,3.0,0.0,0.0,4.0,3.0,9.0,9.0,8.8,9.2,8.8,9.1,8.6,8.5,9.2,8.5
+Rwanda Rulindo Tumba,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,2.0,3.0,0.0,0.0,3.0,3.0,8.8,8.8,8.5,9.2,8.8,9.0,8.6,8.5,9.1,8.2
+Rwanda Rusizi Gaseke,Wet Process,0.0,0.0,3.0,1.0,1.0,0.0,1.0,2.0,0.0,2.0,2.0,3.0,8.5,8.6,8.4,8.6,8.8,8.3,8.6,8.1,8.8,8.2
+Rwanda Rusizi Nyakarenzo,Wet Process,0.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,0.0,1.0,2.0,3.0,8.6,8.7,8.6,8.7,8.7,8.6,8.6,8.3,8.8,8.2
+Rwanda Rutsiro Mushonyi,Wet Process,1.0,0.0,3.0,3.0,2.0,1.0,2.0,3.0,0.0,0.0,3.0,3.0,8.7,8.8,8.7,9.0,8.6,8.7,8.7,8.5,9.0,8.5
+Tanzania Mbeya Isende AB,Wet Process,0.0,1.0,3.0,1.0,1.0,0.0,0.0,3.0,0.0,2.0,1.0,3.0,8.2,8.5,8.0,8.3,8.8,8.0,8.6,7.9,8.5,8.5
+Costa Rica Chirripo Finca Jose,Machine Washed,0.0,1.0,2.0,2.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,4.0,8.3,8.6,8.3,8.6,9.0,8.3,8.4,8.5,8.4,9.0
+Costa Rica Chirripo Finca Jose Lot 1,Wet Process,0.0,2.0,2.0,2.0,2.0,1.0,2.0,3.0,1.0,0.0,1.0,3.0,8.5,8.7,8.5,8.6,8.8,8.5,8.5,8.5,8.5,8.5
+El Salvador Nejapa Finca El Cipres,Wet Process,0.0,1.0,2.0,3.0,0.0,0.0,0.0,4.0,2.0,1.0,0.0,4.0,8.3,8.5,8.1,8.5,9.0,8.3,8.5,8.4,7.9,8.5
+Costa Rica Chirripo Finca Jose Lot 2,Wet Process,0.0,1.0,3.0,2.0,1.0,1.0,1.0,3.0,2.0,0.0,1.0,3.0,8.3,8.6,8.4,8.5,8.7,8.5,8.5,8.5,8.3,8.5
+Costa Rica Don Mayo La Ladera Lot 2,Machine Washed,0.0,1.0,2.0,2.0,1.0,0.0,1.0,4.0,1.0,0.0,1.0,3.0,8.3,8.6,8.3,8.4,8.7,8.3,8.4,8.5,8.0,8.5
+Costa Rica Don Mayo La Loma,Machine Washed,0.0,1.0,2.0,2.0,0.0,0.0,0.0,4.0,2.0,1.0,1.0,3.0,8.3,8.5,8.3,8.4,8.7,8.2,8.4,8.2,8.1,9.0
+Costa Rica Don Oscar Limones,Machine Washed,0.0,1.0,2.0,2.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,3.0,8.2,8.4,8.3,8.3,8.7,8.2,8.4,8.5,8.0,9.0
+Costa Rica Helsar Asdrubal Chavez,Wet Process,0.0,2.0,3.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,0.0,3.0,8.5,8.6,8.5,8.7,8.8,8.3,8.6,8.5,7.7,9.0
+Costa Rica Helsar Finca Rola,Machine Washed,0.0,0.0,3.0,3.0,0.0,0.0,0.0,4.0,2.0,0.0,1.0,3.0,8.5,8.7,7.5,8.5,8.6,8.5,8.7,8.5,7.9,9.0
+Costa Rica Helsar Leo Rojas Lot 2,Machine Washed,0.0,0.0,3.0,1.0,1.0,1.0,1.0,3.0,1.0,0.0,0.0,3.0,8.4,8.5,8.3,8.5,8.5,8.5,8.5,8.5,8.2,8.5
+Costa Rica Helsar Magdalena Vega,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,0.0,3.0,2.0,0.0,1.0,3.0,8.5,8.5,8.4,8.6,8.8,8.3,8.5,8.7,8.2,8.5
+Costa Rica Helsar Miguel Rojas,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,4.0,8.3,8.6,8.2,8.6,8.8,8.3,8.5,8.5,8.0,9.0
+El Salvador Santa Ana Pacamara AAA,Wet Process,1.0,2.0,4.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,3.0,8.6,8.8,8.7,8.8,8.6,8.6,9.0,8.5,8.7,9.0
+Costa Rica Helsar Miguel Rojas Lot 2,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,4.0,8.3,8.6,8.2,8.6,8.8,8.3,8.5,8.2,8.0,9.0
+Costa Rica La Casona SF 1900,Wet Process,0.0,2.0,3.0,3.0,2.0,2.0,1.0,3.0,2.0,0.0,2.0,3.0,8.5,8.6,8.7,8.7,8.8,8.5,8.6,8.8,8.6,9.0
+Costa Rica Los Crestones Finca Alaska,Machine Washed,0.0,1.0,2.0,2.0,1.0,0.0,1.0,4.0,1.0,0.0,1.0,3.0,8.3,8.6,8.3,8.6,8.7,8.2,8.5,8.5,7.9,9.0
+Costa Rica Tarrazu Don Mayo Cascabeles,Machine Washed,0.0,1.0,2.0,2.0,2.0,2.0,0.0,3.0,2.0,0.0,0.0,3.0,8.3,8.6,8.3,8.6,8.5,8.4,8.7,8.5,8.2,8.5
+Costa Rica Tarrazu Don Mayo La Loma,Wet Process,0.0,2.0,3.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,3.0,8.3,8.6,8.4,8.6,8.7,8.5,8.5,8.5,8.2,9.0
+Costa Rica Tarrazu La Casona SF 1900 Lot 2,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,0.0,3.0,1.0,0.0,0.0,3.0,8.4,8.5,8.5,8.6,8.8,8.2,8.5,8.5,8.0,9.0
+Costa Rica Tarrazu Monte Alto,Machine Washed,0.0,1.0,3.0,1.0,2.0,2.0,2.0,3.0,0.0,0.0,2.0,3.0,8.5,8.7,8.5,8.8,8.8,8.7,8.7,8.5,8.8,8.5
+El Salvador Apaneca Finca Miravalle,Wet Process,0.0,1.0,2.0,2.0,0.0,0.0,0.0,4.0,2.0,1.0,0.0,4.0,8.0,8.3,7.7,8.3,9.0,8.2,8.3,8.2,7.5,8.5
+El Salvador Apaneca Finca Miravalle Bourbon,Wet Process,0.0,2.0,3.0,1.0,1.0,0.0,1.0,3.0,2.0,0.0,1.0,2.0,8.5,8.6,8.6,8.6,8.0,8.5,8.5,8.5,8.2,8.5
+El Salvador Ataco Finca Villa Maria Bourbon,Wet Process,0.0,1.0,3.0,2.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,4.0,8.3,8.4,8.2,8.5,9.0,8.2,8.5,8.5,7.7,8.5
+Guatemala Acatenango Gesha Lot 2,Wet Process,4.0,2.0,4.0,0.0,3.0,3.0,2.0,1.0,0.0,0.0,3.0,3.0,9.5,9.5,8.8,9.7,8.8,9.5,9.0,9.0,9.7,8.5
+El Salvador Comasagua San Antonio,Machine Washed,0.0,1.0,2.0,2.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,4.0,8.2,8.6,8.4,8.5,9.0,8.3,8.3,8.5,7.8,8.3
+El Salvador Finca La Esperanza,Wet Process,0.0,1.0,2.0,2.0,1.0,0.0,0.0,4.0,2.0,0.0,0.0,4.0,8.2,8.6,8.5,8.5,8.9,8.2,8.5,8.3,7.8,8.5
+El Salvador Finca Matalapa Lote Cumbrita,Wet Process,0.0,1.0,2.0,2.0,0.0,0.0,0.0,3.0,2.0,0.0,1.0,3.0,8.3,8.5,8.2,8.5,8.5,8.3,8.4,8.5,7.8,9.0
+El Salvador Finca Matalapa Lote Pino,Wet Process,0.0,1.0,2.0,2.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,2.0,8.3,8.7,8.2,8.5,8.3,8.4,8.4,8.5,7.5,8.5
+El Salvador Finca Matalapa Peaberry,Wet Process,0.0,2.0,2.0,2.0,1.0,1.0,1.0,3.0,2.0,0.0,0.0,2.0,8.3,8.6,8.5,8.5,8.4,8.5,8.4,8.5,8.3,9.0
+El Salvador Finca Santa Julia Bourbon,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,1.0,4.0,2.0,0.0,0.0,4.0,8.2,8.5,8.1,8.5,9.0,8.0,8.2,8.5,8.0,8.5
+El Salvador La Esperanza ,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,0.0,2.0,0.0,0.0,1.0,2.0,8.6,8.5,8.6,8.6,8.4,8.5,8.5,8.5,8.6,8.5
+El Salvador Perquin Finca La Victoria ,Wet Process,0.0,1.0,2.0,2.0,0.0,1.0,0.0,4.0,2.0,0.0,1.0,4.0,8.3,8.5,8.0,8.5,8.8,8.3,8.5,8.5,7.5,8.5
+El Salvador Santa Ana Miravalle H1,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,1.0,4.0,2.0,0.0,2.0,4.0,8.3,8.5,8.4,8.7,9.2,8.0,8.4,8.5,8.0,8.5
+El Salvador Santa Ana Pacamara AA,Wet Process,1.0,2.0,3.0,1.0,2.0,2.0,0.0,1.0,1.0,0.0,3.0,2.0,8.7,8.8,8.9,9.0,8.4,8.6,8.3,8.5,8.7,8.5
+Guatemala Chimaltenango San Martin Jilotepeque,Wet Process,0.0,1.0,2.0,3.0,0.0,0.0,0.0,3.0,3.0,1.0,1.0,3.0,8.2,8.6,8.1,8.3,8.9,8.2,8.4,8.3,7.8,8.2
+Guatemala Acatenango Gesha ,Wet Process,5.0,2.0,3.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,2.0,9.3,9.5,8.8,9.7,8.3,9.5,9.0,9.0,9.7,8.5
+Guatemala Acatenango Gesha Lot 1,Wet Process,2.0,1.0,3.0,0.0,2.0,1.0,2.0,1.0,0.0,0.0,2.0,4.0,9.0,9.2,8.9,9.2,9.5,8.5,8.7,8.5,9.3,8.7
+Guatemala Acatenango Gesha Lot 3,Wet Process,3.0,0.0,3.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,3.0,9.0,9.4,8.7,9.2,8.8,9.3,8.7,9.0,9.5,9.0
+Guatemala Acatenango Gesha Lot 4,Wet Process,3.0,1.0,4.0,0.0,3.0,2.0,2.0,3.0,0.0,0.0,2.0,3.0,9.0,9.6,8.9,9.5,8.9,9.5,8.9,8.5,9.7,8.5
+Guatemala Antigua Buena Vista Panameña Cultivar,Wet Process,2.0,1.0,3.0,2.0,2.0,2.0,0.0,2.0,0.0,0.0,1.0,3.0,8.6,8.8,8.5,8.9,8.7,8.8,8.5,8.2,8.9,8.5
+Guatemala Antigua Carmona Pulcal,Wet Process,0.0,1.0,3.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,3.0,8.3,8.6,8.5,8.6,8.7,8.3,8.5,8.5,8.3,8.5
+Guatemala Antigua Finca Buena Vista ,Wet Process,0.0,0.0,2.0,3.0,1.0,1.0,0.0,4.0,2.0,0.0,0.0,4.0,8.5,8.7,8.5,8.6,9.2,8.3,8.4,8.5,7.5,8.5
+Guatemala Antigua Finca Cabrejo,Wet Process,0.0,1.0,3.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,4.0,8.5,8.7,8.4,8.7,9.3,8.5,8.7,8.5,8.0,8.5
+Guatemala Antigua Finca Cabrejo,Wet Process,0.0,1.0,3.0,3.0,2.0,1.0,2.0,4.0,2.0,0.0,1.0,4.0,8.6,8.7,8.7,8.7,9.0,8.5,8.6,8.5,8.5,8.5
+Guatemala Antigua Hunapu Ciudad Vieja,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,4.0,8.3,8.6,8.3,8.6,9.2,8.3,8.5,8.4,7.9,8.5
+Guatemala Antigua La Parcela Melanie,Wet Process,0.0,2.0,3.0,2.0,2.0,1.0,2.0,4.0,1.0,0.0,1.0,4.0,8.6,8.8,8.7,8.8,9.0,8.7,8.7,8.5,8.7,8.5
+Guatemala Antigua Pulcal Inteligente,Wet Process,0.0,0.0,3.0,3.0,1.0,0.0,1.0,3.0,2.0,0.0,1.0,4.0,8.5,8.6,8.4,8.7,9.2,8.5,8.7,8.5,8.5,8.8
+Guatemala Antigua Pulcal Java Cultivar,Wet Process,0.0,1.0,3.0,2.0,1.0,2.0,1.0,3.0,1.0,0.0,0.0,3.0,8.4,8.6,8.7,8.7,8.9,8.5,8.6,8.5,8.6,8.5
+Guatemala Antigua Pulcal Yellow Bourbon,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,1.0,3.0,8.3,8.5,8.7,8.6,8.7,8.4,8.5,8.5,8.2,8.1
+Guatemala Chimaltenango Concepcion Buena Vista,Wet Process,0.0,1.0,3.0,2.0,1.0,1.0,1.0,4.0,2.0,0.0,0.0,4.0,8.3,8.6,8.3,8.6,9.0,8.3,9.0,8.5,8.0,8.5
+Guatemala Chimaltenango Herber Chali,Wet Process,0.0,1.0,2.0,3.0,2.0,2.0,0.0,4.0,2.0,0.0,1.0,3.0,8.4,8.7,8.5,8.6,9.0,8.3,8.5,8.3,8.0,8.3
+Guatemala Chimaltenango Herber Chalí,Wet Process,0.0,1.0,2.0,3.0,1.0,0.0,1.0,3.0,2.0,0.0,1.0,4.0,8.5,8.6,8.4,8.6,9.0,8.3,8.6,8.5,8.3,8.5
+Guatemala Chimaltenango San Martin Jilotepeque,Wet Process,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,4.0,8.2,8.5,8.1,8.5,9.4,8.3,8.4,8.4,7.7,8.5
+Guatemala Cuilco Finca El Regalito,Wet Process,1.0,2.0,4.0,3.0,2.0,1.0,2.0,4.0,1.0,0.0,2.0,4.0,8.7,8.8,8.7,8.9,9.2,8.7,8.8,8.5,8.6,8.5
+Guatemala Cuilco Finca El Regalito,Wet Process,0.0,2.0,3.0,1.0,2.0,1.0,2.0,3.0,1.0,0.0,1.0,3.0,8.6,8.7,8.6,8.8,8.8,8.6,8.7,8.5,8.5,8.5
+Ethiopia Dry Process Abiyot Bobea,Dry Process,2.0,0.0,3.0,2.0,4.0,0.0,4.0,3.0,2.0,2.0,2.0,4.0,8.6,8.8,8.7,9.3,9.0,8.8,8.7,8.1,9.7,8.3
+Guatemala Xinabajul Producers,Wet Process,0.0,0.0,3.0,1.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,3.0,8.5,8.7,8.5,8.6,8.8,8.5,8.5,8.5,8.4,8.5
+Guatemala Daniel Perez Pacamara,Wet Process,0.0,1.0,3.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,8.5,8.7,8.4,8.6,8.0,8.4,8.7,8.5,8.2,8.5
+Guatemala Honey Process Finca Los Suspiros,Honey Process,1.0,3.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,0.0,1.0,3.0,8.6,8.8,8.6,8.9,8.8,8.8,8.8,8.5,8.8,8.5
+Guatemala Honey Process Finca Rosma,Honey Process,0.0,3.0,3.0,1.0,2.0,0.0,2.0,3.0,2.0,0.0,0.0,3.0,8.5,8.7,8.5,8.6,9.0,8.0,8.5,8.5,8.2,8.0
+Guatemala Honey Process Finca Rosma,Wet Process,0.0,2.0,3.0,2.0,2.0,1.0,1.0,4.0,1.0,0.0,1.0,4.0,8.6,8.7,8.5,8.7,9.2,8.5,8.6,8.4,8.5,8.3
+Guatemala Huehuetenango Boqueroncito,Wet Process,1.0,3.0,3.0,3.0,2.0,1.0,2.0,4.0,1.0,0.0,2.0,4.0,8.5,8.7,8.6,8.8,9.3,8.6,8.8,8.5,8.7,8.5
+Guatemala Huehuetenango Finca Los Suspiros,Wet Process,0.0,1.0,3.0,2.0,2.0,0.0,2.0,3.0,1.0,0.0,1.0,3.0,8.5,8.7,8.6,8.7,8.6,8.4,8.7,8.3,8.6,8.5
+Guatemala Huehuetenango Xinabajul Producers,Wet Process,0.0,1.0,3.0,1.0,1.0,1.0,0.0,4.0,2.0,0.0,1.0,3.0,8.5,8.5,8.6,8.5,8.7,8.4,8.6,8.5,8.0,8.3
+Guatemala Michicoy Finca Rosma,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,8.4,8.7,8.6,8.7,8.5,8.5,8.7,8.5,8.4,8.2
+Guatemala Paraíso La Colibri,Wet Process,0.0,1.0,3.0,0.0,2.0,1.0,2.0,1.0,1.0,0.0,2.0,3.0,8.8,8.8,8.6,8.9,8.6,8.7,8.6,8.5,8.9,8.3
+Guatemala Patzun Finca La Florida,Wet Process,0.0,2.0,3.0,2.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,3.0,8.6,8.7,8.5,8.7,8.8,8.5,8.7,8.5,8.4,8.5
+Guatemala Xinabajul Productores de Peña,Wet Process,0.0,1.0,2.0,3.0,1.0,0.0,1.0,4.0,2.0,0.0,1.0,4.0,8.5,8.6,8.4,8.7,9.0,8.4,8.6,8.5,8.1,8.5
+Guatemala Patzun Finca Las Camelias,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,0.0,4.0,2.0,0.0,1.0,4.0,8.3,8.6,8.3,8.5,9.2,8.2,8.6,8.1,8.0,8.5
+Guatemala Patzún Finca Las Camelias,Wet Process,0.0,1.0,3.0,1.0,2.0,0.0,2.0,3.0,0.0,1.0,2.0,4.0,8.7,8.8,8.5,8.8,8.9,8.7,8.8,8.3,9.0,8.5
+Guatemala Patzun Finca Santa Anita,Wet Process,1.0,2.0,3.0,3.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,3.0,8.4,8.6,8.4,8.6,8.7,8.3,8.8,8.5,8.5,8.5
+Guatemala Peña Blanca Familia Villatoro,Wet Process,0.0,0.0,3.0,3.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,4.0,8.6,8.7,8.5,8.7,9.0,8.5,8.7,8.5,8.7,8.5
+Guatemala Proyecto Xinabajul Bojonalito,Wet Process,0.0,1.0,3.0,2.0,2.0,1.0,2.0,3.0,1.0,0.0,0.0,4.0,8.5,8.7,8.4,8.7,8.7,8.5,8.6,8.3,8.6,8.5
+Guatemala Proyecto Xinabajul Chalum,Wet Process,0.0,0.0,3.0,2.0,1.0,0.0,1.0,3.0,1.0,0.0,1.0,3.0,8.3,8.6,8.5,8.6,8.8,8.5,8.5,8.5,8.0,8.5
+Guatemala Proyecto Xinabajul Cruz Grande,Wet Process,0.0,0.0,3.0,1.0,3.0,1.0,3.0,3.0,0.0,1.0,0.0,4.0,8.7,8.7,8.4,8.9,9.4,8.5,8.6,8.2,8.9,8.3
+Guatemala Proyecto Xinabajul Cuilco,Wet Process,0.0,1.0,2.0,3.0,1.0,1.0,1.0,4.0,1.0,0.0,0.0,4.0,8.6,8.7,7.8,8.7,8.9,8.5,8.7,8.5,8.3,8.3
+Guatemala Proyecto Xinabajul Donaldo Villatoro,Wet Process,0.0,2.0,3.0,1.0,3.0,1.0,2.0,3.0,1.0,0.0,2.0,3.0,8.7,8.8,8.7,9.0,8.7,8.7,8.7,8.5,8.9,8.5
+Guatemala Proyecto Xinabajul Familia Castillo,Wet Process,1.0,2.0,4.0,2.0,1.0,0.0,1.0,4.0,0.0,0.0,1.0,4.0,8.6,8.8,8.5,8.8,9.0,8.6,8.8,8.5,8.5,8.5
+Nicaragua Buenos Aires Los Pinos,Wet Process,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,2.0,1.0,0.0,3.0,8.2,8.5,8.0,8.3,8.8,8.2,8.4,8.3,7.7,8.3
+Guatemala Proyecto Xinabajul La Libertad,Wet Process,0.0,0.0,3.0,2.0,1.0,0.0,1.0,4.0,1.0,0.0,0.0,3.0,8.3,8.5,8.5,8.7,8.8,8.4,8.5,8.4,8.6,8.3
+Guatemala Proyecto Xinabajul Los Chuchitos,Wet Process,0.0,0.0,3.0,1.0,1.0,0.0,1.0,3.0,1.0,0.0,0.0,3.0,8.2,8.4,8.4,8.6,8.8,8.6,8.6,8.5,8.2,8.2
+Guatemala Proyecto Xinabajul Paraiso,Wet Process,0.0,1.0,3.0,3.0,0.0,2.0,0.0,4.0,2.0,0.0,0.0,3.0,8.4,8.7,8.6,8.6,8.7,8.3,8.8,8.4,8.3,8.3
+Guatemala Proyecto Xinabajul Peaberry,Wet Process,0.0,0.0,3.0,3.0,1.0,0.0,1.0,3.0,1.0,1.0,1.0,3.0,8.4,8.6,8.4,8.5,8.8,8.2,8.6,8.0,8.5,8.5
+Guatemala Proyecto Xinabajul Peaberry,Wet Process,0.0,2.0,3.0,1.0,1.0,0.0,0.0,3.0,2.0,0.0,1.0,3.0,8.5,8.6,8.5,8.7,8.8,8.5,8.7,8.5,8.3,9.0
+Guatemala Xinabajul Carmelino Sales,Wet Process,0.0,2.0,3.0,3.0,2.0,1.0,2.0,4.0,2.0,0.0,1.0,4.0,8.5,8.8,8.5,8.8,9.5,8.5,8.7,8.5,8.7,8.3
+Guatemala Xinabajul Cuchumatanes Producers,Wet Process,0.0,1.0,3.0,2.0,1.0,1.0,0.0,4.0,2.0,0.0,0.0,4.0,8.3,8.5,8.4,8.5,8.8,8.3,8.6,8.4,8.2,8.5
+Guatemala Xinabajul Familia Villatoro,Wet Process,0.0,0.0,3.0,2.0,1.0,1.0,1.0,4.0,2.0,0.0,0.0,4.0,8.5,8.7,8.4,8.6,9.5,8.5,8.5,8.5,8.0,8.5
+Guatemala Xinabajul Flavio Martinez,Wet Process,1.0,0.0,3.0,2.0,3.0,1.0,3.0,3.0,1.0,0.0,0.0,3.0,8.7,8.8,8.6,8.9,8.7,8.7,8.7,8.5,8.8,8.5
+Guatemala Xinabajul La Libertad,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,1.0,4.0,2.0,0.0,1.0,4.0,8.4,8.7,8.5,8.7,9.3,8.3,8.7,8.5,8.4,8.2
+Nicaragua Dipilto Monte Libano,Wet Process,0.0,1.0,2.0,3.0,1.0,0.0,1.0,4.0,2.0,0.0,0.0,4.0,8.3,8.5,8.2,8.5,9.0,8.2,8.4,8.5,7.5,8.5
+Guatemala Xinabajul Marca Roja,Wet Process,0.0,1.0,4.0,3.0,1.0,0.0,0.0,4.0,1.0,0.0,0.0,4.0,8.4,8.6,8.1,8.6,8.8,8.4,9.0,8.5,8.0,8.5
+Guatemala Xinabajul Mejor de Ixchil,Wet Process,1.0,0.0,3.0,2.0,2.0,0.0,2.0,4.0,1.0,0.0,1.0,3.0,8.6,8.6,8.5,8.7,8.8,8.4,8.7,8.3,8.5,8.5
+Guatemala Xinabajul Mejor de Libertad,Wet Process,0.0,1.0,3.0,4.0,1.0,0.0,1.0,4.0,2.0,0.0,1.0,4.0,8.6,8.9,8.6,8.8,8.8,8.7,9.0,8.7,8.4,8.5
+Guatemala Xinabajul Mejor de Peña,Wet Process,0.0,2.0,3.0,3.0,1.0,0.0,1.0,4.0,1.0,0.0,1.0,8.7,8.7,8.5,8.7,9.0,8.5,8.6,8.5,8.4,8.5,
+Honduras Buenos Aires Community,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,1.0,3.0,2.0,0.0,1.0,3.0,8.4,8.6,8.5,8.6,8.8,8.3,8.4,8.3,7.9,8.3
+Honduras Cerro Negro La Lesquiñada,Wet Process,0.0,0.0,3.0,2.0,2.0,0.0,2.0,4.0,2.0,1.0,0.0,4.0,8.5,8.7,8.4,8.6,8.9,8.4,8.6,8.3,8.7,8.3
+Honduras Comayagua Angel Vasquez,Wet Process,0.0,0.0,2.0,2.0,2.0,2.0,1.0,3.0,1.0,1.0,1.0,3.0,8.2,8.5,8.6,8.6,8.5,8.3,8.3,8.3,8.7,8.5
+Honduras Comayagua Nueva Alianza,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,1.0,4.0,2.0,1.0,0.0,4.0,8.6,8.7,8.6,8.7,8.8,8.5,8.6,8.3,8.7,8.5
+Honduras Corquín Sergio Romero,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,4.0,8.2,8.6,8.3,8.5,8.8,8.3,8.4,8.2,8.5,8.5
+Honduras San Sebastian Renan Perez,Wet Process,0.0,0.0,2.0,3.0,2.0,1.0,0.0,3.0,1.0,1.0,2.0,3.0,8.4,8.6,8.5,8.7,8.9,8.2,8.5,8.3,8.7,8.5
+Panama La Esmeralda Gesha 1500,Wet Process,4.0,0.0,3.0,0.0,3.0,3.0,1.0,0.0,0.0,0.0,2.0,4.0,9.2,9.7,8.8,9.6,9.0,9.5,8.7,9.0,9.8,9.0
+Mexico Special Prep Ixhuatlan Jesus Alberto,Other Processes,0.0,1.0,3.0,2.0,2.0,0.0,2.0,4.0,2.0,0.0,0.0,4.0,8.5,8.6,8.4,8.6,9.4,8.3,8.5,8.5,8.2,8.5
+Nicaragua Acopio Suyatal,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,1.0,4.0,2.0,0.0,0.0,4.0,8.3,8.5,8.4,8.6,9.0,8.3,8.5,8.5,7.7,8.5
+Nicaragua Acopio Suyatal,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,3.0,8.3,8.5,8.3,8.5,8.8,8.3,8.4,8.5,7.7,8.5
+Nicaragua Dipilto Finca La Laguna,Wet Process,0.0,1.0,2.0,2.0,0.0,0.0,0.0,4.0,2.0,0.0,1.0,3.0,8.0,8.5,8.3,8.3,8.9,8.0,8.2,8.5,7.5,9.0
+Nicaragua Dipilto Monte Libano,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,0.0,3.0,2.0,0.0,0.0,3.0,8.3,8.5,7.9,8.5,8.8,8.5,8.5,8.5,7.5,8.5
+Nicaragua Dry Process Acopio Suyatal,Dry Process,0.0,2.0,2.0,1.0,4.0,1.0,3.0,3.0,2.0,1.0,1.0,4.0,8.7,8.5,8.2,8.9,9.1,8.7,8.7,7.9,9.5,8.3
+Nicaragua Dry Process Buenos Aires Caturra,Dry Process,0.0,0.0,3.0,1.0,3.0,1.0,3.0,3.0,2.0,2.0,0.0,3.0,8.7,8.8,8.2,8.8,9.0,8.6,8.5,8.0,9.0,8.2
+Nicaragua Dry Process Buenos Aires Java,Dry Process,0.0,0.0,3.0,1.0,3.0,1.0,2.0,3.0,0.0,1.0,1.0,4.0,8.5,8.7,8.3,8.7,9.0,8.2,8.6,8.0,8.9,8.5
+Nicaragua Dry Process Buenos Aires Maracaturra,Dry Process,0.0,1.0,2.0,2.0,3.0,1.0,3.0,3.0,2.0,2.0,0.0,3.0,8.6,8.7,8.2,8.7,8.5,8.5,8.5,8.1,8.9,8.3
+Nicaragua Finca Buenos Aires Lot 1,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,2.0,0.0,1.0,3.0,8.2,8.5,8.4,8.5,8.6,8.2,8.4,8.5,7.8,8.5
+Sumatra Gayo Bintang DiRahmah,Wet Hulled,0.0,1.0,3.0,1.0,2.0,1.0,1.0,2.0,0.0,3.0,2.0,3.0,8.3,8.5,8.5,8.7,8.8,8.1,8.4,7.3,9.4,8.0
+Nicaragua Finca Buenos Aires Lot 1,Machine Washed,0.0,1.0,2.0,2.0,1.0,0.0,0.0,4.0,2.0,0.0,1.0,4.0,8.3,8.6,8.3,8.6,9.0,8.2,8.5,8.5,8.0,8.5
+Nicaragua Finca Buenos Aires Lot 2,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,2.0,0.0,1.0,3.0,8.2,8.4,8.3,8.5,8.6,8.2,8.4,8.3,7.8,8.5
+Nicaragua Jinotega Finca El Lino,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,0.0,4.0,2.0,0.0,0.0,4.0,8.2,8.5,8.3,8.5,9.3,8.5,8.4,8.5,7.8,8.5
+Panama Dry Process Finca Bambito Gesha,Dry Process,4.0,2.0,4.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,4.0,9.7,9.7,8.7,9.8,9.0,9.5,9.0,9.5,9.8,8.5
+Panama Honey Process Paso Ancho,Honey Process,0.0,3.0,2.0,1.0,1.0,0.0,0.0,3.0,2.0,1.0,0.0,4.0,8.3,8.6,8.0,8.5,9.4,8.3,8.5,8.3,8.6,8.5
+Panama Volcán Barú Estate,Wet Process,0.0,1.0,2.0,2.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,3.0,8.3,8.5,8.4,8.5,8.5,8.3,8.4,8.2,7.9,9.0
+Burundi Collines SWP Decaf,Wet Process then SWP Decaf,0.0,0.0,2.0,2.0,1.0,0.0,0.0,3.0,1.0,1.0,1.0,2.0,7.9,8.1,7.5,8.0,8.7,8.1,8.3,7.7,8.8,9.0
+Ethiopia Kafa Farmers SWP Decaf,Water Process Decaf,0.0,2.0,3.0,2.0,2.0,2.0,1.0,3.0,0.0,1.0,1.0,3.0,8.4,8.6,8.2,8.6,8.8,8.3,8.5,8.3,8.6,9.0
+Ethiopia Organic Limu SWP DP Decaf,Wet Process then SWP Decaf,1.0,1.0,2.0,2.0,2.0,0.0,2.0,3.0,0.0,2.0,1.0,3.0,8.4,8.6,8.2,8.5,8.7,8.3,8.5,7.5,9.0,9.0
+Indonesia Nusantara SWP Decaf,Water Process Decaf,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,3.0,8.2,8.3,8.3,8.4,8.8,7.7,8.2,7.6,8.0,9.0
+Sumatra Honey Process Kerinci Seblat,Honey Process,0.0,3.0,3.0,0.0,3.0,2.0,1.0,2.0,0.0,2.0,2.0,4.0,8.7,8.8,8.2,8.9,9.0,8.5,8.7,7.9,9.3,8.1
+Rwanda Nyamasheke SWP Decaf,Water Process Decaf,0.0,1.0,2.0,2.0,1.0,0.0,0.0,3.0,0.0,1.0,0.0,2.0,8.2,8.3,7.5,8.3,8.4,8.2,8.3,8.0,7.7,9.5
+Java Sunda Wet Hulled Mitra,Giling Basah,0.0,1.0,3.0,1.0,3.0,0.0,2.0,2.0,0.0,4.0,1.0,5.0,8.5,8.6,7.6,8.6,9.2,8.2,8.4,7.2,9.5,8.0
+Bali Wet Hulled Bangli Kintamani,Wet Hulled,0.0,0.0,3.0,1.0,2.0,0.0,1.0,3.0,1.0,3.0,1.0,4.0,7.8,8.2,7.5,8.3,9.0,7.7,8.5,7.0,8.8,8.2
+Flores Ata Gae,Wet Process,0.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,0.0,0.0,1.0,3.0,8.3,8.5,8.7,8.7,8.6,8.5,8.5,8.4,8.5,8.5
+Flores Honey Process Laga Lizu Marselina,Honey Process,0.0,0.0,2.0,0.0,2.0,0.0,2.0,2.0,0.0,2.0,1.0,2.0,8.3,8.5,8.5,8.5,8.6,8.1,8.3,8.0,8.7,8.0
+Flores Tangkul Village,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,8.5,8.6,8.5,8.5,8.8,8.5,8.5,8.5,7.7,8.5
+Flores Wolo Wio,Wet Process,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,2.0,1.0,0.0,4.0,8.2,8.4,8.0,8.4,9.0,8.3,8.3,8.2,7.7,8.5
+Java Sunda Wet Hulled Garut,Wet Hulled,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,4.0,2.0,4.0,7.8,8.1,7.5,8.0,9.3,7.6,8.3,7.0,9.5,8.2
+Java Sunda Wet Hulled Panawa,Wet Hulled,0.0,0.0,2.0,1.0,0.0,0.0,0.0,4.0,1.0,3.0,1.0,4.0,7.6,8.0,7.3,8.4,9.5,7.9,8.3,7.4,9.5,8.0
+Java Wet Hulled Frinsa Estate,Wet Hulled,0.0,0.0,2.0,2.0,1.0,1.0,0.0,5.0,1.0,4.0,2.0,5.0,7.5,8.2,7.0,8.0,9.8,8.0,8.3,7.0,9.3,8.2
+Sumatra Kerinci Honey Labu Tujuh Coop,Other Processes,0.0,1.0,4.0,1.0,3.0,2.0,3.0,3.0,0.0,2.0,2.0,4.0,8.5,8.8,8.4,8.8,9.3,8.3,8.9,7.5,9.2,8.0
+Sulawesi Red Honey Tana Luwu,Honey Process,0.0,1.0,3.0,1.0,3.0,1.0,3.0,1.0,0.0,1.0,2.0,3.0,8.7,8.7,8.7,8.9,8.8,8.7,8.6,8.4,8.8,8.5
+Sulawesi Yellow Honey Tana Luwu ,Honey Process,0.0,1.0,2.0,2.0,1.0,0.0,0.0,3.0,2.0,2.0,1.0,4.0,8.2,8.5,8.3,8.5,9.3,8.2,8.4,8.2,8.7,8.3
+Sumatra Aceh Bebesen Auliya,Wet Hulled,0.0,0.0,2.0,1.0,2.0,1.0,1.0,2.0,0.0,3.0,2.0,4.0,8.1,8.3,8.2,8.6,8.9,8.2,8.5,7.7,9.0,8.2
+Sumatra Aceh Tenang Uken,Wet Hulled,0.0,1.0,3.0,2.0,1.0,0.0,1.0,3.0,1.0,5.0,2.0,4.0,7.7,8.0,7.4,8.3,9.0,7.9,8.5,7.0,9.8,8.0
+Sumatra Aceh Tengah Bies,Wet Hulled,0.0,0.0,3.0,2.0,1.0,1.0,1.0,4.0,0.0,4.0,2.0,4.0,8.2,8.4,7.3,8.5,9.3,8.0,8.4,7.0,9.5,8.0
+Sumatra Aceh Tengah Bies,Giling Basah,0.0,0.0,3.0,2.0,1.0,1.0,1.0,4.0,0.0,4.0,2.0,4.0,8.0,8.4,7.6,8.5,9.3,7.2,8.6,7.0,9.5,8.0
+Sumatra Blue Toba Sibisa Motung,Wet Hulled,0.0,0.0,3.0,2.0,1.0,0.0,1.0,4.0,0.0,3.0,1.0,4.0,8.2,8.5,8.0,8.5,9.3,8.2,8.5,7.2,9.0,7.8
+Sumatra Dry Process Aceh Bebesen,Dry Process,0.0,1.0,2.0,2.0,4.0,1.0,3.0,3.0,0.0,4.0,2.0,4.0,7.7,8.8,8.1,8.8,9.2,8.5,8.5,7.0,9.5,8.0
+Sumatra Dry Process Gunung Tujuh,Dry Process,0.0,1.0,3.0,0.0,4.0,1.0,2.0,3.0,0.0,4.0,2.0,5.0,8.4,8.6,7.0,9.0,9.6,8.7,8.7,7.6,9.8,8.0
+Sumatra Honey Labu Aceh Mengaya,Other Processes,0.0,2.0,3.0,1.0,3.0,2.0,3.0,2.0,0.0,3.0,2.0,4.0,8.7,8.9,8.2,9.0,9.0,8.5,8.6,7.5,9.6,7.8
+Brazil Dry Process Fazenda Serrinha,Dry Process,0.0,1.0,2.0,1.0,1.0,0.0,0.0,4.0,3.0,2.0,0.0,3.0,8.1,8.3,7.3,8.2,8.8,7.8,8.2,8.0,8.5,8.0
+Sumatra Honey Process Bebesen Aulia,Honey Process,0.0,3.0,2.0,1.0,2.0,2.0,2.0,3.0,0.0,1.0,1.0,3.0,8.5,8.6,8.6,8.7,8.8,8.5,8.7,8.5,8.9,8.2
+Sumatra Honey Process Bebesen Auliya,Honey Process,0.0,1.0,3.0,1.0,1.0,0.0,1.0,3.0,0.0,2.0,2.0,3.0,8.2,8.5,8.3,8.6,8.8,8.2,8.5,8.3,8.7,8.5
+Sumatra Honey Process Kerinci Seblat,Honey Process,0.0,3.0,3.0,0.0,3.0,2.0,1.0,2.0,0.0,2.0,2.0,4.0,8.7,8.8,8.2,8.9,9.0,8.5,8.7,7.9,9.3,8.1
+Sumatra Kerinci Tujuh Cooperative,Giling Basah,0.0,2.0,3.0,1.0,2.0,0.0,2.0,3.0,2.0,3.0,1.0,4.0,8.5,8.6,8.1,8.8,9.0,8.4,8.6,8.2,9.2,8.0
+Sumatra Lintong Sigumpar Village,Wet Hulled,0.0,1.0,3.0,1.0,2.0,0.0,2.0,3.0,0.0,4.0,1.0,4.0,8.3,8.5,8.0,8.7,9.0,8.4,8.6,7.3,9.5,8.3
+Sumatra Sipangan Bolon Parapat Village,Wet Hulled,0.0,1.0,3.0,1.0,2.0,2.0,1.0,3.0,0.0,4.0,1.0,4.0,7.9,8.3,8.4,8.7,9.2,8.0,8.4,7.0,9.7,8.1
+Sumatra Wet Hulled Lues Cike,Giling Basah,1.0,1.0,3.0,0.0,2.0,1.0,2.0,2.0,1.0,3.0,1.0,4.0,8.0,8.3,8.2,8.5,8.8,8.2,8.3,7.8,9.0,8.0
+Sumatra Wet Process Gunung Tujuh,Wet Process,0.0,1.0,3.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,8.4,8.6,8.6,8.7,8.0,8.3,8.6,8.3,8.7,8.3
+Sumatra Wet Process Pantan Musara,Wet Process,0.0,2.0,3.0,1.0,1.0,1.0,0.0,4.0,0.0,1.0,2.0,4.0,8.5,8.7,8.5,8.8,9.0,8.3,8.5,7.7,8.9,8.2
+Timor Leste Dry Process Haupu,Dry Process,0.0,0.0,3.0,0.0,3.0,2.0,3.0,2.0,0.0,2.0,1.0,3.0,8.6,8.8,8.6,8.8,8.8,8.3,8.5,8.0,9.2,8.3
+Colombia Caicedo Las Alegrias,Wet Process,0.0,1.0,3.0,0.0,2.0,0.0,2.0,3.0,1.0,1.0,1.0,3.0,8.6,8.7,8.5,8.7,8.8,8.3,8.6,8.5,8.7,8.4
+Timor Leste Dukurai Daurfusu,Wet Process,0.0,0.0,2.0,0.0,2.0,2.0,0.0,4.0,1.0,1.0,1.0,3.0,8.3,8.5,8.4,8.6,8.5,8.3,8.5,8.2,8.8,8.5
+Timor Leste Haupu Lutlala,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,0.0,3.0,2.0,0.0,1.0,3.0,8.2,8.4,8.1,8.5,8.7,8.3,8.4,8.5,8.0,9.0
+Timor Leste Honey Process Haupu,Honey Process,0.0,1.0,3.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,8.3,8.6,8.4,8.6,8.2,8.5,8.6,8.5,8.8,8.5
+Timor Leste Mobere,Wet Process,0.0,1.0,2.0,1.0,1.0,1.0,1.0,3.0,1.0,0.0,1.0,2.0,8.3,8.5,8.6,8.6,8.3,8.2,8.6,8.3,8.1,8.3
+Papua New Guinea Baroida Estate,Wet Process,0.0,3.0,2.0,1.0,2.0,2.0,2.0,2.0,0.0,3.0,2.0,3.0,8.3,8.4,8.3,8.6,8.8,7.9,8.7,7.2,9.0,8.5
+Papua New Guinea Baroida Estate,Wet Process,0.0,1.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,3.0,2.0,3.0,8.5,8.7,8.6,8.7,8.5,8.3,8.6,7.7,9.0,8.5
+Papua New Guinea Kainantu Farmers,Wet Process,0.0,0.0,3.0,2.0,3.0,2.0,2.0,2.0,0.0,2.0,2.0,4.0,8.4,8.6,8.7,8.7,9.0,8.2,8.7,8.0,8.8,8.5
+Papua New Guinea Kainantu Urara  ,Wet Process,0.0,2.0,3.0,3.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,3.0,8.5,8.6,8.8,8.8,9.0,8.5,8.7,8.4,8.8,8.5
+Brazil Colinas de Pedralva,Dry Process,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,3.0,2.0,0.0,4.0,7.8,8.3,8.0,8.3,9.0,7.9,8.4,7.5,8.8,8.2
+Brazil Dry Process Agricultores Lambari,Dry Process,0.0,1.0,2.0,1.0,2.0,0.0,2.0,4.0,4.0,1.0,0.0,3.0,8.2,8.3,7.5,8.6,8.8,8.3,8.4,7.2,8.8,8.0
+Ethiopia Dry Process Mansur Aba Hikam,Dry Process,1.0,0.0,3.0,0.0,4.0,2.0,3.0,1.0,0.0,1.0,2.0,3.0,9.0,8.7,9.0,9.3,8.8,9.2,8.8,8.2,9.4,8.5
+Colombia Honey Process Nariño Aponte,Honey Process,0.0,1.0,3.0,1.0,2.0,1.0,2.0,4.0,1.0,1.0,2.0,4.0,8.6,8.7,8.3,8.6,9.0,8.5,8.6,8.3,8.6,8.2
+Brazil Dry Process Conceicao das Pedras,Dry Process,0.0,0.0,3.0,3.0,1.0,0.0,0.0,4.0,3.0,1.0,0.0,4.0,8.0,8.4,7.3,8.3,9.2,7.8,8.2,8.0,8.7,8.2
+Brazil Dry Process Fazenda Agua Limpia,Dry Process,0.0,1.0,2.0,2.0,1.0,0.0,1.0,4.0,3.0,1.0,0.0,3.0,8.2,8.3,7.6,8.3,8.8,7.8,8.2,7.9,8.7,8.2
+Brazil Dry Process Fazenda Alta Vista,Dry Process,0.0,1.0,2.0,2.0,1.0,0.0,0.0,4.0,3.0,1.0,0.0,3.0,8.0,8.1,7.6,8.3,9.0,7.9,8.2,7.9,8.6,8.2
+Brazil Dry Process Minas Café Pequeño,Dry Process,0.0,0.0,2.0,2.0,1.0,0.0,1.0,4.0,3.0,2.0,1.0,3.0,7.7,8.2,7.8,8.3,8.8,7.9,8.2,7.5,9.0,8.0
+Brazil Dry Process Pedra Branca Lot 2,Dry Process,0.0,1.0,2.0,2.0,1.0,0.0,0.0,4.0,3.0,2.0,1.0,4.0,7.8,8.2,7.2,8.3,8.7,7.8,8.0,7.0,8.5,8.0
+Brazil Dry Process Pedra Branca Yellow Bourbon,Dry Process,0.0,0.0,2.0,2.0,2.0,0.0,2.0,4.0,3.0,1.0,0.0,4.0,8.2,8.5,7.7,8.5,9.0,7.8,8.3,7.8,9.3,8.0
+Brazil Dry Process Sítio Alto da Serra,Dry Process,0.0,1.0,2.0,2.0,1.0,0.0,1.0,4.0,4.0,2.0,0.0,3.0,8.0,8.4,7.7,8.3,8.8,8.1,8.3,7.9,7.6,8.3
+Brazil Dry Process Sítio Cocho Velho,Dry Process,0.0,1.0,2.0,2.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,3.0,8.2,8.4,7.2,8.3,8.4,7.9,8.2,7.5,8.3,7.8
+Brazil Dry Process Sitio Sao Jose,Dry Process,0.0,1.0,2.0,2.0,1.0,0.0,1.0,4.0,3.0,2.0,0.0,4.0,7.8,8.2,7.4,8.2,9.0,7.9,8.2,7.4,8.9,8.0
+Brazil Minasul Competition Heitor Santana Botelho,Dry Process,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,2.0,2.0,0.0,3.0,7.8,7.9,6.7,7.9,8.8,7.0,8.0,7.0,7.5,8.5
+Colombia Ibagué Rio Combeima,Wet Process,0.0,2.0,3.0,2.0,2.0,0.0,2.0,1.0,0.0,1.0,2.0,3.0,8.6,8.7,8.5,8.7,8.9,8.5,8.6,8.2,8.6,8.2
+Brazil Pulp Natural Fazenda Alta Vista,Pulp Natural,0.0,0.0,2.0,2.0,0.0,0.0,0.0,3.0,2.0,1.0,0.0,2.0,7.9,8.1,7.2,8.3,8.3,7.5,8.2,7.3,8.7,8.0
+Brazil Pulp Natural Fazenda Santa Lucia,Pulp Natural,0.0,1.0,2.0,2.0,1.0,0.0,1.0,3.0,3.0,1.0,0.0,3.0,8.2,8.3,7.6,8.3,8.7,8.0,8.1,8.0,8.6,8.0
+Brazil Pulp Natural Fazenda Sertao Yellow Bourbon,Pulp Natural,0.0,1.0,2.0,2.0,0.0,0.0,0.0,4.0,3.0,1.0,0.0,4.0,8.0,8.3,7.6,8.3,8.8,7.9,8.2,7.7,8.7,8.0
+Brazil Pulp Natural Pedra Branca,Pulp Natural,0.0,1.0,2.0,2.0,1.0,0.0,1.0,3.0,3.0,1.0,1.0,3.0,7.8,8.2,7.9,8.3,8.6,7.7,8.0,8.0,8.3,8.2
+Colombia Buesaco Alianza de Granjeros,Wet Process,0.0,1.0,3.0,2.0,2.0,0.0,2.0,3.0,1.0,0.0,2.0,4.0,8.6,8.8,8.6,9.0,9.0,8.8,8.7,8.5,8.8,8.2
+Colombia Buesaco Luis Fernando Benavidez,Wet Process,0.0,1.0,3.0,3.0,1.0,0.0,1.0,3.0,2.0,0.0,0.0,3.0,8.6,8.7,8.5,8.7,8.8,8.5,8.6,8.4,8.5,8.3
+Colombia Buesaco Veredas Vecinas,Wet Process,1.0,2.0,3.0,3.0,2.0,0.0,0.0,4.0,1.0,0.0,0.0,3.0,8.4,8.7,8.5,8.6,8.8,8.3,8.6,8.3,8.3,8.5
+Colombia Caicedo Bernardo Montoya,Wet Process,0.0,1.0,2.0,2.0,1.0,0.0,1.0,3.0,2.0,1.0,1.0,2.0,8.2,8.5,8.2,8.5,8.5,8.4,8.4,8.3,8.7,8.3
+Colombia Caicedo Las Alegrías,Wet Process,0.0,0.0,2.0,1.0,2.0,1.0,2.0,2.0,0.0,1.0,2.0,3.0,8.5,8.7,8.3,8.6,8.7,8.4,8.6,8.2,8.8,8.2
+Colombia Doña Yessica Heirloom Caturra,Wet Process,2.0,1.0,3.0,0.0,2.0,1.0,2.0,1.0,0.0,0.0,2.0,3.0,8.8,9.0,8.7,9.1,8.8,9.2,8.7,8.6,9.0,8.3
+Colombia Tolima Productores de Ibagué,Wet Process,0.0,1.0,3.0,3.0,2.0,0.0,2.0,4.0,1.0,1.0,2.0,4.0,8.7,8.8,8.0,8.8,9.3,8.6,8.7,8.5,8.8,8.5
+Colombia Dry Process Palomos del Sur,Dry Process,0.0,1.0,3.0,2.0,3.0,2.0,3.0,3.0,1.0,2.0,1.0,4.0,8.7,8.8,8.5,8.8,8.8,8.3,8.6,8.2,9.1,8.3
+Colombia Grupo de Caicedo,Wet Process,0.0,2.0,3.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,3.0,8.7,8.8,8.6,9.0,8.7,8.7,8.7,8.2,9.0,8.5
+Colombia Honey Las Aguilas Gesha,Honey Process,3.0,1.0,3.0,1.0,3.0,2.0,3.0,1.0,0.0,1.0,1.0,3.0,9.3,9.5,8.5,9.3,8.9,9.2,8.8,8.5,9.5,8.5
+Colombia Honey Process Aponte Community,Honey Process,0.0,2.0,3.0,2.0,3.0,1.0,3.0,3.0,1.0,2.0,1.0,3.0,8.7,8.8,8.6,8.8,8.6,8.5,8.7,8.2,8.9,8.0
+Colombia Ibagué Rio Combeima,Wet Process,0.0,0.0,3.0,1.0,2.0,2.0,2.0,2.0,0.0,1.0,0.0,3.0,8.5,8.7,8.5,8.7,8.5,8.5,8.5,8.3,8.8,8.0
+Colombia Inzá Carlos Apio,Wet Process,0.0,1.0,3.0,0.0,3.0,1.0,2.0,2.0,0.0,1.0,2.0,3.0,8.6,8.7,8.2,8.8,8.5,8.4,8.8,8.2,8.9,8.3
+Colombia Inzá Las Estrellas,Wet Process,0.0,3.0,3.0,1.0,2.0,1.0,1.0,3.0,0.0,0.0,1.0,3.0,8.5,8.8,8.6,8.8,9.0,8.5,8.7,8.5,8.8,8.5
+Colombia Inzá Las Estrellas,Wet Process,1.0,3.0,2.0,0.0,2.0,1.0,2.0,3.0,0.0,0.0,1.0,3.0,8.7,8.8,8.6,9.0,9.0,8.7,8.8,8.5,8.5,8.5
+Colombia Inzá Palomos del Sur,Wet Process,0.0,0.0,3.0,1.0,1.0,1.0,2.0,2.0,0.0,1.0,1.0,3.0,8.3,8.6,8.4,8.5,8.7,8.2,8.5,8.3,8.7,8.5
+Colombia Inzá Rio Paez ,Wet Process,0.0,2.0,3.0,1.0,2.0,1.0,2.0,3.0,0.0,0.0,1.0,3.0,8.5,8.7,8.5,8.7,8.8,8.3,8.6,8.3,8.6,8.5
+Sweet Maria's Polar Expresso Holiday Blend,Other Processes,1.0,0.0,4.0,4.0,3.0,3.0,3.0,5.0,0.0,1.0,2.0,4.0,8.7,9.0,8.7,9.0,9.5,9.1,9.0,8.2,9.3,9.5
+Colombia Inzá Vereda San Antonio,Wet Process,0.0,1.0,3.0,1.0,1.0,0.0,1.0,2.0,0.0,0.0,2.0,3.0,8.6,8.7,8.5,8.7,8.7,8.2,8.7,8.2,8.7,8.0
+Colombia Inzá Veredas Vecinas,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,1.0,3.0,2.0,0.0,1.0,3.0,8.5,8.6,8.4,8.7,8.7,8.5,8.6,8.5,8.5,8.5
+Colombia Inzá Veredas Vecinas,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,1.0,4.0,0.0,2.0,1.0,4.0,8.3,8.6,8.4,8.6,9.0,8.0,8.6,7.8,8.0,8.7
+Colombia Inzá Veredas Vecinas,Wet Process,0.0,1.0,3.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,8.5,8.6,8.5,8.7,8.2,8.2,8.5,8.3,8.6,8.5
+Colombia Machín Rosemberg Martínez,Wet Process,0.0,2.0,2.0,0.0,2.0,1.0,2.0,1.0,0.0,1.0,2.0,3.0,8.5,8.7,8.5,8.7,8.3,8.4,8.6,8.2,8.8,8.2
+Colombia Nariño Las Estrellas,Wet Process,1.0,3.0,4.0,2.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,4.0,8.8,9.0,8.6,9.2,8.8,8.7,9.3,8.7,8.9,8.5
+Colombia Nariño Mejor de San Pedro,Wet Process,1.0,3.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,4.0,8.7,8.8,8.7,8.8,9.0,8.7,9.0,8.7,8.8,8.5
+Colombia Pavon Finca Los Palomos,Wet Process,1.0,0.0,3.0,1.0,2.0,1.0,2.0,2.0,0.0,1.0,1.0,4.0,8.7,8.8,8.2,9.0,9.0,8.6,8.5,8.3,9.0,8.2
+Colombia Pavón Finca Los Palomos,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,2.0,3.0,8.7,9.0,8.5,8.8,8.8,8.6,8.7,8.4,8.9,8.3
+Colombia San Antonio Palomos del Sur,Wet Process,0.0,1.0,3.0,3.0,1.0,0.0,1.0,4.0,2.0,1.0,0.0,4.0,8.3,8.6,8.0,8.5,9.0,8.2,8.6,8.3,8.6,8.5
+Burundi Dry Process Gaterama Agahore,Dry Process,0.0,1.0,3.0,1.0,4.0,1.0,3.0,3.0,0.0,3.0,2.0,4.0,8.8,8.8,8.2,9.0,9.3,8.7,8.7,7.3,9.7,7.8
+Colombia Tolima Ibagué China Alta,Wet Process,0.0,1.0,3.0,2.0,3.0,0.0,3.0,3.0,1.0,1.0,1.0,4.0,8.7,8.9,8.4,9.0,9.3,8.5,8.7,8.2,9.0,8.0
+Colombia Tolima Sandoval Moka 11 Screen,Wet Process,1.0,1.0,3.0,2.0,1.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,8.5,8.6,8.6,8.6,8.8,8.6,8.7,8.5,8.6,9.0
+Colombia Urraeños de Pavón,Wet Process,1.0,2.0,3.0,2.0,2.0,1.0,2.0,3.0,0.0,0.0,1.0,3.0,8.6,8.8,8.6,8.8,8.7,8.6,8.8,8.3,8.9,8.2
+Colombia Urrao Finca Los Palomos,Wet Process,0.0,0.0,3.0,1.0,2.0,2.0,2.0,3.0,0.0,1.0,2.0,4.0,8.8,8.9,8.2,8.9,9.0,8.7,8.7,8.3,9.0,8.5
+Colombia Urrao Fray David Moreno,Wet Process,0.0,1.0,3.0,1.0,3.0,1.0,2.0,2.0,0.0,1.0,1.0,3.0,8.7,8.7,8.4,8.8,8.8,8.3,8.6,8.2,8.9,8.3
+Colombia Urrao Valle del Penderisco,Wet Process,0.0,1.0,3.0,0.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,4.0,8.7,8.8,8.5,8.8,9.0,8.5,8.7,8.5,8.7,8.2
+Colombia Valle de Penderisco,Wet Process,0.0,0.0,3.0,2.0,2.0,1.0,2.0,3.0,0.0,1.0,0.0,3.0,8.7,8.8,8.5,8.7,8.6,8.6,8.6,8.1,8.9,8.0
+Peru Alto Pirias Graciela Espinoza,Wet Process,0.0,1.0,2.0,2.0,2.0,0.0,1.0,3.0,1.0,0.0,1.0,3.0,8.6,8.7,8.5,8.7,8.7,8.2,8.6,8.5,8.7,8.4
+Peru Alto Pirias Juan Espinoza,Wet Process,0.0,0.0,3.0,3.0,2.0,1.0,1.0,4.0,0.0,0.0,1.0,4.0,8.6,8.6,8.7,8.7,9.2,8.5,8.8,8.5,8.6,8.3
+Peru Caserio Buenos Aires ,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,1.0,3.0,2.0,0.0,0.0,2.0,8.4,8.5,8.5,8.6,8.4,8.4,8.5,8.5,8.1,8.5
+Burundi Dry Process Kayanza Nemba,Dry Process,0.0,1.0,3.0,1.0,4.0,1.0,3.0,3.0,0.0,2.0,1.0,4.0,8.9,9.0,7.5,9.0,9.0,8.6,8.7,8.1,9.3,8.0
+Peru El Diamante Don Elvis,Wet Process,0.0,1.0,3.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,3.0,8.5,8.7,8.5,8.7,8.5,8.5,8.6,8.2,8.9,8.2
+Peru Fair Trade Organic Ysauro Tocto,Wet Process,0.0,1.0,2.0,2.0,1.0,0.0,0.0,4.0,2.0,0.0,0.0,4.0,8.3,8.4,8.4,8.5,9.3,8.2,8.4,8.5,7.9,8.5
+Peru Huabal El Paraiso,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,1.0,4.0,2.0,0.0,1.0,4.0,8.3,8.5,8.0,8.5,9.3,8.3,8.4,8.5,7.7,8.5
+Peru Huabal Perlamayo ,Wet Process,0.0,0.0,2.0,2.0,1.0,0.0,1.0,4.0,2.0,0.0,0.0,3.0,8.5,8.6,8.3,8.5,8.4,8.4,8.5,8.5,7.8,8.5
+Peru Huabal San Francisco,Wet Process,0.0,1.0,2.0,2.0,1.0,1.0,1.0,3.0,1.0,0.0,0.0,3.0,8.5,8.7,8.4,8.6,8.8,8.4,8.5,8.5,8.5,8.3
+Peru La Huaca Calistro Cordova,Wet Process,0.0,0.0,3.0,1.0,2.0,1.0,1.0,2.0,0.0,0.0,1.0,2.0,8.3,8.6,8.6,8.7,8.3,8.3,8.5,8.4,8.5,8.5
+Peru Organic Agapito Rivera,Wet Process,0.0,0.0,2.0,3.0,2.0,0.0,2.0,3.0,0.0,0.0,1.0,3.0,8.6,8.8,8.5,8.8,8.9,8.5,8.6,8.5,8.8,8.5
+Peru Oscar Segura Vasquez,Wet Process,0.0,2.0,3.0,1.0,2.0,1.0,2.0,4.0,0.0,0.0,1.0,4.0,8.7,8.8,8.6,8.8,9.0,8.7,8.7,8.5,8.7,8.5
+Peru San Francisco David Garcia,Wet Process,0.0,2.0,3.0,2.0,2.0,0.0,2.0,3.0,2.0,0.0,0.0,4.0,8.6,8.7,8.5,8.8,8.9,8.6,8.6,8.5,8.7,8.3
+Espresso Workshop #46 Hama-O-Rama,Machine Washed,1.0,1.0,4.0,3.0,2.0,2.0,2.0,5.0,0.0,0.0,2.0,5.0,8.7,8.7,8.8,9.3,9.3,8.7,8.7,8.5,9.0,9.0
+Burundi Dry Process Kibingo,Dry Process,0.0,0.0,3.0,0.0,4.0,0.0,3.0,2.0,0.0,2.0,2.0,4.0,8.3,8.4,8.2,8.9,9.0,8.7,8.7,8.0,9.0,8.3
+Sweet Maria's Polar Expresso Holiday Blend,Wet Process,1.0,2.0,3.0,3.0,3.0,2.0,3.0,4.0,0.0,1.0,1.0,5.0,8.7,8.8,8.8,9.0,9.3,9.2,8.7,8.3,9.2,8.5
+Burundi Dry Process Murambi,Dry Process,0.0,1.0,3.0,2.0,3.0,0.0,3.0,4.0,0.0,2.0,2.0,4.0,8.5,8.6,8.2,8.7,9.3,8.4,8.7,8.0,9.2,8.2
+Burundi Gatare Masha,Wet Process,2.0,3.0,4.0,1.0,2.0,2.0,0.0,3.0,0.0,0.0,3.0,3.0,9.2,9.4,8.7,9.4,8.8,9.3,9.0,8.7,9.5,8.5
+Burundi Kabarore Commune Yandaro ,Wet Process,0.0,0.0,3.0,2.0,2.0,2.0,1.0,2.0,0.0,1.0,3.0,2.0,8.7,8.8,8.7,8.8,8.3,8.6,8.6,8.0,8.9,8.0
+Ethiopia Gera Genji Challa,Wet Process,3.0,3.0,2.0,0.0,3.0,2.0,0.0,2.0,0.0,0.0,2.0,3.0,9.2,9.5,9.0,9.3,8.7,9.4,8.8,9.0,9.4,8.7
+Burundi Kayanza Dusangirijambo Coop,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,1.0,3.0,0.0,1.0,2.0,3.0,8.6,8.7,8.5,8.7,8.5,8.5,8.7,8.2,8.7,8.0
+Burundi Kayanza Dusangirijambo Coop,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,3.0,2.0,8.7,8.8,8.5,8.9,8.4,8.7,8.6,8.5,9.0,8.2
+Burundi Kayanza Dusangirijambo Coop Lot #1810,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,3.0,3.0,8.8,8.9,8.6,9.0,8.6,8.5,8.7,8.4,8.9,8.0
+Burundi Kayanza Gahahe,Wet Process,1.0,1.0,3.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,2.0,2.0,8.9,9.0,8.8,9.2,8.4,9.0,8.7,9.0,9.0,8.5
+Burundi Kayanza Gakenke,Wet Process,1.0,4.0,2.0,2.0,2.0,2.0,1.0,4.0,0.0,2.0,3.0,3.0,8.7,8.9,8.8,8.8,9.1,8.0,8.6,7.9,8.9,8.3
+Burundi Kazoza N'Ikawa Station,Wet Process,1.0,1.0,3.0,2.0,2.0,3.0,1.0,2.0,0.0,0.0,2.0,3.0,8.7,8.8,8.8,9.0,8.5,8.6,8.7,8.5,8.9,8.0
+Burundi Kazoza N'ikawa Station,Wet Process,1.0,2.0,3.0,1.0,2.0,2.0,2.0,2.0,0.0,0.0,3.0,3.0,8.7,8.8,8.8,9.0,8.6,8.8,8.7,8.5,9.0,8.4
+Burundi Kibumbu Kayokwe,Wet Process,0.0,2.0,3.0,2.0,2.0,2.0,0.0,3.0,1.0,0.0,2.0,3.0,8.5,8.6,8.7,8.7,9.0,8.5,8.6,8.5,8.7,8.0
+Burundi Kiganda Murambi Station,Wet Process,1.0,2.0,3.0,1.0,2.0,0.0,2.0,2.0,0.0,1.0,3.0,3.0,8.8,9.0,8.5,9.0,8.7,8.2,8.7,7.9,9.2,8.0
+Burundi Monge Murambi Hill,Wet Process,0.0,2.0,3.0,1.0,2.0,1.0,2.0,3.0,0.0,0.0,2.0,3.0,8.7,8.8,8.4,8.7,8.8,8.6,8.6,8.4,8.8,8.0
+Ethiopia Guji Hambela Dabaye,Wet Process,2.0,2.0,4.0,2.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,4.0,9.0,9.3,8.9,9.1,9.5,8.8,9.3,8.5,9.0,8.5
+Burundi Mutambu Colline Migoti,Wet Process,0.0,1.0,3.0,2.0,2.0,2.0,1.0,3.0,0.0,0.0,2.0,3.0,8.7,8.8,8.8,8.8,8.8,8.7,8.7,8.5,8.8,8.5
+Burundi Mutambu Rugembe Hill,Wet Process,0.0,1.0,3.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,3.0,8.6,8.8,8.7,8.7,8.5,8.5,8.6,8.5,8.7,8.0
+Burundi Rwiri Yagikawa Station,Wet Process,0.0,2.0,3.0,2.0,1.0,1.0,1.0,4.0,0.0,0.0,3.0,4.0,8.7,8.7,8.6,8.8,8.9,8.7,8.7,8.8,8.8,8.3
+Burundi Rwiri Yagikawa Station,Wet Process,2.0,1.0,3.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,3.0,3.0,9.0,9.0,9.0,9.3,8.5,9.1,8.7,8.8,9.0,8.5
+Burundi Yeast Fermentaion Yandaro,Other Processes,0.0,1.0,2.0,2.0,2.0,2.0,1.0,4.0,0.0,2.0,3.0,4.0,8.3,8.6,8.9,8.7,9.5,8.6,8.5,8.0,9.0,8.0
+Ethiopia Agaro Duromina Coop Lot 17,Wet Process,1.0,2.0,3.0,1.0,2.0,2.0,2.0,3.0,0.0,1.0,2.0,3.0,8.9,9.0,8.8,9.0,8.8,8.7,8.6,8.5,9.0,8.5
+Ethiopia Agaro Genji Challa Lot 13,Wet Process,1.0,3.0,3.0,1.0,3.0,2.0,1.0,1.0,0.0,0.0,2.0,3.0,9.0,8.9,8.8,9.4,8.8,9.0,8.8,8.5,9.2,8.5
+Ethiopia Agaro Geta Bore,Wet Process,0.0,1.0,3.0,2.0,1.0,0.0,0.0,2.0,0.0,3.0,3.0,3.0,8.5,8.8,8.4,8.7,8.9,8.2,8.7,7.8,9.1,8.5
+Ethiopia Agaro Kedamai Cooperative,Wet Process,2.0,2.0,3.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,8.8,9.0,8.8,9.3,8.0,8.7,8.6,8.9,9.0,9.0
+Ethiopia Agaro Kenisa,Wet Process,2.0,2.0,3.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,2.0,3.0,8.7,8.9,8.9,9.2,8.8,8.9,8.7,8.5,9.1,8.3
+Kenya Nyeri Gachatha AB,Wet Process,1.0,0.0,3.0,0.0,3.0,3.0,3.0,2.0,0.0,0.0,2.0,4.0,9.3,9.5,9.5,9.6,9.0,9.2,8.9,8.4,9.7,9.0
+Ethiopia Agaro Nano Challa Lot 10,Wet Process,2.0,3.0,2.0,1.0,3.0,3.0,2.0,2.0,0.0,1.0,3.0,4.0,9.0,9.3,8.8,9.3,9.0,8.7,8.8,8.2,9.4,8.5
+Ethiopia Agaro Sadi Loya Coop,Wet Process,1.0,2.0,3.0,1.0,2.0,2.0,1.0,3.0,0.0,0.0,1.0,3.0,8.7,8.7,8.6,8.8,8.9,8.6,8.7,8.5,8.7,8.5
+Ethiopia Agaro Tuma Tesso,Wet Process,2.0,2.0,3.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,8.6,8.8,9.0,9.1,8.2,8.9,8.6,8.7,9.1,8.5
+Ethiopia Bensa Asefa Qonqana,Wet Process,4.0,1.0,3.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,2.0,9.7,9.8,9.0,9.7,8.3,9.7,9.0,9.2,9.7,8.5
+Ethiopia Dry Process Bashasha Aba Nura,Dry Process,1.0,0.0,3.0,1.0,4.0,1.0,3.0,3.0,0.0,2.0,1.0,4.0,8.7,9.0,8.3,9.2,9.0,8.8,8.7,8.0,9.5,8.2
+Ethiopia Dry Process Benti Nenka,Dry Process,1.0,1.0,4.0,1.0,5.0,0.0,3.0,3.0,0.0,2.0,3.0,5.0,9.3,9.5,8.4,9.6,9.5,9.0,9.0,8.3,10.0,8.0
+Ethiopia Dry Process Genji Challa,Dry Process,2.0,0.0,3.0,0.0,4.0,1.0,3.0,2.0,0.0,3.0,2.0,4.0,9.0,9.3,8.5,9.0,9.0,8.8,8.7,8.0,9.5,8.3
+Ethiopia Dry Process Guji Gerbicho Rogicha,Dry Process,4.0,1.0,4.0,0.0,4.0,2.0,4.0,2.0,0.0,2.0,1.0,4.0,9.0,9.5,8.6,9.7,9.0,9.3,9.0,8.3,9.8,8.2
+Ethiopia Dry Process Guji Hambela,Dry Process,2.0,0.0,3.0,0.0,5.0,2.0,4.0,3.0,0.0,2.0,2.0,5.0,9.3,9.5,8.6,9.3,9.5,9.0,9.0,8.2,9.8,8.3
+Ethiopia Dry Process Guji Shakiso Hambela Dabaye,Dry Process,1.0,0.0,2.0,1.0,4.0,2.0,4.0,3.0,0.0,1.0,2.0,4.0,9.0,9.3,8.6,9.2,8.7,9.0,8.8,8.2,9.6,8.2
+Kenya Nyeri Ichamama AB ,Wet Process,0.0,1.0,3.0,2.0,3.0,3.0,2.0,0.0,0.0,0.0,1.0,3.0,9.0,9.3,9.5,9.0,8.8,9.0,8.7,9.0,9.4,8.8
+Ethiopia Dry Process Hamasho Village,Dry Process,2.0,1.0,2.0,0.0,5.0,3.0,3.0,1.0,0.0,0.0,2.0,4.0,9.7,9.7,8.8,9.8,9.2,9.5,9.2,8.7,9.8,8.5
+Ethiopia Dry Process Hambela Buku 13 Screen,Dry Process,2.0,1.0,3.0,3.0,3.0,0.0,3.0,3.0,0.0,3.0,1.0,4.0,8.8,8.9,8.0,8.9,9.5,8.7,8.7,7.5,9.3,7.7
+Ethiopia Dry Process Hambela Goro,Dry Process,2.0,0.0,3.0,0.0,4.0,1.0,4.0,3.0,0.0,2.0,2.0,4.0,9.0,9.2,8.0,9.3,9.2,8.8,9.0,7.7,9.8,8.0
+Ethiopia Dry Process Jimma Aba Simel,Dry Process,1.0,2.0,3.0,0.0,4.0,2.0,3.0,2.0,0.0,1.0,1.0,4.0,8.9,9.2,8.6,9.3,9.0,8.8,8.7,8.3,9.5,8.2
+Ethiopia Dry Process Kebele Keramo,Dry Process,2.0,0.0,3.0,0.0,5.0,2.0,3.0,1.0,0.0,2.0,2.0,4.0,9.4,9.6,8.7,9.6,9.0,8.9,8.8,8.2,10.0,8.2
+Ethiopia Dry Process Shakiso Korommii,Dry Process,1.0,0.0,3.0,0.0,4.0,2.0,4.0,4.0,0.0,3.0,1.0,4.0,8.7,8.8,8.5,8.8,9.3,8.0,8.6,7.7,9.4,8.2
+Ethiopia Dry Process Suke Quto Daannisa,Dry Process,2.0,0.0,3.0,1.0,4.0,2.0,4.0,3.0,0.0,2.0,2.0,3.0,9.0,9.2,8.5,9.2,8.7,8.9,8.7,8.2,9.4,8.2
+Ethiopia Guji Hambela Wamena Akrabi,Wet Process,4.0,2.0,3.0,1.0,2.0,3.0,2.0,1.0,0.0,0.0,2.0,2.0,9.3,9.7,9.2,9.6,8.0,9.4,9.1,9.0,9.6,8.7
+Ethiopia Guji Uraga Tome,Wet Process,3.0,2.0,3.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,2.0,8.8,9.5,8.7,9.6,8.2,9.2,9.0,8.5,9.5,9.0
+Ethiopia Guji Uraga Yabitu,Wet Process,4.0,1.0,4.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,3.0,9.7,9.8,9.0,9.8,8.5,9.5,9.0,9.5,9.8,8.5
+Kenya Nyeri Kamoini AB,Wet Process,1.0,1.0,3.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,4.0,9.0,9.4,9.0,9.0,9.2,8.9,8.7,8.8,9.3,8.5
+Ethiopia Kochore Jet Hama,Wet Process,4.0,3.0,3.0,1.0,3.0,3.0,2.0,2.0,0.0,0.0,0.0,3.0,9.4,9.5,8.8,9.5,8.5,9.0,8.8,9.0,9.4,8.3
+Ethiopia Limu Musa Aba Lulesa,Wet Process,2.0,3.0,2.0,1.0,2.0,3.0,1.0,1.0,0.0,0.0,0.0,4.0,8.8,9.0,8.7,9.2,9.0,8.9,8.8,8.7,9.3,8.5
+Ethiopia Organic Dry Process Limu Kossa Farm,Dry Process,1.0,1.0,3.0,1.0,4.0,0.0,3.0,3.0,0.0,2.0,2.0,4.0,8.8,8.9,7.8,8.9,9.5,8.6,8.7,8.0,9.5,8.2
+Ethiopia Organic Dry Process Shakiso Bookkisa,Dry Process,2.0,0.0,3.0,0.0,4.0,2.0,4.0,0.0,0.0,1.0,2.0,4.0,9.5,9.7,8.7,9.5,8.7,9.3,9.0,8.7,9.8,8.3
+Ethiopia Organic Dry Process Shakiso Hangadhi,Dry Process,1.0,0.0,3.0,2.0,3.0,1.0,3.0,4.0,0.0,3.0,2.0,3.0,8.7,8.8,8.5,8.8,8.8,8.3,8.7,8.0,9.3,8.3
+Ethiopia Organic Dry Process Sidama Bombe,Dry Process,2.0,1.0,4.0,2.0,5.0,2.0,4.0,2.0,0.0,2.0,3.0,4.0,9.2,9.3,8.7,9.6,9.3,8.8,9.1,8.2,9.8,8.0
+Ethiopia Organic Dry Process Sidama Keramo,Dry Process,2.0,2.0,3.0,1.0,4.0,1.0,4.0,2.0,0.0,1.0,2.0,4.0,9.3,9.5,8.7,9.5,9.5,9.0,9.0,8.5,9.8,8.2
+Ethiopia Organic Dry Process Sidama Shantawene,Dry Process,2.0,1.0,3.0,1.0,4.0,3.0,4.0,2.0,0.0,0.0,2.0,4.0,9.4,9.6,8.7,9.7,9.2,9.2,9.0,8.2,9.8,8.2
+Ethiopia Organic Sidama Keramo,Wet Process,3.0,2.0,3.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,2.0,9.0,9.2,8.7,9.3,8.6,9.0,8.7,8.8,9.5,8.5
+Ethiopia Organic Sidama Shantawene Village,Wet Process,2.0,3.0,4.0,2.0,2.0,2.0,2.0,1.0,0.0,0.0,2.0,3.0,9.0,9.0,8.8,9.4,8.7,9.0,9.6,9.0,9.2,8.3
+Kenya Nyeri Kiandu AB,Wet Process,1.0,0.0,4.0,1.0,3.0,2.0,3.0,1.0,0.0,1.0,3.0,3.0,9.1,9.3,9.0,9.3,8.8,9.4,8.9,8.5,9.3,9.0
+Ethiopia Sidama Damo,Wet Process,2.0,2.0,4.0,0.0,2.0,2.0,2.0,2.0,0.0,0.0,3.0,3.0,9.0,9.4,9.0,9.0,8.7,9.0,9.2,9.0,9.0,9.0
+Ethiopia Sidama Shantawene Village,Wet Process,3.0,1.0,3.0,0.0,2.0,2.0,2.0,1.0,0.0,0.0,2.0,2.0,9.5,9.6,9.0,9.5,8.5,9.4,9.0,9.0,9.5,9.0
+Ethiopia Uraga Tebe Haro Wato,Wet Process,2.0,4.0,3.0,0.0,3.0,2.0,2.0,2.0,0.0,0.0,2.0,4.0,9.0,9.5,8.9,9.5,9.0,9.4,9.0,9.1,9.6,9.0
+Ethiopia Yirga Cheffe Kebele Foge,Wet Process,3.0,2.0,3.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,8.8,9.0,8.7,9.0,8.2,8.8,8.7,8.5,9.2,8.5
+Ethiopia Yirga Cheffe Konga Station,Wet Process,4.0,2.0,3.0,0.0,3.0,2.0,2.0,0.0,0.0,1.0,1.0,2.0,9.3,9.6,8.8,9.5,8.5,9.2,8.7,8.4,9.5,8.2
+Ethiopia Yukiro Cooperative,Wet Process,2.0,1.0,3.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,1.0,2.0,8.8,8.8,8.8,9.2,8.5,9.0,8.8,9.0,9.0,8.5
+Kenya Gatanga Ibutiti Estate AAï»¿,Wet Process Kenya Type,0.0,0.0,3.0,1.0,3.0,3.0,3.0,1.0,0.0,0.0,3.0,3.0,9.1,9.3,9.4,9.3,8.8,9.2,8.8,8.7,9.5,8.5
+Kenya Gatanga Ibutiti Estate Peaberry,Wet Process,1.0,0.0,3.0,2.0,4.0,3.0,4.0,3.0,0.0,0.0,3.0,3.0,9.3,9.7,9.0,9.7,8.8,9.4,8.7,8.5,9.8,8.7
+Kenya Kiambu Evans Farm AA,Wet Process Kenya Type,0.0,0.0,2.0,0.0,2.0,3.0,1.0,1.0,0.0,0.0,2.0,3.0,8.7,8.8,9.0,8.8,9.0,8.7,8.5,8.5,9.0,8.5
+Kenya Kiambu Evans Farm AA,Wet Process Kenya Type,1.0,1.0,3.0,1.0,3.0,3.0,2.0,2.0,1.0,0.0,3.0,3.0,9.3,9.6,9.6,9.5,8.5,9.2,8.7,8.9,9.5,8.7
