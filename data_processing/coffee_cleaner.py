@@ -12,7 +12,11 @@ import pandas as pd
 file_list = glob.glob1("coffee_data/", "*.txt")
 
 # List column labels for dataframe
-labels = ['Name', 'Processing', 'Dry Fragrance', 'Wet Aroma', 'Brightness', 'Flavor', 'Body', 'Finish', 'Sweetness', 'Clean Cup', 'Complexity', 'Uniformity', 'Floral', 'Honey', 'Sugars', 'Caramel', 'Fruits', 'Citrus', 'Berry', 'Cocoa', 'Nuts', 'Rustic', 'Spice', 'Body']
+labels = ['Name', 'Origin', 'Processing', 'Dry Fragrance', 'Wet Aroma', 'Brightness', 'Flavor', 'Body', 'Finish', 'Sweetness', 'Clean Cup', 'Complexity', 'Uniformity', 'Floral', 'Honey', 'Sugars', 'Caramel', 'Fruits', 'Citrus', 'Berry', 'Cocoa', 'Nuts', 'Rustic', 'Spice', 'Body']
+
+africa_origins= ['Ethiopia', 'Kenya', 'Burundi', 'Tanzania', 'Rwanda']
+south_america_origins = ['Costa Rica', 'El Salvador', 'Guatemala', 'Nicaragua', 'Honduras', 'Panama', 'Mexico', 'Brazil', 'Colombia', 'Peru']
+southeast_asia_origins = ['Sumatra', 'Indonesia', 'Java', 'Bali', 'Flores', 'Sulawesi', 'Timor', 'Papua New Guinea']
 
 # Initialize dictionary
 coffee_data = dict()
@@ -30,6 +34,28 @@ for file in file_list:
     name = name_string[0]
     coffee.append(name)
     
+    # Determine coffee origin based on name and append it to coffee list
+    origin_determined = False
+    for country in africa_origins:
+        if name.startswith(country):
+            coffee.append("East Africa")
+            origin_determined = True
+    
+    if origin_determined == False:
+        for country in south_america_origins:
+            if name.startswith(country):
+                coffee.append("South America")
+                origin_determined = True
+    
+    if origin_determined == False:
+        for country in southeast_asia_origins:
+            if name.startswith(country):
+                coffee.append("Southeast Asia")
+                origin_determined = True
+        
+    if origin_determined == False:
+        coffee.append("NA")
+        
     # Pull processing method using regular expression and append it to coffee list
     process_string = re.findall('Process Method.*?\n<span>(.*?)</span>', coffee_text)
     process = process_string[0]
