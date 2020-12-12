@@ -12,7 +12,7 @@ import pandas as pd
 file_list = glob.glob1("coffee_data/", "*.txt")
 
 # List column labels for dataframe
-labels = ['Name', 'Origin', 'Processing', 'Dry Fragrance', 'Wet Aroma', 'Brightness', 'Flavor', 'Body', 'Finish', 'Sweetness', 'Clean Cup', 'Complexity', 'Uniformity', 'Floral', 'Honey', 'Sugars', 'Caramel', 'Fruits', 'Citrus', 'Berry', 'Cocoa', 'Nuts', 'Rustic', 'Spice', 'Body']
+labels = ['Name', 'Origin', 'Processing', 'Floral', 'Honey', 'Sugars', 'Caramel', 'Fruits', 'Citrus', 'Berry', 'Cocoa', 'Nuts', 'Rustic', 'Spice', 'Body (Flavor)', 'Dry Fragrance', 'Wet Aroma', 'Brightness', 'Flavor', 'Body (Cupping)', 'Finish', 'Sweetness', 'Clean Cup', 'Complexity', 'Uniformity', 'Total Score']
 
 africa_origins= ['Ethiopia', 'Kenya', 'Burundi', 'Tanzania', 'Rwanda']
 south_america_origins = ['Costa Rica', 'El Salvador', 'Guatemala', 'Nicaragua', 'Honduras', 'Panama', 'Mexico', 'Brazil', 'Colombia', 'Peru']
@@ -33,7 +33,7 @@ for file in file_list:
     name_string = re.findall('data-chart-label="(.*?)"', coffee_text)
     name = name_string[0]
     coffee.append(name)
-    
+
     # Determine coffee origin based on name and append it to coffee list
     origin_determined = False
     for country in africa_origins:
@@ -68,12 +68,15 @@ for file in file_list:
         flavor_split = flavor.split(':')
         coffee.append(float(flavor_split[1]))
     
-    # Pull list of cupping scores and ratings using regular expression and append to coffee list one-by-one
+    # Pull list of cupping scores and ratings using regular expression and append to coffee list one-by-one, along with a total score
     scores_string = re.findall('data-chart-id="cupping-chart".*data-chart-value="(.*?)"', coffee_text)
     scores = re.findall('[A-Z].*?:[0-9]\.*[0-9]*', scores_string[0])
+    total_score = 0
     for score in scores:
         score_split = score.split(':')
         coffee.append(float(score_split[1]))
+        total_score += float(score_split[1])
+    coffee.append(total_score)
     
     # Add coffee data to dictionary using generic ID
     coffee_data[i] = coffee
