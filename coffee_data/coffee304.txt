@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Brazil Dry Process Pedra Branca Lot 2" data-chart-score="85.5" data-chart-type="radar" data-chart-value="Dry Fragrance:7.8,Wet Aroma:8.2,Brightness:7.2,Flavor:8.3,Body:8.7,Finish:7.8,Sweetness:8,Clean Cup:7,Complexity:8.5,Uniformity:8" data-cupper-correction="6">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Brazil Dry Process Pedra Branca Lot 2" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:2,Fruits:1,Citrus:0,Berry:0,Cocoa:4,Nuts:3,Rustic:2,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Carmo de Minas</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+60</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Yellow Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr, 16-18 Screen - expect a few partial quakers</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-22.122105" data-lng="-45.196418" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This coffee comes to us from the region of Pedralva, in the Mantiqueira micro region, an area that boasts over 2000 smaller farms. At 30+ hectares each, the farm sizes aren't "small" when comparing with the small holder farms we buy from in Colombia for example. But they're small for Brazil, home to massive estates with fully mechanized harvesting operations. Many of the farmers in Pedralva still do some manual picking, allowing for better separation of ripe and underripe cherry. This particular lot is from Pedra Branca, a processing facility that was erected as part of a quality-focused initiative providing the local farmers state of the art processing infrastructure where they can process smaller batch sizes. The facility is equipped to produce both pulp-natural and dry-processed coffees, this being the latter. The farms are located around the Pedra Branca mountians, plantings in the 1300 meter range and planted mainly in Yellow Bourbon and Catuai, although this is a Yellow Bourbon separation. We found that the cup profile tastes the most settled with at least 48 hours.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Brazil Dry Process Pedra Branca Lot 2" data-chart-score="85.5" data-chart-type="radar" data-chart-value="Dry Fragrance:7.8,Wet Aroma:8.2,Brightness:7.2,Flavor:8.3,Body:8.7,Finish:7.8,Sweetness:8,Clean Cup:7,Complexity:8.5,Uniformity:8" data-cupper-correction="6">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>City+ is a good starting point in terms of finding balance between sweet and bittering coffee tones. If you're able to control heat input, you might try slowing down roast progression during the latter 1/3 of the roast (just before 1st C). I like to stretch out my Brazil roasts, developing sweetness and keeping from charring these lower density beans. Both City+ and Full City roasts harness robust cocoa roast flavors that are matched by unrefined, molasses-like sweetness. The aroma offers a nutty peanut cookie smell,  and a bittersweet touch of cocoa. The brewed cup has dominant cacao-like accents with countering molasses and rustic palm sugar sweetness. After cooling a bit a dried berry note comes through as well as a finishing flavor of dried banana. Full City roasts really bring out big chocolatey bass notes. With Brazils I like to use a more gradual roast curve in order to bolster the cacao/roast tone character while avoiding ashy flavors that might come with roasting a soft coffee too fast. If you have manual heat control, try pulling back on your heat input 10 degrees F before 1st crack and adjust from there. This will surely make a great SO espresso, or as a body/bittersweet component for an espresso blend base.</p> </div>
+</div>
+</div>
+</div>
+</div>]

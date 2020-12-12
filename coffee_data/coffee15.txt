@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="El Salvador Nejapa Finca El Cipres" data-chart-score="86" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.5,Brightness:8.1,Flavor:8.5,Body:9,Finish:8.3,Sweetness:8.5,Clean Cup:8.4,Complexity:7.9,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="El Salvador Nejapa Finca El Cipres" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:3,Fruits:0,Citrus:0,Berry:0,Cocoa:4,Nuts:2,Rustic:1,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Bourbon Types, Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>No</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Bálsamo-Quezaltepec, Municipality Nejapa, San Salvador</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+August 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+60</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Pacamara, Sarchimor</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHG</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate, Sale Coffee</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="13.759776" data-lng="-89.260389" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Finca El Cipres is a 90 hectare coffee estate located at the Picacho Volcano in the Bálsamo-Quezaltepec coffee region, Nejapa municipality. The Cipres coffee estate has been a part of this community for almost 150 years, most recently coming under the ownership of the Alvarez Gallardo family. The property is nearly 100 hectares in total, 5 of which remain natural forest, the rest devoted to coffee. The main variety in the farm is Bourbon, with smaller plots planted in orange bourbon in the higher areas and sarchimors (hybrids of Villa Sarchi and Timor hybrid) in the lower altitudes. The lowest point in the farm is 1100 meters above sea level, but El Cipres estate reaches all the way up to 1800 meters. El Cipres has been an integral part of the community at large, employing many people from the nearby town, as well as supporting local school and health care initiates. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="El Salvador Nejapa Finca El Cipres" data-chart-score="86" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.5,Brightness:8.1,Flavor:8.5,Body:9,Finish:8.3,Sweetness:8.5,Clean Cup:8.4,Complexity:7.9,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The ground coffee has smells of graham cracker with a dusting of baking cocoa powder. Adding hot water bolsters the sweet smells and brings about a scent of warm caramel sauce with roasted peanut. The cup packs a dense mouthfeel with pleasant weight that underscores layered chocolate flavors at City+ and Full City (particularly the latter). The middle goes from Hersheys syrup, to semi-sweet chocolate to a bittering baking cocoa flavor in the long finish. There's a hint of carob too - a more earth-toned chocolate substitute. The coffee has mild to moderate apple-like acidity too, and expect roasted nut accent notes. Sure to make a crowd-pleasing French Press that stands up to cream (if you prefer), and also doubles nicely as espresso.</p> </div>
+</div>
+</div>
+</div>
+</div>]

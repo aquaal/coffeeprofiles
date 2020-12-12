@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Sumatra Wet Process Gunung Tujuh" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.6,Brightness:8.6,Flavor:8.7,Body:8,Finish:8.3,Sweetness:8.6,Clean Cup:8.3,Complexity:8.7,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Sumatra Wet Process Gunung Tujuh" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:1,Citrus:2,Berry:0,Cocoa:2,Nuts:1,Rustic:1,Spice:0,Body:2">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Gunung Tujuh, Mount Kerinci</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+40</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Ateng</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-1.709896" data-lng="101.355956" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>It's not often we have wet processed Sumatran coffee. The typical processing method is quite harsh on the coffee, and involves wet parchment bagged up at farms, transporting to mills, peeling the parchment off the still wet seed, and then drying the rest of the way. The flavor that comes with this processing method (<a href="https://legacy.sweetmarias.com/library/why-should-you-know-giling-basah">giling basah</a>) would be considered defective in most other coffee growing countries, but is what's put Sumatran coffee on the map to begin with. And let's face it, when done well, the coffee's are unlike any other. But what happens when you remove the lens of rustic processing? This is a rare opportunity to find out. This coffee comes from Gunung Tujuh area, a higher elevation coffee zone around Mount Kerinci in Jambi Province. There's a new cooperative of farmers that have banded together in this growing region. They have taken an interest in going beyond the traditional wet-hulled process, incorporating dry process, honey process and wet processing to their repertoire. This is their fully-washed coffee, meaning they are pulping, fermenting immediately and moving wet parchment straight to the drying beds after rinsing away the remaining fruit. A much gentler process for the coffee resulting in a cleaner flavor profile than the wet-hulled counterpart, almost no earth tones at all, and acidity that's normally lacking in Sumatran coffee. The farms in this area are planted in mostly Ateng (cross of Timor Hybrid and Bourbon) and benefit from the high slopes, situated between 1400 - 1500 meters above sea level.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Sumatra Wet Process Gunung Tujuh" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.6,Brightness:8.6,Flavor:8.7,Body:8,Finish:8.3,Sweetness:8.6,Clean Cup:8.3,Complexity:8.7,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Sugar browning smells come through in Gunung Tujuh's dry fragrance, with complex herbal accents as well. I was taken a back by the clean sweetness found in the wet aroma (especially in comparison to a typical Grade 1 wet-hulled Sumatra), my lightest City+ roast pulling out aromatics of pecan pie with a foresty, herbal overlay. Brewing a City+ roast yields a sweet foundation of burned sugar, caramel and toffee, along with a yellow custard note. I'm struck by the rindy orange flavor that emerges, a level of acidic impression that is uncharacteristic of Sumatran coffee. Sweet and bittering tones were neck-in-neck in both City+ and Full City roasts and subtle basil note accents the finish. I found middle roasts to have fairly thin body, while Full City thickens up a bit. Darker roasting brings cocoa bittersweetness with it as well. A rare opportunity to taste the local cultivar without the influence on flavor that traditional wet-hulled processing has.</p> </div>
+</div>
+</div>
+</div>
+</div>]

@@ -1,0 +1,139 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Organic Dry Process Limu Kossa Farm" data-chart-score="88.9" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:8.9,Brightness:7.8,Flavor:8.9,Body:9.5,Finish:8.6,Sweetness:8.7,Clean Cup:8,Complexity:9.5,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Organic Dry Process Limu Kossa Farm" data-chart-type="polarArea" data-chart-value="Floral:1,Honey:1,Sugars:3,Caramel:1,Fruits:4,Citrus:0,Berry:3,Cocoa:3,Nuts:0,Rustic:2,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+<li>
+<strong>Certifications</strong>
+<span>Organic</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Limu Kossa, Oromia</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+August 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+150</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Certifications</th>
+<td class="col data" data-th="Certifications">
+<img alt="Certifications" class="certification-img" src="https://www.sweetmarias.com/media/attribute/banners/image//o/r/organic.png"/></td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Cultivars</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d per 300 gr; 14+ screen - mainly partial quakers, there are a lot of small beans too (not a defect)</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City - City/City+ yield more fruited complexity</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate, Organic/Fair Trade Cert.</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="7.740332" data-lng="36.840634" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Limu Kossa farm is both a geographic area of the Oromia district, as well as the name of a privately run farm in the region. It's a sizable estate that is broken into 15 hectare sections with marked varieties of coffee planted within. This lot is from a part of the farm run by a gentleman named Gidhey, who's has a long coffee history in this area (that's him at right in the 2nd photo). His first farm was lost to re-zoning of the area to forest, not a bad thing, but forced Gidhey to continue his farming somewhere else. That "somewhere else" is a 350 hectare piece of land, the coffee planted beneath the shade of primary forest canopy high above. The organization that Gidhey has employed at the farm level and in his processing, and natural beauty of Limu Kossa farm are breathtaking to say the least. They are producing both washed and natural coffee, this being a fully dry process lot (we carried a wet processed lot last year, but settled on this sole DP this time around). The farm sits just above 1900 meters above sea level and stretches upward to 2100 meters at the highest part which they refer to as "Sinsina". This is a fully organic certified coffee, and while it is also Rain Forest Alliance certified, we did not bring it in as such.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Organic Dry Process Limu Kossa Farm" data-chart-score="88.9" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:8.9,Brightness:7.8,Flavor:8.9,Body:9.5,Finish:8.6,Sweetness:8.7,Clean Cup:8,Complexity:9.5,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Like the rest of Limu Kossa's cup profile, the fragrance and aroma are potent. If you've tried our other dry process Ethiopians from Guji, that shouldn't come as a surprise. But unlike those others, Limu Kossa is more centered around flavors of unrefined sweeteners and sticky dried fruit flavors than the "light and bright", and winey fruity qualities we tend to find in other dry process coffees. The sweetness is complex and has flavor components of molasses and sorghum syrups, which butts up against aromatic notes of pine syrup and berry compote. I did pick up on soft floral and tart berry accents in my City roast, but it wasn't until after drinking a much darker roast. That context certainly helped further that impression. Either way, City to Full City roasts do show fruited flavors like dried berry and prune, and unrefined sweetness lends to flavors of baked goods as the cup cools some. Full City roasts are chocolatey too, with dark berry fruit accents. I enjoy the cup, though it doesn't scream 'dry process Ethiopia'. Espresso alert too - Limu Kossa works really well on it's own, or as a fruit/body/sweetness component for an espresso blend. Equal parts Limu Kossa and a washed Guatemala will also make a nice 2-bean blend.</p> </div>
+</div>
+</div>
+</div>
+</div>]

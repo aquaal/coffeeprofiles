@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Guatemala Antigua La Parcela Melanie" data-chart-score="88" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.8,Brightness:8.7,Flavor:8.8,Body:9,Finish:8.7,Sweetness:8.7,Clean Cup:8.5,Complexity:8.7,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Guatemala Antigua La Parcela Melanie" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:2,Sugars:3,Caramel:2,Fruits:2,Citrus:1,Berry:2,Cocoa:4,Nuts:1.5,Rustic:0,Spice:1.5,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Antigua</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+July 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+3</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+46 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Sarchimor, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="14.488802" data-lng="-90.768133" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Finca Melanie is a farm run by Melanie Hererra, a woman who has played a large role in our sourcing of Guatemalan coffees, especially in the Antigua region. She works for a local Antiguan, family-run exporter who also own several estates in the area (Pulcal, Cabrejo should sound familiar). For the most part, Melanie's roll has been to provide agronomical support to the farms as well as act as a sort of liaison for clients like us on behalf of the exporter. A few years back, Melanie bought her own farm in the Hunapu region, not far from Ciudad Vieja on the slopes of Volcan de Agua. This is an area of small-holders (you may have seen our small producer Hunapu blends), and at 2 manzanas in size (roughly 2 hectares), Finca Melanie is no exception. The farm currently has 900 coffee trees, mostly Caturra, Typica and Sarchimor, and sits at 1875 meters above sea level. This first lot from Finca Melanie is just 400 lbs and we have high hopes for a shot at a bit more than that this next harvest. The coffee has a simple, sweet, clean cup profile with exceptional acidity for coffee from this region. Altitude no doubt helps with that since the colder climate facilitates a slower fruit maturation, and denser seed. Because of the limited quantity, Finca Melanie is only available in 1 - 5 LB bags.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Guatemala Antigua La Parcela Melanie" data-chart-score="88" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.8,Brightness:8.7,Flavor:8.8,Body:9,Finish:8.7,Sweetness:8.7,Clean Cup:8.5,Complexity:8.7,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This coffee from Finca Melanie has smells of raw sugar and black currant at City roast level, and more roast bittersweetness at Full City/Full City+. It's clean and sweet when brewed, simple to some degree in light roasts, whereas medium roasts develop a nice dark fruit accent note. The wet aroma has a caramelized sweetness with a whiff of cinnamon powder. My lightest roast produced a moderate level of raw sugar sweetness that backed top notes of Sencha tea, and honey comb. Tart acidity permeates the cup when roasted light, rounded off some at Full City, though still present. It's not 'Kenya' bright, but bracing for Guatemala! The cool coffee has a grape-like accent note that offers something on the refreshing side to a warm cup of coffee. Full City brews are chocolatey and the fruited hints plump up to dark berry, accenting balanced bittersweetness as the coffee cools.</p> </div>
+</div>
+</div>
+</div>
+</div>]

@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Panama La Esmeralda Gesha 1500" data-chart-score="92.3" data-chart-type="radar" data-chart-value="Dry Fragrance:9.2,Wet Aroma:9.7,Brightness:8.8,Flavor:9.6,Body:9,Finish:9.5,Sweetness:8.7,Clean Cup:9,Complexity:9.8,Uniformity:9" data-cupper-correction="">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Panama La Esmeralda Gesha 1500" data-chart-type="polarArea" data-chart-value="Floral:4,Honey:0,Sugars:3,Caramel:0,Fruits:3,Citrus:3,Berry:1,Cocoa:0,Nuts:0,Rustic:0,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Gesha</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Palmira, Chiriqui</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+November 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+30</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Gesha</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15-18 Screen - expect some smaller round gesha beans as well as peaberries</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+ City to City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="8.735687" data-lng="-82.458008" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This gesha lot comes from the famed Hacienda La Esmeralda in Panama's Chiriqui region. It's a blend from the three farms under their care - Cañas Verdes, Jaramillo, and El Velo, and you should expect a mix of bean sizes, shapes and even some peaberries. But it is all 100% gesha! For those not familiar with the story of Hacienda La Esmeralda, the now well-known gesha variety was not a consideration when Swiss-American banker Rudolph Peterson bought the farm back in the late 60's, as they did not know it existed. This was much more as a prospect of retirement than anything else. Fast-forward roughly 30 years later, and the Peterson's would enter a lot separation from the highest altitude plot at the farm that would capture the attention of the coffee world as being unlike any other coffee tasted in Latin America. This cultivar became known as "gesha". Gesha (often spelled, wishfully, as Geisha) is a cultivar with strong Ethiopian roots. It's rare that a coffee variety announces itself so clearly in the cup flavors as the gesha cultivar does. Extremely floral in the aromatics, with tropical fruit, light bodied and delicate on one hand, yet extremely flavorful and long-lasting on the palate. There is no other coffee quite like it...at least not in Latin America. And other farms that have cultivated Gesha don't often attain the cup quality of the best. The Esmeralda Gesha makes blind cupping almost senseless, since I can identify its amazing fragrance, aroma and cup flavors immediately when I come upon it in a "blind" cupping! It is that dry fragrance that lets you know right away what is coming when the water hits the cup: incredible sweet floral, citrus blossom, sweet honey perfume atomized into the air. In terms of intensity, fruited and floral aspects, wet-processed Ethiopians and Kenyas are more in league with Gesha than any other Central American coffee. But it is difficult to price this sort of cup character. And when it is as exotic ...no, extraterrestrial ... as the Esmeralda Gesha, it is even more hard to quantify. In tasting the Gesha coffees, the cup flavors might seem less intense than the extreme aromatics. As the cup cools, perceived floral intensity and brightness will increase exponentially.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Panama La Esmeralda Gesha 1500" data-chart-score="92.3" data-chart-type="radar" data-chart-value="Dry Fragrance:9.2,Wet Aroma:9.7,Brightness:8.8,Flavor:9.6,Body:9,Finish:9.5,Sweetness:8.7,Clean Cup:9,Complexity:9.8,Uniformity:9" data-cupper-correction="">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This particular Gesha from Esmeralda is always a treat, such a complex profile of florals and clean fruited notes, an undercurrent of raw sugar-like sweetness shadowing the cup. Jasmine florals are more quietly present in the dry fragrance, and its fruited notes like dried green apple and lychee that are the highlights. In the wet aroma we a much clearer picture of what's to come in the brewed coffee like a scent of sweet brown sugar, passion fruit and now much more of the typical jasmine floral character I attribute to the Gesha cultivar. I was taken a back by the lush body produced in light roasts, my City roast yielding silky mouthfeel that reads like stone fruit juice, complimenting flavor notes of fresh, floral peach and apricot. The cup is a real show stopper, intense with sweetness that is I found to be particularly fruited for a washed coffee (though not as fruit-forward as the dry process lot that we will add in a few more weeks!). OK, "jasmine", check! It's there, but I also found that the fruited floral side was right up there with it. The cup cools to shimmering citrus top notes such as honey tangerine and orange marmalade with that spice-laden aroma. I roasted this lot to City and City+, and the latter verged on too dark in comparison to the lighter roast. With that, I would steer clear of anywhere near Full City for fear of missing out on this coffee's complex potential.</p> </div>
+</div>
+</div>
+</div>
+</div>]

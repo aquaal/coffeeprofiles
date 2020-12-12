@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Panama Dry Process Finca Bambito Gesha" data-chart-score="93.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9.7,Wet Aroma:9.7,Brightness:8.7,Flavor:9.8,Body:9,Finish:9.5,Sweetness:9,Clean Cup:9.5,Complexity:9.8,Uniformity:8.5" data-cupper-correction="0">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Panama Dry Process Finca Bambito Gesha" data-chart-type="polarArea" data-chart-value="Floral:4,Honey:2,Sugars:4,Caramel:0,Fruits:2,Citrus:2,Berry:2,Cocoa:0,Nuts:0,Rustic:0,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Gesha</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Volcan Baru, Chiriquí</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+1</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+46 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Gesha</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="8.841565" data-lng="-82.608734" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This coffee is from the Bambito Estate, located near Volcan Baru in Chiquirí Province. Chiriquí is situated in the lush mountain highlands of Panama, along the Caldera river (aptly named "Caldera", a type of volcano, and runs through Volcan Baru National Park). The elevation at Bambito Estate runs the range of 1600 to 1800 meters above sea level, and the coffee plants benefit from the nutrient rich volcanic soil in the region. Bambito is planted mostly in Caturra and Catuai, and there are some patches of Typica coffee, and Gesha too, this being a separation of the latter equaling a measly 101 lbs! Bambito employs a mechanical demucilager for wet processing, but this is a dry process lot, where the coffee is dried naturally in the whole coffee cherry. The cup has the florality you should rightfully expect from Gesha but with delicious fruit flavors too that are partly a bi-product of the dry process method.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Panama Dry Process Finca Bambito Gesha" data-chart-score="93.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9.7,Wet Aroma:9.7,Brightness:8.7,Flavor:9.8,Body:9,Finish:9.5,Sweetness:9,Clean Cup:9.5,Complexity:9.8,Uniformity:8.5" data-cupper-correction="0">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This potent gesha coffee is peppered with perfumed floral top notes and tropical fruit when roasted to City and City+ levels. Though delicate in aroma, body has a nice viscocity, even when roasted light, and intersects nicely with the juicy fruit flavors found in the cup. This is most definitely related to dry processing, though the clean cup might lead to you think it to be wet process. The fragrance is incredibly floral, as are wet aromatics. Jasmine and tuberose are the first flowers that come to mind when smelling the dry and wet grounds, but along with them come wafts of fresia, honey, and the floral side of ripe mango and cherry. None of this seems to fall away in the brewed coffee either and the cup is freighted with a variety of flavors that are tropical and juicy, flowery and delicate. Look for flavor notes of ripe mango, passion fruit, maracuya, guava, and of course, heavy-handed floral notes like star jasmine and gardenia, as well as a brisk hint of Assam tea. The cup is very sweet too, which isn't a given, and we taste a lot of Gesha coffees that are floral but that lack the backing of sweetness. That couldn't be farther from the truth with Bambito Gesha and we find raw sugar flavors like turbinado and sucanat providing sweet contrast to the top notes that make this Gesha coffee so exciting and unique. </p> </div>
+</div>
+</div>
+</div>
+</div>]

@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Karongi Gitesi" data-chart-score="89.8" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9,Brightness:8.9,Flavor:9.1,Body:8.5,Finish:8.8,Sweetness:8.8,Clean Cup:8.7,Complexity:9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Karongi Gitesi" data-chart-type="polarArea" data-chart-value="Floral:1,Honey:2,Sugars:4,Caramel:2,Fruits:2,Citrus:2,Berry:1,Cocoa:2,Nuts:0,Rustic:0,Spice:3,Body:2">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Karongi</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+December 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+55</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 15+ Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.074332" data-lng="29.350340" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Gitesi is one of my favorite sites in Rwanda. Not only is it located in a beautiful valley, but the washing station is always so clean, well-organized and the leaders seemed motivated and competent. I had already cupped quite a few day lots (wet-process batches from coffee cherry received in a single day) and I knew the coffee was really good from the previous years we purchased this coffee. The Gitesi site is at 1740 meters, actually one of the lower areas surrounded by high ridges ranging up to 2000 meters where coffee is grown. More than 1,800 coffee farmers in the area supply Gitesi with cherries each year. The station fosters a relationship with the farmers by paying an additional dividend at the end of each season based on performance. Gitesi was started in 2005 and has been building capacity with each passing harvest. Like much of Rwanda, the coffee is Bourbon variety. We "built" this lot by looking at all their day lot batches and combining the best ones. We found some excellent process batches from the middle harvest. Gitesi has placed at COE ("Cup of Excellence") more than once, including top coffee a few years back, and  continues to produce competition level coffees. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Karongi Gitesi" data-chart-score="89.8" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9,Brightness:8.9,Flavor:9.1,Body:8.5,Finish:8.8,Sweetness:8.8,Clean Cup:8.7,Complexity:9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Gitesi continues to produce some of the best coffee we see from the region. From the outset, the ground coffee presents an attractive fragrance perfumed with clover honey and spiced, tea-like accents that are complex and delicate. Aspects of complex sugar browning come into view when you add the hot water, with sweet smells of caramel candy and a sweetened black tea note. City roasts show a framework of raw sugar sweetness making up the underlying flavor compound, like sugar cane juice or panela. As you move through the cup, black and green tea flavors come up in the profile, as well as a mandarin orange accent note. Gitesi's finish is marked by brisk apple and tea-like flavors that are both crisp and slightly tannic. Darker roasting builds flavor layers of fine dark chocolates and a dried berry hint. The sweetness is uncompromising at all roast levels we tried, but for the most delicate cups, don't stretch it beyond City+. Gitesi makes a fantastic pour over brew, shining a light on the clean and articulate cup flavors this coffee has to offer.</p> </div>
+</div>
+</div>
+</div>
+</div>]

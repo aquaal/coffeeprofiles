@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Honey Process Aponte Community" data-chart-score="87.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.6,Flavor:8.8,Body:8.6,Finish:8.5,Sweetness:8.7,Clean Cup:8.2,Complexity:8.9,Uniformity:8" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Honey Process Aponte Community" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:2,Sugars:3,Caramel:2,Fruits:3,Citrus:1,Berry:3,Cocoa:3,Nuts:1,Rustic:2,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Honey Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Aponte, Nariño</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Honey Process</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Dried, Covered</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+38</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Variedad Colombia, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.7 d per 300 gr; 15+ screen - being honey process, the coffee has a darker hue when raw</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="1.399600" data-lng="-77.016647" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This honey processed coffee comes from an indigenous group in a nearby region called Aponte, just east of Buesaco town. The people of Aponte are Inga, a pre-Colombian ethnic group related to the Incas, their native tongue being Inga Kichwa. This is a protected reservation, and as such, they have their own government and are generally outside the Colombian government's reach. Aponte is located in a misty paramó region around 1900 meters above sea level and the farmers in this growing region produce mainly Caturra an Variedad Colombia, the latter being a disease resistant hybrid. Three different growers contributed to this 12 bags. The land where the coffee is grown is owned by the community, but each producer is in charge of specific plots and can sell the coffee they produce. Honey Processing is a processing method where the coffee cherry and some of the fruit is mechanically removed, leaving behind a thin layer of fruit which is then laid out on raised beds to dry. Drying can take more than 2 weeks, the prolonged exposure to the coffee fruit causing a very subtle and slow fermentation to occur, and often imparts fruit-like flavors in the coffee itself. This lot is definitely of the "fruit forward" variety, and will surely win over fans of wilder dry processed coffees from Latin America and even Ethiopia.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Honey Process Aponte Community" data-chart-score="87.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.6,Flavor:8.8,Body:8.6,Finish:8.5,Sweetness:8.7,Clean Cup:8.2,Complexity:8.9,Uniformity:8" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This honey process lot from Aponte is set to satisfy fans of fruit forward naturals. The complex aroma offers smells of dried sticky fruits, berry and rhubarb pie filling, and is capable of developing a bittersweet core with deeper roasting. We enjoyed this coffee at both light and medium-dark roast levels. Our City roast had a surprising level of acidity. A tart cranberry juice flavor peeks through base notes of molasses cookie and unrefined sugars, which add depth to the cup character. The flavor profile opens up as it cools. And while there is a murkiness too, an array of fruited accents such as date, fig and berry fruit leather are inextricably bonded with the unrefined core sweetness. Full City roasts pull out thick chocolate roast tones, and the dark fruit notes have a jam-like quality though a little more pushed into the background than my City and City+ roasts. A great espresso option too, this honey lot from the Aponte Community promises lasting bittersweet and fruited tones, and massive body helps to ensure a lasting finish!</p> </div>
+</div>
+</div>
+</div>
+</div>]

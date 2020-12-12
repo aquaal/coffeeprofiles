@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Honey Las Aguilas Gesha" data-chart-score="92" data-chart-type="radar" data-chart-value="Dry Fragrance:9.3,Wet Aroma:9.5,Brightness:8.5,Flavor:9.3,Body:8.9,Finish:9.2,Sweetness:8.8,Clean Cup:8.5,Complexity:9.5,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Honey Las Aguilas Gesha" data-chart-type="polarArea" data-chart-value="Floral:3,Honey:1,Sugars:3,Caramel:1,Fruits:3,Citrus:2,Berry:3,Cocoa:1,Nuts:0,Rustic:1,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Honey Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Gesha</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Las Aguilas, La Argentina, Huila</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+50% Honey Process + 50% Wet Process (Washed) Blended</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+10</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Gesha</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 17-19 screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="2.186584" data-lng="-75.978726" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Honey processing involves leaving some of the sticky fruit intact with the coffee seeds during the entire drying period and tends to result in fruited sweetness, but at the risk of muting a coffee's acidity and clarity. The latter is part of the reason we buy so few honey processed coffees, and it can be particularly troubling when you see a potentially great coffee like a Gesha compromised by bad processing technique. But once again, the Lasso family delivers honey-process gesha on par with their washed. We were super impressed by the confluence of fruited sweetness and delicate floral aroma and think you will be too!  Part of the success may lie in the fact that it's a 50/50 blend of honey and wet process coffee, the latter no doubt impacting the delicate aroma and acidity. The coffee comes from the farm of Segundo Lasso, brother to Raquel Lasso whose "Finca La Bohemia" coffee we've bought in the past. While the most of the Lass family reside in La Union, Nariño, Seguno left a few years back to marry his sweetheart from Huia, Gisella. Together, they manage their 5 hectare farm El Mirador. The farm is in Las Aguilas, a village within Huila's La Argentina Municipality, sits at 1875 meters above sea level is planted in gesha. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Honey Las Aguilas Gesha" data-chart-score="92" data-chart-type="radar" data-chart-value="Dry Fragrance:9.3,Wet Aroma:9.5,Brightness:8.5,Flavor:9.3,Body:8.9,Finish:9.2,Sweetness:8.8,Clean Cup:8.5,Complexity:9.5,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The cup flavors in this coffee are clean and succinct, fruit and floral aromatics highlighting the flavor profile. City and City+ roast levels are about the range I'd shoot for with this coffee. Any darker will result in a nice sweet cup, but without the delicate floral qualities found at the lighter end of the roast spectrum. The brewed coffee has a sweetness like honey and stone fruit that lays a nice sweet foundation for a complex array of top note accents. Floral notes proliferate as the cup cools and remind me of a ripe plum and some star jasmine, the latter a hallmark quality of the Gesha cultivar and so much of its allure. Focus quickly shifts to the rest of what's in store and this honey Gesha really opens up as it cools. A tangerine note adds a juicy touch, as do accents of lychee, canned peach and tropical fruit to a lesser degree. Hints of berry and orange blossom tea impact the aroma in the aftertaste. Acidity is mild to moderate, but shows up in light roasts particularly. There's a lot to unpack in this honey process Gesha, so make sure to sip as it cools and enjoy the array of juicy fruit flavors that unfold.</p> </div>
+</div>
+</div>
+</div>
+</div>]

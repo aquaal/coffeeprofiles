@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Sidama Damo" data-chart-score="90.3" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.4,Brightness:9,Flavor:9,Body:8.7,Finish:9,Sweetness:9.2,Clean Cup:9,Complexity:9,Uniformity:9" data-cupper-correction="0">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Sidama Damo" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:2,Sugars:4,Caramel:0,Fruits:2,Citrus:2,Berry:2,Cocoa:2,Nuts:0,Rustic:0,Spice:3,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Damo Village, Bensa, Sidama</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+July 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+70</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Cultivars</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15+ Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="6.516231" data-lng="38.873185" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This green coffee is from the Damo washing station, one of a few we have coming this year from the Bombe mountains in Ethiopia's Sidama growing region. Damo, along with 13 other coffee processing sites, are managed by a group in Daye town, within the greater Bensa area of Sidama. Many of their sites hold organic, UTZ and RFA certifications, though we did not bring any of them in as such this year. This particular lot is made up from coffees in the Damo village area, a highland town in and of itself, starting at 1950 meters above sea level. It's not far from a couple of the other coffee sites we bought coffee from, like Keramo, Shantawene, and Qonqana. Since the coffee is being drawn from neighboring regions, there is going to be some cross over in farmers they buy from, meaning similarities in cup profile, though each have their own distinct cup characteristics. The Daye Bensa group register all of the farmers they buy from, tracking payments and providing the necessary agronomical assistance to bring each up to organic growing standards. They have their own export license as well, which means we get to work directly with them and were able to visit several of their sites earlier this year. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Sidama Damo" data-chart-score="90.3" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.4,Brightness:9,Flavor:9,Body:8.7,Finish:9,Sweetness:9.2,Clean Cup:9,Complexity:9,Uniformity:9" data-cupper-correction="0">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Damo is a versatile Ethiopia in terms of roast level and very sweet at a wide range of roasts. The fragrance (dry ground coffee) has a subtle herbal hint like rue, that gives the densely sweet fragrance a delicate quality. After adding hot water to the grounds, the crust that forms is saturated with brown sugar sweetness, a theme that runs throughout the rest of the cupping experience! Smells of brown sugar butter and ginger snap cookie lend to the potent sweet smells, and marked by a faint floral suggestion. The cup at City roast level has an acidic bite that is underscored by flavors of candied ginger and some lemon/citric elements. Brown sugar flavors come up in the profile after cooling off some, bringing out more of that 'ginger snap cookie' aspect mentioned earlier and aromatic notes of passion fruit and root beer. I LOVE this coffee at City roast level, but was also knocked out by the sweet cup produced at Full City. Dark fruited tones let loose and point to chocolate-covered plum and dried berry, and the cup still possesses a nice vibrant quality too. Perhaps not the espresso everyone wants to drink, but I really enjoy the vibrant and chocolatey shot Damo offers (definitely single origin shot without any milk).</p> </div>
+</div>
+</div>
+</div>
+</div>]

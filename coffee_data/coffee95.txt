@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Yukiro Cooperative" data-chart-score="90.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:8.8,Brightness:8.8,Flavor:9.2,Body:8.5,Finish:9,Sweetness:8.8,Clean Cup:9,Complexity:9,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Yukiro Cooperative" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:1,Sugars:3,Caramel:0,Fruits:2,Citrus:3,Berry:1,Cocoa:1,Nuts:0,Rustic:0,Spice:1,Body:2">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Goma, Oromia Region</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+ 100</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Varietals</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="7.534736" data-lng="36.383547" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Yukiro Cooperative was once part of an initiative in Ethiopia focused on working directly at the coop level. Administered by a non-government organization, they helped the cooperative with coordinating agronomists, managers, and with business advisors to helps the cooperative manage their debt, re-invest in quality improvements at the mill, and verifies distribution of income to all members. This is a key position; I have never known a coop to get this kind of expert advice from outside ... not in Africa at least. A cooperative can make all kinds of quality improvements, turn out fantastic coffee, and sink deeper in debt all the while. Cooperatives often fail to return a fair and full amount of payment to their farmer-members. Often this is from poor management, and sometimes from graft as well. The ultimate goal of the program is to get the cooperatives they work with to the point of self sustainability, which Yukiro has achieved. Because of this work and the resulting transparency of the organization, we can verify that the price we paid will result in a fair distribution of funds, a better managed coop, investment in the mill, and even better coffee next year. The farms are in Goma Woreda, with altitudes between 1900 to 2100 meters. Yukiro currently has close to 600 members (1/3 female, 2/3 male members), and have improved their beds and warehouse capacity in the last year, as well as installed a new Penagos 2500 coffee pulper.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Yukiro Cooperative" data-chart-score="90.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:8.8,Brightness:8.8,Flavor:9.2,Body:8.5,Finish:9,Sweetness:8.8,Clean Cup:9,Complexity:9,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Light roasts of Yukiro boast delicate florals and soft fruited notes, a lemon acidic impression bolstering the latter. City roasts are where the most clarity in cup flavors are achieved. The fragrance and aroma smell of honey and raw sugar, and a scent of black tea is accented by a hint of lemon juice. The aroma has a ginger snap smell to it, sugar browning and subtle spice intimations highlighting the steam. As pour over brew, City roasts yield a solid base sweetness, highlighted by citrus accent notes like sweet lime and pink grapefruit. The coffee flavors are clean and clear, and not compromised by typical bittering coffee tones. The sweetness is like simple syrup, or table sugar, sweetening the cup without drawing your attention away from soft fruited notes of citrus and green apple. Our City+ roast delivered distinct stone fruit notes like nectarine and apricot, with caramel sweetness, and a hint of orange rind in the aftertaste. Yukiro shows best when roasted light and bright, and makes a fantastic pour over brew option.</p> </div>
+</div>
+</div>
+</div>
+</div>]

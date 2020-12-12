@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Sumatra Aceh Bebesen Auliya" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.1,Wet Aroma:8.3,Brightness:8.2,Flavor:8.6,Body:8.9,Finish:8.2,Sweetness:8.5,Clean Cup:7.7,Complexity:9,Uniformity:8.2" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Sumatra Aceh Bebesen Auliya" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:2,Caramel:1,Fruits:2,Citrus:1,Berry:1,Cocoa:2,Nuts:0,Rustic:3,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Hulled</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Bebesen, Aceh</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Hulled (Giling Basah)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+30</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Abyssinia, Ateng, Tim Tim</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+1 d/300gr, 15-18 screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="4.673286" data-lng="96.780627" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This wet-hulled Aceh coffee is from a quality-savvy coffee collector named Auliya who buys in the districts of Bebesen and Kute Panang. Farms in these regions tend to span an altitude range of about 1300 to 1600 meters and are planted in older, long berry types (you'll see the long, canoe shaped beans) Abysinnia, Ateng and Tim Tim. In the scheme of things, Auliya's operation is quite small. He usually buys a few bags at a time, and then processes coffee with family at home. With small scale comes the capability for a high level of quality management, which he puts into all of the different process technics he employs (including full honey and dry process!). This year we paid a little extra for the coffee in order to help fund a drying room so that he can dry coffee inside on raised drying beds. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Sumatra Aceh Bebesen Auliya" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.1,Wet Aroma:8.3,Brightness:8.2,Flavor:8.6,Body:8.9,Finish:8.2,Sweetness:8.5,Clean Cup:7.7,Complexity:9,Uniformity:8.2" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>A "classic" Aceh coffee character is found in the dry fragrance, slight fruit and sweet with molasses. It shows the foresty/peat moss aroma that is typical for wet-hull Aceh. But along with it comes a ribbon of dark cocoa, spiced with hints of cinnamon and nutmeg. The cup is an example of wet-hulled coffee done right - earth-toned sweetness comes off strong and complex, but the finish is devoid of dank, musty off-notes found in the average Sumatran coffee. The cup cools to complex cocoa flavors interspersed with an apple note and baking spice hints in the nose. Yes, the rustic qualities are there too, but kept well in balance with the rest. Acidity is present to accent the cup, but is very low in intensity, also typical for Sumatra.</p> </div>
+</div>
+</div>
+</div>
+</div>]

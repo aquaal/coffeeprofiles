@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Honduras Cerro Negro La Lesquiñada" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.4,Flavor:8.6,Body:8.9,Finish:8.4,Sweetness:8.6,Clean Cup:8.3,Complexity:8.7,Uniformity:8.3" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Honduras Cerro Negro La Lesquiñada" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:2,Citrus:0,Berry:2,Cocoa:4,Nuts:2,Rustic:1,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Cerro Negro</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+25</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+IHCAFE-90 , Lempira</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHG EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="14.592114" data-lng="-88.856344" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>The farm La Lesquiñada is located in the Lesquinas area, not far outside Corquin, and run by brothers Walter and Sergio Romero. Altitude varies, and the farm is broken into several plots, the highest 10 hectare plot reaching just over 1600 meters above sea level. This area is also home to a lot of larger farms, several of which are now abandoned due to rust outbreak some time back. La Lesquiñada saw their own rust attack a few years back, prompting them to chop down almost the entire farm and replant in resistant varieties. Can't say I blame them. 32 hectares in total, the cultivars currently under production are a mix of Parainema, and Icatu, and they last year they planted small plots of Bourbon, Caturra, Typica, Pacamara, and Gesha. The plants that are currently productin are young, going on 4 years, and this is the second year of real production. The coffee is milled not far from the farm using a mechanical demucilager, and sun dried on patios. The Romero's own the mill as well and run a local coffee association where they process the coffee from neighboring farms and help gain members access to the global coffee market. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Honduras Cerro Negro La Lesquiñada" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.4,Flavor:8.6,Body:8.9,Finish:8.4,Sweetness:8.6,Clean Cup:8.3,Complexity:8.7,Uniformity:8.3" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance has a sweet smell of brown sugar and soft nutty hints at the outer edges. Pouring hot water brings up a smell of walnuts candied with dark sugar, butter and cinnamon, a more complex sweetness than the dry grounds let on. Middle roasts have a nice brown sugar flavor, sweet and bitter tones are well in balance, and resonate in the finish. As the cup temperature drops, top notes like red raisin and dried stone, and a green herbal accent begin to emerge, along with soft acidity marking our lightest City+ roast. Our Full City roast had deep flavors of high % cacao bar along with a dark berry accent note that is much more present than at City+. The dark chocolate, fruited tones, and mild brightness that come with darker roasting make La Lesquiñada a great single origin espresso as well. </p> </div>
+</div>
+</div>
+</div>
+</div>]

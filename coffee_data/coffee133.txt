@@ -1,0 +1,134 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Kivu Kageyo" data-chart-score="88.1" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.9,Brightness:8.6,Flavor:9,Body:9,Finish:8.7,Sweetness:8.9,Clean Cup:8.5,Complexity:8.9,Uniformity:8" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Kivu Kageyo" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:1,Fruits:2,Citrus:1,Berry:2,Cocoa:3,Nuts:0,Rustic:0,Spice:3,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Ngororero District</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+December 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+44 bags (Lot 381 + Lot 382)</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.5 d/300gr, 15+ Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-1.797961" data-lng="29.944431" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p><em>In addition to our own donation, $0.10 of every pound of Kageyo purchased will be donated to the Kageyo buildout project allowing them to increase their annual capacity and serve more farmers in this district. Read more about it <a href="https://legacy.sweetmarias.com/library/2020-rwanda-kageyo-fresh-coffee-and-a-fresh-infrastructure-project/">HERE</a>.</em></p>
+<p> </p>
+<p><span data-sheets-userformat='{"2":8963,"3":[null,0],"4":[null,2,16043212],"11":0,"12":0,"16":8}' data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The washing station Kageyo lies in the highlands surrounding the southeastern shores of Lake Kivu. It's not too far from another washing we purchase coffee from, Gitesi, and is a coffee that hits a similar quality target. In fact, Kageyo was the 1st place winner of Rwanda's Cup of Excellence coffee competition in 2011. But other than winning this competition, the cooperative struggled during this time, taking out a bank loan to build a new wet mill that low harvests made it difficult to repay. A private exporter stepped in to help out, purchasing the wet mill, but leaving the farmer cooperative structure intact. This has benefited the coop in that they are absolved of their loan debt, have a direct connection with the specialty market through a well-established export partner, and retain a supply chain that is completely transparent. This is the first year we've bought this coffee, and let's just say we're happy we picked up more than one lot. The coop is made up of small farmers situated around the wet mill between 1800 - 2000 meters above sea level.  Like much of Rwanda, the coffee planted in the region is Bourbon variety. We \&quot;built\&quot; this lot by looking at all their day lot batches and combining the best ones. It's worth mentioning that this should not be confused with \&quot;Kigeyo\&quot;, a name that you may recognize from other cafe menus. Currently the output of Kageyo is about 200 bags, all of which is split between us and one other buyer.&quot;}">The washing station Kageyo lies in the highlands surrounding the southeastern shores of Lake Kivu in Rwanda's Ngororero district. It's not too far from another washing we purchase coffee from, Gitesi, and is a coffee that hits a similar quality target. In fact, Kageyo was the 1st place winner of Rwanda's Cup of Excellence coffee competition in 2011. But other than winning this competition, the cooperative struggled during this time, taking out a bank loan to build a new wet mill that low harvests and insufficient mill capacity made it difficult to repay. A private exporter stepped in to help out, purchasing the wet mill, but leaving the farmer cooperative structure intact. This has benefited the coop in that they are absolved of their loan debt, have a direct connection with the specialty market through a well-established export partner, and retain a supply chain that is completely transparent. But they're not out of the woods, still needing capital to expand their milling infrastructure in order to increase their procuction capabilities. We're helping with this project, and you are too by buying this coffee (a donation is made for every pound sold). The association is made up of small farmers situated around this 2000 meter wet mill, and coffee in the region is some of the highest altitudes we're purchasing in all of Rwanda. Like much of Rwanda, the coffee planted in the region is Bourbon variety. We "built" this lot by looking at all their day lot batches and combining the best ones. It's worth mentioning that this should not be confused with "Kigeyo", a name that you may recognize from other cafe menus. These 44 bags are made up of Lots 381 and 382, day lot separations put together based on identical cup profiles.</span></p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Kivu Kageyo" data-chart-score="88.1" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.9,Brightness:8.6,Flavor:9,Body:9,Finish:8.7,Sweetness:8.9,Clean Cup:8.5,Complexity:8.9,Uniformity:8" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This lot from Kageyo shines in both light and dark roast applications, the cup boasting equal parts raw sugar sweetness and complex cocoa and spice notes. At City, the dry fragrance has smells of toasted sugars with dark, caramelized brown sugar scent that hints at sticky buns. Closer to Full City sees a shift toward darker cocoa roast tones, with a subtle dried fruit accent . The wet aroma has a wonderful honey note, with smells of spiced tea released in the steam when breaking through the crust. In the brewed coffee, layers of raw sugar and spice notes clove are tightly woven together when the cup is piping hot. But as it cools, these layers are peeled back one at a time, revealing flavors of brown sugar, cinnamon, cane juice, clove and more. There's tea-like brightness, especially at City and City+ roast levels, and structures the cup profile nicely and adds to a tannic finish. Middle roasts construct a chocolate undertone, with a finishing flavor of chocolate raisin and dried blueberry. Both light and dark roasts are truly delicious! Espresso shots at Full City gush syrupy chocolate notes, and with a lovely dark grape accent, make for a remarkable single origin espresso</p> </div>
+</div>
+</div>
+</div>
+</div>]

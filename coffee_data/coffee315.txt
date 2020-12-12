@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Buesaco Luis Fernando Benavidez" data-chart-score="87.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.7,Brightness:8.5,Flavor:8.7,Body:8.8,Finish:8.5,Sweetness:8.6,Clean Cup:8.4,Complexity:8.5,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Buesaco Luis Fernando Benavidez" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:3,Fruits:1,Citrus:0,Berry:1,Cocoa:3,Nuts:2,Rustic:0,Spice:0,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Buesaco, Nariño, Cauca</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Dried, Covered</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+12</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Variedad Colombia, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.5 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="1.383483" data-lng="-77.155526" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This delicious coffee comes from a farmer named Luis Fernando Benavidez whose farm is located in the outskirts of Buesaco town, Nariño. We haven 't visited his farm just yet but are hoping to when the Nariño harvest starts back up later in the year. Like most farmers in this region, you can expect a mix of Caturra and Variedad Colombia coffee cultivars and farms tend to be in the 1900-2000 meters above sea level range. He's a member of the coffee association in Buesaco we're buying from, a newer venture started by two brothers who stepped out on their own to offer a more direct and transparent option than some of the local competitors. In the three years they've been operating, association membership has grown and we've been tasting some truly impressive coffees when cupping at their warehouse on our last couple of visits. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Buesaco Luis Fernando Benavidez" data-chart-score="87.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.7,Brightness:8.5,Flavor:8.7,Body:8.8,Finish:8.5,Sweetness:8.6,Clean Cup:8.4,Complexity:8.5,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>At City roast level, the dry fragrance is laced with butterscotch, panela sugar sweetness and an almond accent. With a shade more development, there's a fruited note that's like raisin and blends in nicely with a solid core bittersweetness. The wet aroma smells caramel-y sweet and almond accents bring to mind biscotti. That caramel-sweet flavor aspect is apparent in the cup too. The coffee is bodied and sweet at a wide range of roasts. Flavors up front show caramelizing sugar sweetness, brown sugar, candied pecan and pistachio torrone/nougat candy. There's a return to flavor elements of nut brittle that was sensed in the smells and the finish leaves behind roast-y almond and traces of a sweet toffee accent note. Full City tethers a ribbon of bittering chocolate roast tone to the core bittersweet coffee flavors, particularly dominant when the coffee is hot, but shifts into raw sugar sweetness as the cup cools down a bit. A fantastically sweet cup of coffee!</p> </div>
+</div>
+</div>
+</div>
+</div>]

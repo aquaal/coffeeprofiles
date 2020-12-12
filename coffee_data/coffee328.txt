@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Inzá Palomos del Sur" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.6,Brightness:8.4,Flavor:8.5,Body:8.7,Finish:8.2,Sweetness:8.5,Clean Cup:8.3,Complexity:8.7,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Inzá Palomos del Sur" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:1,Fruits:1,Citrus:1,Berry:2,Cocoa:2,Nuts:0,Rustic:1,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Variedad Colombia</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Agua Blanca, Inzá</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+33</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Variedad Colombia</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen - a few partial quaker beans</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="2.499523" data-lng="-76.020699" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>You may be familiar with the name "Los Palomos" because of the small lots we've purchased from the Urrao coffe farm we've purchased in past years. This is the sister farm in the south in Inzá, Cauca, also owned by Leonardo Henao and managed by his good friend Robinson Pillimué. Leo's worn many hats in his years of coffee work including farmer outreach, studying agronomy and fermentation at University, handling logistics for coffee exporters, and managing his own farms name a few. Palomos del Sur was already planted in coffee when Leo bought the land, mostly Variedad Colombia and Castillo. Since acquisition, Leo and Robinson have planted several thousand new coffee trees, including Caturra, Bourbon, Gesha and others. The farm is located in Vereda Agua Blanca and altitude runs a range from 1750 to about 1900 meters above sea level.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Inzá Palomos del Sur" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.6,Brightness:8.4,Flavor:8.5,Body:8.7,Finish:8.2,Sweetness:8.5,Clean Cup:8.3,Complexity:8.7,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance of Palomos del Sur has herbal-sweet smells at City+ roast level, raw sugar and subtle earth-toned accents. The wet aroma has a complex molasses smell, with accents of date and pine resin escaping with the steam when breaking through the wetted crust. At City+ the sweetness in the brewed coffee has a pungent, caramelizing sugar flavor, accented by hints of berry and fresh tarragon leaf in the finish. Fruits don't factor in too heavily in the cup, but I pick up on a flavor that reminds me of cooked plantain. Darker roasting develops deeper low tones, like roasted cacao nibs and baking cocoa. Acidity comes through in light and middle roasts, though still on the moderate side overall.</p> </div>
+</div>
+</div>
+</div>
+</div>]

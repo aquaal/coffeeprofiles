@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Nariño Las Estrellas" data-chart-score="89.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:9,Brightness:8.6,Flavor:9.2,Body:8.8,Finish:8.7,Sweetness:9.3,Clean Cup:8.7,Complexity:8.9,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Nariño Las Estrellas" data-chart-type="polarArea" data-chart-value="Floral:1,Honey:3,Sugars:4,Caramel:2,Fruits:2,Citrus:2,Berry:2,Cocoa:2,Nuts:1,Rustic:0,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Nariño, Cauca</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Dried, Covered</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+19</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Variedad Colombia, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City, dense coffee that can take the heat and I imagine will still show balanced bittersweetness at Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="1.383483" data-lng="-77.155526" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>"Las Estrellas" ("the stars") is the name we reserve for a custom blend we put together from the highest scoring Colombian coffees of the season. This one from Buesaco, Narino, is made up of coffees from a handful of small producers. The lots delivered ranged in size from 50kg to 500kg and together amounted to 19 bags in total. The local coffee association that these farmers belong to was started a couple years back by two brothers. After many years working for other associations, they stepped out on their own to offer a more direct and transparent option for local farmers to sell their coffee than some of their local competitors. Association membership continues to grow and we tasted some truly impressive coffees when cupping at their warehouse on our last visit. Farms are typically planted in Caturra and Variedad Colombia (F4 and F6 types), grown at altitudes between 1700 and 2100 meters above sea level. These high grown Colobian coffees tend to show balanced bittersweetness, as well as complex aromatics and acidity. Buesaco in particular is known for very high altitude farms, coffee growing at 2100+ meters above sea level is not uncommon. The seed density, due in part to slower seed maturation in these high altitude areas, translates to roast versatility too, coffees that hold up to high heat application and darker roasting in general.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Nariño Las Estrellas" data-chart-score="89.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:9,Brightness:8.6,Flavor:9.2,Body:8.8,Finish:8.7,Sweetness:9.3,Clean Cup:8.7,Complexity:8.9,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Living up to its name, "Las Estrellas" is truly a star of the new arrival Colombias. Subtle floral hints and honeyed sweetness are highlights, with clean, refined sweet flavors ringing out through a very long aftertaste. The dry fragrance and aroma see potent raw honey at its peak, along with a accents of herbal tea leaves, pistachio and rose water. I often found "floral" at the tip of my tongue when contemplating Las Estrellas' cup. Not flowery like an Ethiopian coffee, but in the way that raw honey has a perfumed quality and incites a retronasal response. The cooling brew of a City roast has flavors of honey sticks with beeswax, an immense sweetness that fills your palette. As you move through the cup fruits beging to show, like mandarin orange and sweet fleshy stone fruits. Acidic impressions are similar to apple juice and pull together complex top notes. In the category of 'sweetness' alone this is a competition level Colombia (9.3!), and makes a superb pour over at City and City+ roast levels. Being a high grown, dense seed, that sweet side will hold up to much darker roast levels too.</p> </div>
+</div>
+</div>
+</div>
+</div>]

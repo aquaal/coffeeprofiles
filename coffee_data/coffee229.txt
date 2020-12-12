@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Guatemala Xinabajul La Libertad" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.7,Brightness:8.5,Flavor:8.7,Body:9.3,Finish:8.3,Sweetness:8.7,Clean Cup:8.5,Complexity:8.4,Uniformity:8.2" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Guatemala Xinabajul La Libertad" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:1,Citrus:0,Berry:1,Cocoa:4,Nuts:2,Rustic:0,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Bourbon Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+La Libertad, Huehuetenango</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+May 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+34</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Caturra, Catuai, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="16.789749" data-lng="-90.126214" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>The coffees that make up this lot are from the La Libertad Municipality in Huehuetenango. The farms in La Libertad stretch up into the hillside villages that top out around 1800 meters. Most farmers are planting a mix of cultivars, Bourbon, Caturra, Typica and Catuai are typically what you see from one farm to the next. Wet processing is handled locally, often at home or at a wet mill shared by family, the community, or both. The coffee is typically dried on cement patios though you do see some indoor drying rooms at some of the farms. After drying the coffee down to about 11% moisture level, it is transported to a dry mill in Huehuetenango town where the parchment layer is removed, the coffee sorted, and then finally prepped for export. We spent many hours at the cupping table sorting through small producer lots from the region in order to put this 34 bag lot together. This is our first of two custom blended lots we will sell under the "La Libertad" name.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Guatemala Xinabajul La Libertad" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.7,Brightness:8.5,Flavor:8.7,Body:9.3,Finish:8.3,Sweetness:8.7,Clean Cup:8.5,Complexity:8.4,Uniformity:8.2" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The aromatic profile is built on toasted sugars, caramelized and smoky sweetness as the roast develops, with hints of dark chocolate brownie. Brown sugar smells found in the dry fragrance carry over into the wet aroma as a sort of butter pecan smell, and something like sweet cream with toasted nut. The brewed coffee is a real crowd pleaser and shows balanced sweetness no matter your roast preference. City and City+ roasts have unrelenting sweetness of unrefined sugars, a little bit of roasted almond in the back end, as well as a tea-like vibrance that breathes life into the bittersweet cup. As it cools, subtle fruit accents hint at red raisin and a lemon grass note in the finish. Dark chocolate bittersweets are intense at Full City and Full City+, low tones a plenty, with just a dash of dried dark fruit in the flavor profile. No matter where your roast winds up, La Libertad is a bodied cup with the weight of fruit juice, and proffers an acidic impression when roasted light without being the coffee's focal point. My Full City+ roast made a bittersweet single-origin espresso shot with dominant flavors of high cocoa content chocolate bar, aromatic highlights of crisped rice and dried goji berry.</p> </div>
+</div>
+</div>
+</div>
+</div>]

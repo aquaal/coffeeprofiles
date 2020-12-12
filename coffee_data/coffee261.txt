@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Java Sunda Wet Hulled Mitra" data-chart-score="86.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:7.6,Flavor:8.6,Body:9.2,Finish:8.2,Sweetness:8.4,Clean Cup:7.2,Complexity:9.5,Uniformity:8" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Java Sunda Wet Hulled Mitra" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:1,Fruits:3,Citrus:0,Berry:2,Cocoa:2,Nuts:0,Rustic:4,Spice:1,Body:5">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Giling Basah</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Bandung Highlands, West Java Sunda</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Hulled (Giling Basah)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+December 2018 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+30</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Ateng</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr; 15+ screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-7.172299" data-lng="107.590560" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>"Mitra" means "partners" in Javanese, and the name used by the folks at Frinsa Estate to denote that the coffees making up this blend are from small neighboring farmers that they partner with rather than their own estate. Frinsa Estate is a family run farm and export company in the Bandung highlands region of West Java. The farm was set up in 2011 and planted in mostly Ateng types, a Catimor commonly planted in Indonesia. The neighboring farmers are growing a mix of the same cultivar types and altitude ranges from 1300 to 1600 meters above sea level. While they do wet processed coffees at Frinsa as well, this is a wet hulled, "<a href="https://legacy.sweetmarias.com/library/why-should-you-know-giling-basah">giling basah</a>", coffee which tends to produce bodied, low acid, and earth-toned coffee. Frinsa Estate has their own wet mill, dry mill and warehouse storage facilities and able to monitor quality control from the initial cherry harvesting all the way down to sorting defects from processed green beans. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Java Sunda Wet Hulled Mitra" data-chart-score="86.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:7.6,Flavor:8.6,Body:9.2,Finish:8.2,Sweetness:8.4,Clean Cup:7.2,Complexity:9.5,Uniformity:8" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>When it comes to coffee processing technics influencing a coffee's cup profile, wet hulling yields fairly consistent results. The levels of sweetness, cleanliness, acidity, etc will vary depending on processing conditions, but wet hulling almost certainly produces rustic sweetness, massive body, and intense herbal and earth tones. That's an accurate general description of this Java, and there's a lot more to find in this complex coffee depending on how dark it's roasted. At City+, the cup is shows nice intensity that will win over fans of Sumatran coffees. An herbaceous aroma is offset by prune-like fruited flavor and rustic brown rice syrup sweetness. There are red fruit, plum, bell pepper and a sort of cedar aromatic note that reminds me of a cigar humidor. The finish is tannic and with mountain berry hints has a wine-like influence on aftertaste. Full City roasts have cacao and carbon flavors, more of the plum/prune character, and a horehound candy, herbal-sweet finish. </p> </div>
+</div>
+</div>
+</div>
+</div>]

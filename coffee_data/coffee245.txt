@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Nicaragua Dry Process Acopio Suyatal" data-chart-score="87.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.5,Brightness:8.2,Flavor:8.9,Body:9.1,Finish:8.7,Sweetness:8.7,Clean Cup:7.9,Complexity:9.5,Uniformity:8.3" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Nicaragua Dry Process Acopio Suyatal" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:2,Sugars:2,Caramel:1,Fruits:4,Citrus:1,Berry:3,Cocoa:3,Nuts:2,Rustic:1,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Dipilto, Nueva Segovia</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+July 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+5</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="13.721348" data-lng="-86.507888" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Finca Acopio Suyatal comes to us from Dipilto, a region within the larger Nueva Segovia Department. Nueva Segovia sits along the northern border of Nicaragua, very close to Honduras, and offers some of the most ideal climatic regions for coffee production in Nicaragua. At 1500 meters, Acopio Suyatal is one of the highest altitude farms of the small suite of estates run by Cafetalera Buenos Aires. The farm is roughly 10 manzanas in size and planted in mostly Caturra with some Maragogype shrubs peppered throughout. This is a small dry process, all Caturra cultivar lot separation. These micro lots are given special attention. The cherry is floated to remove under and overripe cherries, then laid to dry on raised African beds. The cherry is then hand picked over the time it takes to dry on the beds, generally around 3 weeks. At 1200 meters, Finca Buenos Aires is a somewhat low farm compared to other origins we buy from. Yet this farm produces some of our best Nicaraguan lots each year. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Nicaragua Dry Process Acopio Suyatal" data-chart-score="87.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.5,Brightness:8.2,Flavor:8.9,Body:9.1,Finish:8.7,Sweetness:8.7,Clean Cup:7.9,Complexity:9.5,Uniformity:8.3" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>A distinct berry smell is released when grinding the coffee, along with a scent of green tree nuts like pistachio. The wet aroma is less fruited and expresses toffee sweetness with a note of brown sugar and cinnamon. The cup is fruit-forward at a wide range of roasts, berry highlights being the most obvious characteristic. The fruited qualities are like dried fruit and fruit jam, and if you've tasted the wet-process version of Suyatal, this lot illustrates how different coffee can taste depending on how the coffee was processed. The cup is weighty in texture and lends to flavor notes of strawberry milk and berry sauce, which lead into tree nut notes and a fruit toffee flavor in the finish. Full City roasts have an appealing bittersweet roast flavor that compliments deep, dark fruit tones and equates to a delicious darker roasted brew.</p> </div>
+</div>
+</div>
+</div>
+</div>]

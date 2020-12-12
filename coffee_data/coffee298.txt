@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Brazil Colinas de Pedralva" data-chart-score="86.2" data-chart-type="radar" data-chart-value="Dry Fragrance:7.8,Wet Aroma:8.3,Brightness:8,Flavor:8.3,Body:9,Finish:7.9,Sweetness:8.4,Clean Cup:7.5,Complexity:8.8,Uniformity:8.2" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Brazil Colinas de Pedralva" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:2,Fruits:2,Citrus:0,Berry:2,Cocoa:2,Nuts:3,Rustic:2,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Pedralva</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+36</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Catuaí</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr, 16-18 Screen - some quaker beans</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-22.272110" data-lng="-45.439625" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>"Colinas de Pedralva" means the "hills of Pedralva", the rolling mountains in the Pedralva region home to so many coffee producers. This is a blend from 6 different farmers from the growing areas of Cristina, Lambari and São Gonçalo do Sapucaí, all part of Minas Gerais. The six women whose coffees are represented here are members of an all-female farmer group in Lambari Municipality, the Association of Coffee Women Entrepreneurs, or  "AMECAFE" for short. With more than 150 members, AMECAFE provides technical assistance as well as a connection to coffee buyers like ourselves. The farms range in size from very small, just a few hectares, to upwards of 40 hectares (still small by Brazilian standards). The coffee is harvested manually, which means there is some cherry selection involved, as opposed to strip picking with machines. This is the first year we've bought coffee from AMECAFE producers and the access to samples representing tiny lots of coffee was impressive to say the least, affording us an added layer of quality control by enabling us to build some of our own blends (typical in regions like Guatemala and Colombia, but not Brazil!). This blend was constructed by one of the AMECAFE members we are working with who is also a Q-grader.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Brazil Colinas de Pedralva" data-chart-score="86.2" data-chart-type="radar" data-chart-value="Dry Fragrance:7.8,Wet Aroma:8.3,Brightness:8,Flavor:8.3,Body:9,Finish:7.9,Sweetness:8.4,Clean Cup:7.5,Complexity:8.8,Uniformity:8.2" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance has a rustic, leathery tone underneath molasses sweetness, and nutty smells like you might expect from Brazil. The wet aroma has more intense sweetness, date sugar and molasses, and a savory contrast note like miso paste. A fruited side shows up in the cup and is on the mirky side, low intensity, but relatively indistinct (maybe a bit like dried cherry). The nut tones are most prominent when the cup is hot and have a chocolate-covered nutty flavor. As the coffee cools, they are surprisingly more subdued and the brew is dominated by flavors of rustic sweeteners, some of that dehydrated fruit I mentioned and a finishing note like sweet peanut sauce. There is a sort of a leathery note that shadows the cup at light and dark roasts, which isn't uncommon for the region. Whatever the case, if I'm drinking Brazil, it tends to be outliers like this lot that show a bit more fruit, perhaps due to longer drying times and slight fermentation inside the cherry as a result. Full City has massive body and chocolate/carob-like flavors as it cools. Definitely a Brazil for espresso.</p> </div>
+</div>
+</div>
+</div>
+</div>]

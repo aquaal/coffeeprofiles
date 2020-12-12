@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Kenya Nyeri Othaya Gura" data-chart-score="91.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.4,Brightness:9.3,Flavor:9.3,Body:8.9,Finish:9.2,Sweetness:8.7,Clean Cup:9,Complexity:9.4,Uniformity:8.5" data-cupper-correction=".5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Kenya Nyeri Othaya Gura" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:2,Sugars:4,Caramel:1,Fruits:3,Citrus:2,Berry:2,Cocoa:2,Nuts:0,Rustic:0,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Nyeri</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+July 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+11</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+SL-28, SL-34, Ruiru-11</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+AB and AA</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15-19 Screen - a blend of AB and AA screen sizes; we noted a few 'shells', the hollow coffee beans that SL varieties are known to produce and in this small amount will not affect the cup</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-0.438238" data-lng="36.958363" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This coffee is from the Gura Factory, a washing station more or less that rests near the banks of the Gura river. Nothing industrious about this "factory", except for the machinery to wash and depulp coffee cherries! Gura is one of 19 washing stations that make up the Othaya Farmer's Cooperative Society, a coop-run organization, one of the older ones I might add. Altitude of the washing station is just shy of 1750 meters and the coffee is grown between 1750 to 2000 meters (mostly SL-28, SL-34, with some Ruiru-11). We try our best to return to the societies who regularly produce some of the best Kenya coffees we see, and each year we come across coffees new to us - like Gura - and this list continues to grow. This coffee was purchased direct, not through the Kenya auction system, so we could avoid the risk of losing it. To do this we pay a price that is higher than what the top auction bid might be, but it means we get the exact lot we want. In Kenya, coffee grades are determined by bean size, which are referred to as "out-turns". The most common out-turns are AA (17-19 screen - measured in 1/64ths in.), AB (15-17 screen), and Peaberry,". This is a mixture of AB and AA out-turns, meaning the bean sizes range from 15 to 19 1/64ths of an inch.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Kenya Nyeri Othaya Gura" data-chart-score="91.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.4,Brightness:9.3,Flavor:9.3,Body:8.9,Finish:9.2,Sweetness:8.7,Clean Cup:9,Complexity:9.4,Uniformity:8.5" data-cupper-correction=".5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Gura makes for a lovely coffee at both ends of our recommended roast range, with complex flavors that are somewhere between dried and 'juicy' fruits. Raw sugar and dried fruited sweetness are at the core of the fragrance and aroma, really commanding your attention. Be on the lookout for smells of simple brown sugar, raisin and black currant. Light roasts have a tart cranberry flavor when brewed, along with citrus and honey-wheat notes that read 'Hefeweizen with a lemon wedge'. Gura's acidity level rates a bright 9.3, citric in character, feeding into a pulpy orange juice flavor in finish. I love roasting washed Kenyas to Full City, as more developed roasting can bring out darker fruit tones, which is the case with Gura. Body may be a little thin, but Full City roasts bring about a delicious grape note with a complex cardamom spice accent that are flanked by syrupy, bittersweet, chocolate roast flavors. A fantastic pour-over brew all along the recommended City to Full City roast spectrum.</p> </div>
+</div>
+</div>
+</div>
+</div>]

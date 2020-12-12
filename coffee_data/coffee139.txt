@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Nyamasheke Karambi" data-chart-score="88.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.9,Brightness:8.7,Flavor:9,Body:8.3,Finish:8.8,Sweetness:8.6,Clean Cup:8.5,Complexity:8.8,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Nyamasheke Karambi" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:1,Fruits:2,Citrus:2,Berry:0,Cocoa:2,Nuts:0,Rustic:0,Spice:3,Body:2">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Karambi town, Nyamasheke District</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+January 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+40</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.331320" data-lng="29.230620" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Not far from the shores of Lake Kivu lies Karambi, a washing station named after Karambi town where it resides. The altitude at Karambi station is 1700 meters above sea level and the coffee is grown upwards of 2000 meters in the surrounding mountainside. The station was erected to buy coffee from smallholder farmers in the region, many whom also work at the site processing and preparing the coffee for export. Quality grading starts immediately upon delivery, the underripe coffee separated out by floating in tanks of water. They produce wet-process ("fully washed"), honey process and dry process ("naturals") coffee at Karambi and all three undergo intensive sorting technics in order to make sure the A1 grade coffee is made up of the densest seeds. This is a wet process lot and we still have the natural in the wings for early Summe so stay tuned.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Nyamasheke Karambi" data-chart-score="88.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.9,Brightness:8.7,Flavor:9,Body:8.3,Finish:8.8,Sweetness:8.6,Clean Cup:8.5,Complexity:8.8,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance has a sturdy smelling sweetness when roasted to light and medium roast levels. It may seem a bit basic at this stage of the cupping (the ground coffee), but is clean and certainly very sweet. The wet aroma is markedly more intense, with a lot more to take in. The steam is filled with complex accents of baking spice and tea-like notes and the sweetness has a smell of cooked sugars. So nice! The sweetness in the brewed coffee is like brown sugar at first and shifts to a wheat malt flavor in the finish (think white beer). I found the aroma at City roast level to be spiced with hints of coriander, Curacao and five-spice powder. Full City roasts bring out more of the bittersweet side of this coffee and develops flavor aspects of spiced Mexican cocoa. City roasts are what won me over though, with lovely dry spice and herbal tea flavors that add an elegance to the cup, along with an acidic impression that's like sweet citrus. </p> </div>
+</div>
+</div>
+</div>
+</div>]

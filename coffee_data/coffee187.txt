@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Guatemala Antigua Finca Cabrejo" data-chart-score="86.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.4,Flavor:8.7,Body:9.3,Finish:8.5,Sweetness:8.7,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Guatemala Antigua Finca Cabrejo" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:1,Citrus:1,Berry:1,Cocoa:3,Nuts:1,Rustic:0,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Antigua</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+July 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+79</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+46 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+B300, Villa Sarchi</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 16-18+ Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="14.554572" data-lng="-90.736911" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>As you descend into the picturesque town of Antigua on the road from Guatemala City, you will see an old brick wall and the unlikely gold script lettering that reads "Cabrejo." This is the entrance to the home of Agustin Fashen, and the gateway to the lower part of Finca Cabrejo that lies between the one-way roads in and out of Antigua. To get to the higher part of the farm, you will find a much less ornate sign, if you can find it at all. It spans a wide range, from 1,585-1,920 meters, and on our first trip several years ago, the trees seem to be in various stages of care, various types, various ages. But in the last two years, Cabrejo has undergone serious renovation, adding better road access, pruning some of the older trees, and replanting several parts. The current shrubs are mainly Bourbon, Villa Sarchi, Caturra and some Catuai. Actually, we found some very old Arabigo (Typica) plants as well, and some had yellow fruit.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Guatemala Antigua Finca Cabrejo" data-chart-score="86.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.4,Flavor:8.7,Body:9.3,Finish:8.5,Sweetness:8.7,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Cabrejo shows high level of caramel and raw sugar sweetness in brewed cups, City+ roasts accented by raisin and semi sweet chocolate notes filling out the finish. The dry fragrance shows unrefined sugar sweetness, as does the wet aroma, a light touch of cinnamon spice in light roasts, and heavily weighted in caramelizing sugar sweetness. This sweet set of scents offers a glimpse into the brewed cup too and Cabrejo is as versatile in brew method as it is in the roaster. It boasts big body, brooding raw sugar sweetness, and balanced bittersweetness in the finish across a wide range of roasts. When roasted to City/City+, top note complexity comes into focus as you move through the cooling cup, accents of chopped dates, raisin and a lemon tea note offers a bright spot. At Full City there's a pleasing spiced cocoa flavor that unfolds to accent notes of oatmeal cookies with raisins. Apple-like brightness comes through in the cooling cup, tethering top notes to the base cup flavors. Full City roasts and beyond make great SO espresso as well - so viscous and chocolatey bittersweet, with a rindy citrus brightness up front.</p> </div>
+</div>
+</div>
+</div>
+</div>]

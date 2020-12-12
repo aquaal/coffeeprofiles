@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Guji Hambela Dabaye" data-chart-score="90.9" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.3,Brightness:8.9,Flavor:9.1,Body:9.5,Finish:8.8,Sweetness:9.3,Clean Cup:8.5,Complexity:9,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Guji Hambela Dabaye" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:2,Sugars:4,Caramel:2,Fruits:2,Citrus:2,Berry:1,Cocoa:1,Nuts:0,Rustic:0,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Dame Dabaye, Hambela Wamena, Guji</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+August 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+150</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Cultivars</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 15+ Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate, Sale Coffee</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="5.846100" data-lng="38.665812" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Remember our 2018 Ethiopia dry process "Hambela Hassan" coffee? This is from the same station owner, Kedir Hassan, the older sibling to Esmael Hassan, who you may remember as the producer of another Guji coffee we've also carried, Kayon Mountain. "Dabaye" is the name of the kebele where this Hambela station is located (a town, more or less). We were lucky enough to be hosted at this station on our December 2018 visit, camping out in a pair of military tents replete with cots, overlooking the couple hundred drying tables below us. Kedir is an incredibly proficient and capable engineer as well as coffee farmer, and built the entire Hambela station in one season. You wouldn't know this, as it's visually apparent everything was built with high processing standards, and with efficiency in mind. Of course he did not complete Hambela on his own, and thanks to his long standing connection with the the people in this area, he had much needed community support. Hambela sits at 1816 meters above sea level, and coffee is grown as high as 2100 meters. They mostly buy coffee from farmers in the surrounding kebeles of Buliye, Wamena, Borticha, Dari Rogicha and Dabaye, of course. This is the wet process lot from the Dabaye station, and we have its dry process counterpart right now as well too - an opportunity to taste the role processing plays on cup profile. Check out the fruit-forward, dry process ("natural") Hambela Dabaye <a href="https://www.sweetmarias.com/ethiopia-dry-process-guji-hambela-6608.html">HERE</a>.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Guji Hambela Dabaye" data-chart-score="90.9" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.3,Brightness:8.9,Flavor:9.1,Body:9.5,Finish:8.8,Sweetness:9.3,Clean Cup:8.5,Complexity:9,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Delicious and somewhat delicate, this wet-processed lot from Hambela packs impressive sweetness and body, with top notes that are mildly present. The dry fragrance has raw sugar complexity, a note of vanilla, five spice and muted hints of dried fruits. The wetted grounds of City roasts extend an aroma that is peach-like, along with some of that vanilla, a creamy sweetness that lends to a flavor that recalls peaches and cream. City and City+ roasts produce layers of sweetness that when peeled back reveal raw sugars as well as pectin-type, fruited flavors as it cools. In the hot cup, the sweet flavors are like demurara sugar (unrefined cane sugar with molasses intact) and cream soda, along with a subtle bittering coffee tone underneath and dried stone fruit hint accenting the finish. As the coffee cools down some, I pick up on more specific flavor notes like nectarine, lemon squares, clove in the aroma and acidic impression that's a lot like peach. I don't want to overpromise here with the fruit. For me, all these characteristics are present, but in smaller amount (other than sweetness) than some of our more overtly fruited, washed Ethiopias. But anice fruited quality does manage to come through and is well integrated into the coffee's sweetness.</p> </div>
+</div>
+</div>
+</div>
+</div>]

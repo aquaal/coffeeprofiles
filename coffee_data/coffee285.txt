@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Sumatra Sipangan Bolon Parapat Village" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:7.9,Wet Aroma:8.3,Brightness:8.4,Flavor:8.7,Body:9.2,Finish:8,Sweetness:8.4,Clean Cup:7,Complexity:9.7,Uniformity:8.1" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Sumatra Sipangan Bolon Parapat Village" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:1,Fruits:2,Citrus:2,Berry:1,Cocoa:3,Nuts:0,Rustic:4,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Hulled</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Typica Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Parapat Village, Sipangan Bolon, Northern Sumatra</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Hulled (Giling Basah)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+50</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Ateng, Jember, Tim Tim</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Triple Pick</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+1+ d per 300 gr; 16+ screen - Sumatran coffees will always have bug holes, broken beans and discoloration. That said, this has been hand-picked and is about as "clean" as any wet-hulled I've seen.</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="2.655216" data-lng="99.001579" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p><span data-sheets-userformat='{"2":8835,"3":{"1":0},"4":[null,2,14277081],"10":2,"12":0,"16":8}' data-sheets-value='{"1":2,"2":"Pak Fendi is a collector in Sipangan Bolon district located near Parapat village on the east shores of Lake Toba.  He purchases wet parchment from the surrounding farmers, mostly sigarar utang variety. "}'>Parapat Village lies on the east short of Lake Toba, a district called Sipangan Bolon. This part of North Sumatra is a ways away from Aceh, where many of our Sumatran coffees are from, but the flavor profile is quite similar to the Aceh coffee. Expect herbal-to-rustic sweetness, earth tones, big body and generally an extremely complex cup.This coffee was purchased through a coffee collector near Parapat who buys from a few different farmer groups in the region.   This particular lot comes from a group of 360 farmers in the hilly outskirts of Parapat who are growing mostly S795 and Typica. Altitude ranges from 1150 to 1200 meters. This lot struck us as having pronounced acidity for Sumatran coffee, though I wouldn't categorize it as "bright". Still, it adds a level of structure missing in some others.</span></p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Sumatra Sipangan Bolon Parapat Village" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:7.9,Wet Aroma:8.3,Brightness:8.4,Flavor:8.7,Body:9.2,Finish:8,Sweetness:8.4,Clean Cup:7,Complexity:9.7,Uniformity:8.1" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This Northern Sumatra coffee shares many cup characteristics with the classic, herbal-toned coffees of Aceh. The dry fragrance has a resin-like sweetness, rustic but nicely potent. The wet aroma has forest-y smells, pine sap, cedar shakes and the like. In the brew, this coffee from Parapat village shows surprising vibrance for a wet-hulled coffee. I wouldn't call it "bright", but it does have a orange rind flavor that offers a bright spot amidst strong earth tones, licorice root and a note of peat in the finish. The flavor profile unfolds as is it cools and is as complex as any of our other Sumatran coffees we had this year. Full City roasts unlock smokey chocolate roast flavors that are accented by notes of pipe tobacco, burdock, basil and chocolate-malted grains. </p> </div>
+</div>
+</div>
+</div>
+</div>]

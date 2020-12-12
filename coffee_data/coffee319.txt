@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Doña Yessica Heirloom Caturra" data-chart-score="89.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:9,Brightness:8.7,Flavor:9.1,Body:8.8,Finish:9.2,Sweetness:8.7,Clean Cup:8.6,Complexity:9,Uniformity:8.3" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Doña Yessica Heirloom Caturra" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:1,Sugars:3,Caramel:0,Fruits:2,Citrus:1,Berry:2,Cocoa:1,Nuts:0,Rustic:0,Spice:2,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Urrao, Antioquia</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+6</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+ GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Caturra ("Caturra Chiroso")</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 16-19 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="6.314182" data-lng="-76.132583" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This microlot from our latest container of Colombia arrivals comes to us from the Pavon Valley area of Urrao, Antioquia. Urrao is a unique growing region for many reasons. Coffee farmers are afforded high altitudes (the valley floor starts at 1800 meters, farms planted up to 2100!), regular rainfall, and an ideal temperature range for growing coffee almost year round (centered around 2 main harvests). There is also an heirloom cultivar found at a lot of farms in Urrao that we don't see in other parts of the country. As best as we can tell, this cultivar (locally referred to as "Caturra Chiroso") is a natural regression of Caturra, standing out from other cultivars by tree height, and the elongated and narrow-shaped cherries/seeds that look an awful lot like Typica. And perhaps most important, the cup is known to be fruit forward, and even floral. Passed from one neighbor to the next, several farmers have taken to planting their farms exclusively in this heirloom cultivar. This particular lot is from Yesica Moreno Montoya, whose coffee we've bought in the past and always goes into our "Heirloom Caturra" blend. This time she delivered 6 full bags - a record for Yessica - and so we decided to separate out as a single lot feature. Her farm is planted entirely in this heirloom Caturra and is around 1 hectare in size. This is a fully-washed coffee processed at home. Fermentation times in Urrao tend to be on the long side in comparison to other parts of Colombia, partly because of the cold weather and water, but also because farmers tend to mix process batches over the course of a few days. They change out the water daily to avoid over fermentation but the long fermentation often lead to a more fruited cup like this one. It works well given the climate, and no surprise Urrao coffees tend to be some of the more fruit-forward Colombian coffees we buy.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Doña Yessica Heirloom Caturra" data-chart-score="89.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:9,Brightness:8.7,Flavor:9.1,Body:8.8,Finish:9.2,Sweetness:8.7,Clean Cup:8.6,Complexity:9,Uniformity:8.3" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The patient drinker will be rewarded, as the cooling cup reveals much in the way of delicate top note complexity and fruited sweetness. The ground coffee of light roasts has layered fruited smells like candied berry, cherry jelly beans and more. The wet aroma sees a boost in fruited characteristics, plum and berry notes make for a lively aroma at City+ and an aromatic floral note is released in the steam. From the first sips of the hot coffee, flavors of plum and berry peek out from beneath a grounding raw sugar sweetness, and something akin to baking spice accents the aroma. City+ roasts do develop subtle cocoa bittersweetness, but when kept well outside 2nd snaps, it doesn't detract from fruited complexity. The cooling cup makes way for top notes of red flame grape, tropical fruit accents and raspberry leaf tea. Acidity has the briskness of black tea and subtle effervescence that's like champagne yeast and adds welcome structure to the complex cup flavors. At a range of City to City+ roast level, this heirloom Caturra micro-lot is a standout cup of coffee, perfect for a special pour-over or small-batch brew.</p> </div>
+</div>
+</div>
+</div>
+</div>]

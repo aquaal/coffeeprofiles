@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Burundi Kazoza N'ikawa Station" data-chart-score="88.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.8,Flavor:9,Body:8.6,Finish:8.8,Sweetness:8.7,Clean Cup:8.5,Complexity:9,Uniformity:8.4" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Burundi Kazoza N'ikawa Station" data-chart-type="polarArea" data-chart-value="Floral:1,Honey:2,Sugars:3,Caramel:1,Fruits:2,Citrus:2,Berry:2,Cocoa:2,Nuts:0,Rustic:0,Spice:3,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Kayanza Province</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+January 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+50</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City - lighter roasts are markedly brighter</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.921611" data-lng="29.625427" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p><span data-sheets-userformat='{"2":8963,"3":[null,0],"4":[null,2,16043212],"11":0,"12":0,"16":8}' data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;This coffee comes from Kazoza N'Ikawa, roughly translating to \&quot;the future is coffee\&quot;. The cooperative assists members with marketing their coffees, handling cash flow, agronomical support, general business organization, and record keeping. This association has 57 stations in total operating in the Kayanza district of Rwanda. Hand sorting is intensive, and farm workers start sifting out under and over ripe cherry on delivery. Sorting of the parchment coffee continues at the drying tables, and then the green coffee is sifted through once again after dry-milling. This is the second year purchasing coffee from this group, an impressive return from last year's coffee. They produce both washed and naturally processed coffees, this being a wet-processed lot that we bulked together from several day lot selections cup tested both in Burundi and back at our lab in Oakland. Bourbon is the dominant cultivar in the region (as is the case in most of Burundi), a variety known for syrupy sweetness when grown in high altitudes. &quot;}">This coffee comes from Kazoza N'Ikawa, roughly translating to "the future is coffee". The cooperative assists members with marketing their coffees, handling cash flow, agronomical support, general business organization, and record keeping. This association has 57 stations in total operating in the Kayanza district of Rwanda. Hand sorting is intensive, and farm workers start sifting out under and over ripe cherry on delivery. Sorting of the parchment coffee continues at the drying tables, and then the green coffee is sifted through once again after dry-milling. They produce both washed and naturally processed coffees, this being a wet-processed lot that we bulked together from several day lot selections cup tested both in Burundi and back at our lab in Oakland. Bourbon is the dominant cultivar in the region (as is the case in most of Burundi), a variety known for syrupy sweetness when grown in high altitudes. </span></p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Burundi Kazoza N'ikawa Station" data-chart-score="88.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.8,Flavor:9,Body:8.6,Finish:8.8,Sweetness:8.7,Clean Cup:8.5,Complexity:9,Uniformity:8.4" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p><span data-sheets-userformat='{"2":8707,"3":[null,0],"4":[null,2,16043212],"12":0,"16":8}' data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;What a lovely smelling coffee, Kazoza N'Ikawa is perfumed in City and City+ roasts, a sugar browning sweetness along with a mix of rosewater and spiced orange accents. The wetted grounds are so caramely sweet, like caramel cookies with raisins, and topped with a hint of cinnamon tea. City roasts brew nicely, delicious spice notes up front, along with a compound of raw sugar flavors offering more than enough backing sweetness. A compromise is often made when light roasting, trading out developed sweetness for acidity and complexity. But this isn't the case with Kazoza N'Ikawa, and the cooling cup has a sweetness like sugarcane juice, that along with a dried apple note, resonate into the aftertaste. Acidity really pops at this roast level too, fruited for sure, a tartness that's like a rindy lemon flavor and mouthfeel. Brewing my Full City roast, I was surprised by a dark grape flavor that crops up after the temperature cools down a bit. Heavy dark chocolate roast tones crop up too, and the two pair well together, leaving a lasting impression in the long finish. Kazoza N'Ikawa is so sweet and complex from as light as City and on up to Full City roast levels, and those patient enough to let cool will be duly rewarded. &quot;}">What a lovely smelling coffee, Kazoza N'Ikawa is perfumed in City and City+ roasts, a sugar browning sweetness along with a mix of clove spice and orange accents. The wetted grounds are so caramely sweet, like caramel cookies with raisins, and topped with a hint of cinnamon tea. City roasts brew nicely, delicious spiced sweetness notes up front, a compound of raw sugar flavors and delicate baking spice accents. A compromise is often made when light roasting, trading out developed sweetness for acidity and complexity. But this isn't the case with Kazoza N'Ikawa, and the cooling cup has a sweetness like sugarcane juice, that along with raisin and dried apple notes, resonate in the aftertaste. Acidity really pops at this roast level too and has a tart-sweetness like Palestinian sweet limes (if you haven't had them, they produce all the lime flavor without a puckering level of tartness!). Brewing my Full City roast, I was surprised by a dark grape hint that crops up after the temperature cools down a bit. Heavy dark chocolate roast tones are dominant, and the two pair well together, leaving behind a smokey-roast finish. Kazoza N'Ikawa is so sweet and complex from as light as City and on up to Full City roast levels, and those patient enough to let cool will be duly rewarded. </span></p> </div>
+</div>
+</div>
+</div>
+</div>]

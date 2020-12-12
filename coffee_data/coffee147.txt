@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Tanzania Mbeya Isende AB" data-chart-score="86.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.5,Brightness:8,Flavor:8.3,Body:8.8,Finish:8,Sweetness:8.6,Clean Cup:7.9,Complexity:8.5,Uniformity:8.5" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Tanzania Mbeya Isende AB" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:1,Fruits:1,Citrus:0,Berry:0,Cocoa:3,Nuts:0,Rustic:2,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Mbeya town, Mbeya District</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+80</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+AB</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-8.929610" data-lng="33.457246" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Isende is a Farmer Business Group, essentially a cooperative effort by smallholder coffee farmers to pool resources, processing and marketing of their crop. In places like Tanzania, a buyer like us can't work with a small farmer directly since they might produce only 1 or 3 bags of coffee. You can't dry mill lots so small except by hand, you can't density-sort a single bag effectively. And the work on documentation and export would be ridiculous, especially in Tanzania where the bureaucracy for coffee exportation is a huge burden for large lot exports. But when small farmers organize into an FBG, neighbors can combine lots, can pulp and dry coffees together, and the coffee can be exported with greater ease. Isende is located in Mbeya's rural district, not too far from Mbeya town as the crow flies, but a good long drive on winding dirt roads. This 52-member cooperative was initially assisted by a global aid organization to form in 2007, but has since become self-sustaining since that NGO pulled out of the country. The Isende farmer group owns and operates their own Central Processing Unit ("CPU") which consists of a mechanical pulper, soaking tanks, and drying beds. The CPU sits at about 1800 meters and coffee grows as high as 2000. Because of the altitude and micro region, they get a bit of fog, which tends to slow the drying process a bit, but nowhere near causing concern. The varieties planted are Kents, Mbozi Mission and Moshi type, all variations of Bourbon coffee.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Tanzania Mbeya Isende AB" data-chart-score="86.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.5,Brightness:8,Flavor:8.3,Body:8.8,Finish:8,Sweetness:8.6,Clean Cup:7.9,Complexity:8.5,Uniformity:8.5" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The fragrance has a smell of caramelizing sugars and toasted grain, familiar for this region. The wet aroma is very sweet, still some of the roasted grain smells when roasted light, but much more of a maple sweetness at City+ and Full City. And that's what I find in the cup too, a sweetness that has a strong maple-like flavor, that with a honey wheat note, culminates in flavors like buckwheat pancakes with syrup. I prefer Isende in the middle roast range and found that it produces the most balance between sweetness and bittering roast tone. Full City brews up an inky bodied cup, with bittering powdered cocoa flavor, licorice hint and an aromatic woody aroma. Isende makes a knockout single origin espresso for those looking for lasting bittersweetness that stands up to steamed milk.</p> </div>
+</div>
+</div>
+</div>
+</div>]

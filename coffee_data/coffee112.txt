@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Kenya Nyeri Githiru AB" data-chart-score="89" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.5,Flavor:8.8,Body:9.3,Finish:8.7,Sweetness:8.7,Clean Cup:8.3,Complexity:9,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Kenya Nyeri Githiru AB" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:3,Fruits:3,Citrus:1,Berry:3,Cocoa:3,Nuts:0,Rustic:1,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process Kenya Type</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Githiru Town, Nyeri County</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+September 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+27</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+SL-28, SL-34, Ruiru 11</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+AB</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr, 15-17 Screen - expect a few partial quakers, and we also noted a few peaberry beans (not defects)</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-0.451718" data-lng="37.018720" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Githiru is a coffee farmer's cooperative and washing station in the town of Githiru, Nyeri. Called "factories" in Kenya, these processing sites are where cooperative members bring their coffee to be processed and prepared for export. Factories are generally aligned with larger cooperative societies ("FCS" = "Farmers Cooperative Societies") that are an umbrella for a handful of wet mills. In this case Githiru is both the name of the factory/wet mill and also the FCS that it and a few other wet mills are a part of. The farmers who deliver coffee to Githiru are growing coffee between a range of 1350 to 1900 meters above sea level. There are almost 900 members of Githiru, and most are growing a mixture of SL-28 and SL-34 cultivars, with small amounts of Ruiru and Batian mixed in. This coffee was purchased direct, not through the Kenya auction system, so we could avoid the risk of losing it. To do this we pay a price that is higher than what the top auction bid might be, but it means we get the exact lot we want. During the final dry milling, the coffee seeds are separated by size range, measured in 1/64 of an inch (they call these separations "outturns"). The higher qualities that are most common in specialty coffee are AB (15-17 screen, or 15-17 1/64 of an inch), Peaberry (15 screen) and AA (17-19 screen). This is the AB lot, though we did find a few peaberries in the few hundred grams we looked over. This is fairly common since peaberries are often in the size range that is screened out for AB. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Kenya Nyeri Githiru AB" data-chart-score="89" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.5,Flavor:8.8,Body:9.3,Finish:8.7,Sweetness:8.7,Clean Cup:8.3,Complexity:9,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Githiru has a sweet brown sugar scent in the fragrance and aroma, accented by dried fruit smells like red raisin and fig. The cup smells sweet, a fruited aroma, and dense dark sugar and dehydrated fruit characteristics place it in a different category than the more typical delicate, citric Kenyan coffees. We found Githiru exceptional as espresso too, Full City roasts producing syrupy chocolate flavors with berry and grape notes swirled in. Acidity is pretty tame for Kenya, which means a more tempered shot too. As brewed coffee, City+ roasts offer flavors of raisins rolled in brown sugar, sweetened date pieces, and dried tamarind. The cup is marked by tea-like acidity, underscored by a tannic mouthfeel in the finish. Githiru shows weighty body no matter light or dark roasted, and Full City roasts are particularly buoyant on the palate. Darker roasts are very bittersweet and chocolatey with fruit flavors like berry and grape as well.</p> </div>
+</div>
+</div>
+</div>
+</div>]

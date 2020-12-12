@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Kenya Kiambu Fram Farm AA" data-chart-score="91.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9.2,Wet Aroma:9.5,Brightness:9.5,Flavor:9.3,Body:8.8,Finish:9.1,Sweetness:9,Clean Cup:8.2,Complexity:9.6,Uniformity:8.5" data-cupper-correction=".5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Kenya Kiambu Fram Farm AA" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:2,Sugars:4,Caramel:0,Fruits:4,Citrus:4,Berry:2,Cocoa:2.5,Nuts:0,Rustic:1,Spice:4,Body:3.5">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process Kenya Type</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Kiambu, Muranga</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+August 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+16</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+SL-28</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+AA</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 17-19 Screen - we did come across a few shell beans in our roast, but nothing worth culling out, or that would adversdly affect the cup</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-1.135309" data-lng="36.778539" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Kiambu lies near the foothills of Gatamaiyo Forest Reserve, and at the border of neighboring Muranga County. Fram Farm is owned and managed by the Kariruki family, James getting his start in coffee through a small plot he inherited from his grandfather. Now at 40, James has expanded their farm to nearly 30 hectares, the entirety planted in SL-28, and sitting at roughly 1850 meters above sea level. This is one of a few small estate coffees we were lucky enough to buy this year, coffees we had no direct connection with in the past. We tend to buy from the Farmers Cooperative Societies ("FCS"), and still do. But buying from a single estate affords us a different and unique opportunity to select coffee that we can trace back to its exact provenance, whereas with the FCS's, you're buying a blend of hundreds and sometimes thousands of small holders. This is certainly not a bad thing as some of our finest Kenyas are through FCS's, just different. We still turn to the coops for the majority of our coffee, but are hoping to continue to cultivate buying relationships with a small number of Kenyan small estates as well. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Kenya Kiambu Fram Farm AA" data-chart-score="91.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9.2,Wet Aroma:9.5,Brightness:9.5,Flavor:9.3,Body:8.8,Finish:9.1,Sweetness:9,Clean Cup:8.2,Complexity:9.6,Uniformity:8.5" data-cupper-correction=".5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Sweet citrus and baking spice highlights are some of what makes this AA selection from Fram Farm so special. The aroma smells of honey and orange spice tea. Mock orange florals, stone fruit and tangy lemon rind are a few of the top notes I picked out when cupping, along with complex dry spice notes marking the aroma and finish. As the coffee comes down in temperature, a flavor of orange juice helps shape Fram Farm's flavor profile, and bright acidity adds a sharpness to the cup. Finishing flavors of dark spices like cardamom and whole clove linger and the aftertaste brings to mind spiced tea cookie. City roasts produce the brightest, most vibrant brew, whereas Full City rounds off the edges a bit, and brings out more fruit and chocolate roast flavors, like dark chocolate candies filled with orange syrup. City to City+ roast range will insure that you keep things light and bright, capturing so much of what makes Kenyan coffee so unique. Try as a pour over brew and you won't be disappointed.</p> </div>
+</div>
+</div>
+</div>
+</div>]

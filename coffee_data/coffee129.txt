@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Honey Process Ngororero" data-chart-score="87.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.5,Flavor:8.9,Body:8.9,Finish:8.5,Sweetness:8.6,Clean Cup:8.3,Complexity:8.9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Honey Process Ngororero" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:2,Citrus:1,Berry:1,Cocoa:3,Nuts:0,Rustic:1,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Honey Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Ngororero, Western Province</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Honey Process</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+January 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+25</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-1.867344" data-lng="29.630934" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Ngoroero is a coffee processing site in Ngororero District within Rwanda's Western Province. They produce mostly wet process coffee at this site, but also process a nominal amount of honey and natural process too. Hundreds of farmers in the region deliver their cherry to the site where floatation and hand sorting are first employed in order to begin the grading process. The whole cherry is then run through the de-pulping equipment before being laid to dry with much of the fruit still on the seed. This is honey processing, the term coined after the golden hue of the fruit once dried. The cups tend to have weighty mouthfeel, rounded acidity (if not muted) and often impart some fruited flavor characteristics too. Bourbon is the dominant cultivar in this region and farmers delivering to Ngororero are scattered across an altitude range of 1600 to 2000 meters above sea level. Being honey process coffee, the green beans have a bit of the silver skin still intact, which impacts roasting in terms of a high level of chaff production and ability to visually judge roast level. That said, we were surprised how clean this particular coffee is for a honey.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Honey Process Ngororero" data-chart-score="87.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.5,Flavor:8.9,Body:8.9,Finish:8.5,Sweetness:8.6,Clean Cup:8.3,Complexity:8.9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Caramel, cocoa powder and a hint of fruit come from the dry grounds. There's a bit of citrus peel and dried pineapple. This opens up into a mild dried apricot scent in the wet aroma, while malted barley roast notes take over. There's butter caramel on the break (when stirring the crust of grinds with a spoon). While honey process, with the fruit pulp left on during drying, has more rustic character than a full wet-process coffee, they often express like this Ngororero. It's balanced, complex, moderate in acidity and fruit. It's more about body and roast tone. The brightness is there to provide a bit of sparkle but its not screaming out at you. Rather the cup highlights are thick body, sweet malted notes, Dutch cocoa hints and overall balance. I cupped this on a table of mostly Guatemala and it's amazing how they share this featured balance, while subtle complexity in the Rwanda really comes out. There's a hint of dried stone fruits (peach-apricot, subtley) and the finish has a caramel malt character. Next step, running this as espresso where I think it will really be a champ as a straight unblended shot!</p> </div>
+</div>
+</div>
+</div>
+</div>]

@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Kochore Jet Hama" data-chart-score="92.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9.4,Wet Aroma:9.5,Brightness:8.8,Flavor:9.5,Body:8.5,Finish:9,Sweetness:8.8,Clean Cup:9,Complexity:9.4,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Kochore Jet Hama" data-chart-type="polarArea" data-chart-value="Floral:4,Honey:3,Sugars:3,Caramel:1,Fruits:3,Citrus:3,Berry:2,Cocoa:2,Nuts:0,Rustic:0,Spice:0,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Hama Kebele, Kochore Woreda, Gedeo Zone</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+160</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Varietals</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 15+ Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to City+ for the most floral cups, Full City brings out a syrupy fruited note</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="6.019621" data-lng="38.268414" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>"Jet" is the name of the coffee washing station where this coffee was processed. It's located in the Hama Kebele, a small town within the Southern Kochore District. It's practically next door to the famed Yirga Cheffe growing region, so the overt floral cup comes as no surprise. This is a privately run washing station, which means that there is no cooperative membership required for farmers to sell their coffee. That said, they register all farmers who sell to them and keep a record of each delivery and the price that was paid. As of last year, they've registered just over 1000 small holder farmers in the region who are free to sell their coffee to any number of other local wet mills. This creates healthy competition for coffee and the local prices high. Altitude at the wet mill is just over 1900 meters, and the coffee farms nearby stretch up to the 2000 meter mark. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Kochore Jet Hama" data-chart-score="92.2" data-chart-type="radar" data-chart-value="Dry Fragrance:9.4,Wet Aroma:9.5,Brightness:8.8,Flavor:9.5,Body:8.5,Finish:9,Sweetness:8.8,Clean Cup:9,Complexity:9.4,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry grounds have a familiar jasmine smell that's perfumed and so fragrant, with clean honey-like sweetness and a plump dried fruit characteristic. Light roasts are much more delicate smelling than those beyond City+, but both share similar fruit and floral attributes that follow through to the flavors found in the cup. City roasts produce the strongest floral character and comes off like star jasmine, or lavender, a sweet flowery flavor and aroma, and a big part of what makes this coffee one to remember. The cool cup is complex, to say the least, and offers a bergamot citrus oil note that is highly fragrant with a spiced accent, and "citrus" names the acidic impression as well. Raw sugar sweet flavors linger and lead into an Earl Grey tea note in the aftertaste. My darkest roast landed somewhere between City+ and Full City (pulled 25F beyond 1C on my Quest) and produced a delicious stone fruit flavor like syrupy canned peaches. Chocolate roast flavors are pronounced when you venture beyond City+ and have a rich, high % cacao dark chocolate flavor - a bittering coffee roast flavor kept well in balance by impressive sweetness. This is my kind of espresso too - inky chocolate, plump fruit, citrus vibrance - though I'm not tagging it as a recommendation as I'm afraid it might be a little too fruit-forward and bright as a shot for some.</p> </div>
+</div>
+</div>
+</div>
+</div>]

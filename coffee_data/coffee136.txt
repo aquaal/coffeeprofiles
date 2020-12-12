@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Nyamasheke Gitwe" data-chart-score="87.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.7,Brightness:8.6,Flavor:8.7,Body:8.1,Finish:8.6,Sweetness:8.6,Clean Cup:8.5,Complexity:8.7,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Nyamasheke Gitwe" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:2,Citrus:1,Berry:1,Cocoa:2,Nuts:0,Rustic:0,Spice:3,Body:2">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Nyamasheke District</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+December 2018 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+60</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15-17 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.977179" data-lng="29.648844" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Gitwe is a relatively newer washing station in Rwanda's southern Nyamasheke District. Gitwe sits at roughly 1800 meters above sea level, and the farms of the 800 outgrowers who deliver their coffee to Gitwe are situated between 1800 and 2000 meters. This is a fully washed/wet process coffee, meaning that after the coffee cherry is removed from the seed, the remaining sticky fruit layer (mucilage) is removed by fermenting in a tank for several hours. Gitwe has several cement fermentation tanks, and should have no problem moving coffee through to the drying tables during the peak of the harvest. We were a little surprised by how deep the tanks are, and slightly worried that it might affect the coffee during fermentation. But after cupping a handful of samples, we were pleased with the resulting clean cups across the board. I roasted Gitwe to light and medium roast levels, and found that Full City roasting flattens out acidity too much for my taste, and mutes complex top notes found at City and City+.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Nyamasheke Gitwe" data-chart-score="87.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.7,Brightness:8.6,Flavor:8.7,Body:8.1,Finish:8.6,Sweetness:8.6,Clean Cup:8.5,Complexity:8.7,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Gitwe shows hints of raw sugar and baking spice in the fragrance when roasted light, City roasts revealing a cinnamon spice top note wrapped in brown sugar and caramely sweetness. Adding hot water frames a sweet-spiced aroma too, with subtle sticky dried fruit accents, and a touch of malted grain. Brewing the light roasts promises soft accents of black tea atop a base sweetness that has the transparency of simple syrup. Some light fruited hints are revealed as you move through the cup and have aspects of dried apple and raisin. The finish has tannic elements that recall Earl Grey tea, and is also marked by a roasted barley note. City+ brings out a balance bittersweet chocolate flavor that's like semi-sweet chips, as well as some darker fruit tones that are most prevalent after the cup's cooled off a bit.</p> </div>
+</div>
+</div>
+</div>
+</div>]

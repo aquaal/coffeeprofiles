@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Valle de Penderisco" data-chart-score="87.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.5,Flavor:8.7,Body:8.6,Finish:8.6,Sweetness:8.6,Clean Cup:8.1,Complexity:8.9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Valle de Penderisco" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:2,Citrus:1,Berry:2,Cocoa:3,Nuts:0,Rustic:1,Spice:0,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Variedad Colombia, Typica Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Urrao, Antioquia</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+22</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Variedad Colombia, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="6.314373" data-lng="-76.131982" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>The uniqueness of Valle de Penderisco is apparent as soon as you crest the surrounding hillside and begin your descent. For one, unlike most of my experiences driving around Colombia, the valley and the road that travels through it are completely flat...and straight (I'm talking for miles!). I swear, none of the country roads are anything close to straight in Colombia, including the highway leading to Urrao and the Penderisco Valley! Tightly-wound curves wrap the hillsides making the most stable stomachs slowly edge toward queazy. The valley floor is just above 1900 meters, so all of the coffee in this region is "high grown". Cold water springs and cool temperatures make for slightly longer fermentation times, which often results in fruit-forward cup characteristics that we generally think to be atypical for Colombia. The profiles can be bit "exotic", fruited flavor notes run the range of dried to winey, but remain very sweet and without the alcohol characteristics that come with over-fermented coffees. On the contrary, these coffees from Urrao have big sweetness, are "clean" and with just enough acidity to prop up the sometimes fruit-focused cup profiles. This coffee is the result of an effort spearheaded by an intermediary we work with in Medellin who have been buying coffee from local farmers in Urrao the past several years, offering high premiums to separate out the best coffees.  It's extra work to do this, but the farmer is compensated with prices well above what's being paid by the local cooperative, 2x plus in the case of the top tier. This year they are building their own warehouse and coffee lab at the edge of Urrao town where they will have someone buying coffee full time throughout the harvest season in order to give their coffee project visibility which we expect will expand available microlot volumes.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+ Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Valle de Penderisco" data-chart-score="87.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.5,Flavor:8.7,Body:8.6,Finish:8.6,Sweetness:8.6,Clean Cup:8.1,Complexity:8.9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Grinding the coffee gives a pleasant, if not accurate, preview of what to expect in a brewed cup of Valle de Penderisco. Molasses and other dark sugar smells are potent, as are fruited smells that read as a little over-ripe and wine-y. The level of sweetness builds in the wet aroma with a smell of brown sugar and sweetened dark cocoa coming up in the steam, along with dried fruit accent notes. When hot, the fruited notes are subtle, hints of berry-infused chocolate mark raw sugar suggestions. As the coffee cools, the flavor profile expands and flavor notes of plum wine and a lingering bittersweet Dutch cocoa powder characteristic fill out the long finish. Moderate acidic impressions are like black tea with a tannic mouthfeel in the aftertaste. We found that darker roasts tend to shift fruit flavors toward dark berry that are complimented by heavy-handed cocoa roast flavors. While I generally don't have the patience to wait myself, with 48 hours rest, cup characteristics find harmony and make an excellent pour-over filter brew option.</p> </div>
+</div>
+</div>
+</div>
+</div>]

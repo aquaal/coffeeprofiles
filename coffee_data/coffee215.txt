@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Guatemala Proyecto Xinabajul Chalum" data-chart-score="86.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.6,Brightness:8.5,Flavor:8.6,Body:8.8,Finish:8.5,Sweetness:8.5,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Guatemala Proyecto Xinabajul Chalum" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:1,Citrus:0,Berry:1,Cocoa:3,Nuts:1,Rustic:0,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Bourbon Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+La Libertad District, Huehuetenanto</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+May 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+47</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Caturra, Catuai, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300 grams; 16 - 18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="15.540082" data-lng="-91.900896" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p><span style="font-weight: 400;">Chalum is one of the highest peaks in La Libertad region of Huehuetenango. Cedros Palmira is on one side of the peak and the road leading to several of the areas we buy from on the other -El Injerto, Paraiso, Bojonalito, etc. This lot is a blend of a coffees from small producers in these neighboring towns, 7 lots to be exact, and a mixture of cultivars that includes Caturra, Catuai, Bourbon and Typica. The altitude ranges from around 1500 meters to 1900 meters and most of the farms are less than 5 acres in size. "Xinabajul" is the name of the project/partnership we have with local coffee people to offer premium prices to farmers that meet quality expectations in the cup. Given that the localities where we are buying coffee are little more than extended family groups, we have found if we involve a brother or sister, they will tell all their coffee-farming kin and soon we have a network of farmers interested in the project. We wrote an in-depth and <a href="https://legacy.sweetmarias.com/library/guatemala-proyecto-xinabajul" rel="noopener" target="_blank">detailed description</a> of the project as well.</span></p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Guatemala Proyecto Xinabajul Chalum" data-chart-score="86.8" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.6,Brightness:8.5,Flavor:8.6,Body:8.8,Finish:8.5,Sweetness:8.5,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>As odd as it may sound, there's a smell in the dry grounds that I read as "fresh". The coffee<em> is</em> fresh, having just arrived, but it's the mixture of raw sugar, clove spice and a sort of fresh, green herbal note that together have a refrehing quality! The cup is so nice at City+, making a rock-solid Guatemalan brew. I pick up on notes of candied walnuts, milk chocolate and a dried apple note that also helps to underline a malic-type, acidic impression. Chocolate flavors are more 'hints' at City+, but open up to something much more substantial at Full City, with the potential to be quite intense at Full City+ (perhaps next roast test). Espresso shots at Full City have a chocolate-hazelnut flavor and long-lasting bittersweetness.</p> </div>
+</div>
+</div>
+</div>
+</div>]

@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Rusizi Gaseke" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:8.4,Flavor:8.6,Body:8.8,Finish:8.3,Sweetness:8.6,Clean Cup:8.1,Complexity:8.8,Uniformity:8.2" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Rusizi Gaseke" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:1,Fruits:1,Citrus:0,Berry:1,Cocoa:2,Nuts:0,Rustic:2,Spice:2,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Rusizi District, Western Province</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+20</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.570316" data-lng="29.021313" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This fully washed Rwandan coffee comes from the village of Gaseke, located in Nyungwe Mountain National Park in the southern District of Rusizi. The Gaseke washing station has been in operation for 3 years now and serves about 400 regional farmers. That sounds like a lot, but in comparison to many other sites we buy from, it's about 1/3 the of the average size. It sits at 1500 meters above sea level and farms reach up to higher altitudes of 1800+. The Gaseke workers put a lot of hand labor into sorting out defects, and is noticeable when looking over the green. First, all of the coffee cherry delivered to Gaseke is spread out on tables where any over and under ripe coffee cherries are removed. Next, the cherry is transferred to tanks filled with clean water where the floating cherries (overripe coffee) are skimmed and processed as lower quality separations. Once the visible defects have been removed, the coffee is depulped down to parchment coffee and transferred to drying beds where it will be sifted through several times during the couple weeks it takes to dry. All this sorting makes for a more uniform coffee from one brew to the next since there are very few beans that will influence cup flavor.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Rusizi Gaseke" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:8.4,Flavor:8.6,Body:8.8,Finish:8.3,Sweetness:8.6,Clean Cup:8.1,Complexity:8.8,Uniformity:8.2" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The fragrance and aroma show herbal sweetness that have Roobios tea-like smell, with rustic-tinged coconut and date sugars. The wet aroma is saturated with unrefined sugar sweetness adding molasses to the list. City+ roasts brew really well and I find that the herbal and sweet flavors in the cup coalesce with a couple days of rest. You don't have to wait that long to enjoy Gaseke, but after drinking this coffee over a few days time, I found the wilder top notes to be more in balance with core bittersweetness on the 2nd day post roast, "enmeshed" if you will. Against the sweet backdrop of Gaseke, herbal character comes off like sweetened licorice root and lemongrass teas, and more of the Rooibos smelled up front. Something like date sugar sweetness has very subtle earth tone complexity and goes the long haul in the aftertaste. Both our City+ and Full City roasts boasted big body and moderate acidity, and I imagine will hold up to even darker roasting. Cocoa roast tones were fairly moderate at Full City but will probably increase some with darker roast development too.</p> </div>
+</div>
+</div>
+</div>
+</div>]

@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Sumatra Wet Hulled Lues Cike" data-chart-score="86.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8,Wet Aroma:8.3,Brightness:8.2,Flavor:8.5,Body:8.8,Finish:8.2,Sweetness:8.3,Clean Cup:7.8,Complexity:9,Uniformity:8" data-cupper-correction="3.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Sumatra Wet Hulled Lues Cike" data-chart-type="polarArea" data-chart-value="Floral:1,Honey:1,Sugars:3,Caramel:0,Fruits:2,Citrus:1,Berry:2,Cocoa:2,Nuts:1,Rustic:3,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Giling Basah</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Typica Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>No</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Pantan Cuaca, Gayo Regency</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Hulled (Giling Basah)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+50</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Ateng, Jember, Tim Tim</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1 Hand Picked</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+1+ d/300gr, 16+ screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="4.216773" data-lng="97.166992" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This Lues Cike lot is a blend of coffee from small producers in the highland area of Pantan Cuaca. In a system where farmers sell to local collector, much rides on the long-standing relationships between the two parties, and the collector is really the key person to determine coffee quality. A good collector buys coffees direct, such as in this relationship, rather than in the local village coffee markets where quality is low, processing of the coffees haphazard, and everything gets mixed together. Average altitude in the region ranges from 1300 - 1500 meters, and the typical varietals grown are Ateng Bergendal, and Jember. These varietals tend to produce an earthy, low-toned cup. But more than varietal, the process "Giling Basah" has more to do with what is thought of as a "typical" earth-toned Sumatran profile. It starts on the small-holder farms, where they pick the coffee and pulp off the fruit skin in a hand-crank machine. Then most farmers ferment the coffee in small containers to break down the fruity mucilage layer, others simply leave the bags of cherry intact overnight and pulp in the morning. The coffee is dried for a few hours on tarps or concrete and then finished in a more controlled warehouse setting in Takengon before being hand sorted for defects. The prep is very good for Sumatra, but be prepared to see insect holes, shriveled beans, broken beans etc. I would not take the time to pull these out as they will not come through in the cup given the wet hulled process method. This is sort of my disclaimer for those who have not bought Sumatran coffee before. If you have, you know. And put this coffee next to most other typical Grade 1 Mandhelings and you'll see why we consider the defect count of this particular lot to be low comparatively...because it is!</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Sumatra Wet Hulled Lues Cike" data-chart-score="86.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8,Wet Aroma:8.3,Brightness:8.2,Flavor:8.5,Body:8.8,Finish:8.2,Sweetness:8.3,Clean Cup:7.8,Complexity:9,Uniformity:8" data-cupper-correction="3.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Lues Cike has sweet rustic sugars from the outset, a berry smell emits from the ground coffee too, along with a green peat-like scent. Both our City+ and Full City roasts had this herbaceous/earthy mix in fragrance and aroma, and breaking through a wetted crust you get a rush of cooked fruit and tarragon, and an earthy sweetness underneath. One of the first things I noticed in the brewed coffee is that this Sumatra has acidity. While still far from "bright", the cup displays notable berry brightness in lighter roasting that helps to structure the complex wet-hulled profile. The cooled coffee displays rustic sugary sweetness like date and palm sugars, herbal and foresty notes, a dried fruited accent and roasted grain flavor in the finish. There's also a cocoa powder/cacao nibs flavor in the aftertaste that is much more up front when roasted to Full City.</p> </div>
+</div>
+</div>
+</div>
+</div>]

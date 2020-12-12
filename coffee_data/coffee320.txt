@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Dry Process Palomos del Sur" data-chart-score="87.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.5,Flavor:8.8,Body:8.8,Finish:8.3,Sweetness:8.6,Clean Cup:8.2,Complexity:9.1,Uniformity:8.3" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Dry Process Palomos del Sur" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:3,Citrus:2,Berry:3,Cocoa:3,Nuts:1,Rustic:2,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Agua Blanca, Inzá, Cauca</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Dried, Covered</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+17</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Variedad Colombia, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 15-17 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="2.662441" data-lng="-75.934838" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>You may be familiar with the name "Los Palomos" because of the small lots we've purchased from the Urrao coffe farm we've purchased in past years. This is the sister farm in the south in Inzá, Cauca, also owned and operated by Leonardo Henao. Leo's worn many hats in his years of coffee work including farmer outreach, studying agronomy and fermentation at University, handling logistics for coffee exporters, and managing his own farms name a few. Palomos del Sur was already planted in coffee when Leo bought the land, planted mostly in Variedad Colombia and Castillo. Since acquisition, Leo and farm manager Robinson Pillimué managed to plant several thousand new Caturra trees, and have many more cultivars in their nursery that will go in the ground in the coming year: Bourbon, Yellow and Red Caturra, Gesha, and others. This is the third harvest since under their care, and mostly a separation of the Variedad Colombia trees, along with some older Caturras in small amount. The farm ranges from 1750 to about 1900 meters above sea level, and the coffee seeds are quite dense, meaning they can take the heat in the roaster. This also means that it's a good candidate for darker roasting as the tight cellular structure of the seed is more difficult to fracture during the cracking stage of the roast.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Dry Process Palomos del Sur" data-chart-score="87.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.5,Flavor:8.8,Body:8.8,Finish:8.3,Sweetness:8.6,Clean Cup:8.2,Complexity:9.1,Uniformity:8.3" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance has sweet raw sugar and fruit smells that show an unrefined side like dried fruit and molasses type characteristics. The aroma is big, sweet, and fruits are folded in like raisins into cinnamon cross buns. I roasted two batches of this coffee, a light City roast and just shy of Full City. Both proved to be intensely sweet, fruited and relatively clean for dry process coffee. City brews have a lemon acidic impression on the cup profile, that along with a tannic mouthfeel, comes together like black tea with lemon juice. Palomos del Sur has a sweetness that reminds me of molasses cookies across the roast spectrum. But it's the fruit notes that take center stage as the coffee cools off some. Dehydrated fruits like cherry and persimmons are highlights at both roast levels, though dark berry showed a much stronger presence at Full City. It retains a mild citric vibrance at Full City too that lends structure to the complex cup.</p> </div>
+</div>
+</div>
+</div>
+</div>]

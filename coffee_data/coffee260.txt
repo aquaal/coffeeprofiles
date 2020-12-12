@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Nyamasheke SWP Decaf" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.3,Brightness:7.5,Flavor:8.3,Body:8.4,Finish:8.2,Sweetness:8.3,Clean Cup:8,Complexity:7.7,Uniformity:9.5" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Nyamasheke SWP Decaf" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:2,Fruits:1,Citrus:0,Berry:0,Cocoa:3,Nuts:0,Rustic:1,Spice:0,Body:2">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Water Process Decaf</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Nyamasheke, Western Province</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet and Dry Process, then SWP Decaf</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+December 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+71</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr, 16-18 Screen - expect a few partial broken beans from decaf process</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.424761" data-lng="29.220299" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This custom decaf is made up of three different Nyamasheke coffees, a district that straddles the southeastern side of Lake Kivu, in Rwanda. Between these three cooperative wet-mills, they serve upwards to 5000 small-holder farmers in the region, buying whole coffee cherry to be processed as both fully washed ("wet process") and natural ("dry process"). The coffee processing sites sit between 1800 and 1900 meters above sea level, and coffee is grown on up to just over 2000 meters. We purchased and sold all three of these coffees as single origin, non-decafs, and reserved a chunk of each to process as decaf as well. This is 100% Bourbon cultivar, which when grown at high altitudes produces a dense bean capable of producing a high level of sweetness. The decaffeination was handled by Swiss Water Decaf (where we have all our decafs processed!), who use a chemical-free decaf process to remove 99.9% of the caffeine, while leaving much of the volatile compounds intact.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes  </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Nyamasheke SWP Decaf" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.3,Brightness:7.5,Flavor:8.3,Body:8.4,Finish:8.2,Sweetness:8.3,Clean Cup:8,Complexity:7.7,Uniformity:9.5" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance at City+ roast has a chocolate wafer cookie smell, surprising sweetness and toffee malt accents. The wet aroma is much more bittersweet smelling, elements of hot cocoa come up in the steam, along with a grain-like, savory note. The hot coffee has the bittering and sweet aspects of burned caramel up front and a chocolate flavor close behind that brings to mind chocolate-caramel confections. As the coffee cools, a flavor of wheat cereal comes through, along with cocoa powder, and is a bit like chocolate swirled sweet bread. Dark cocoa notes come out in full force at Full City and I still find an impressive level of molasses-like sweetness, fading to chocolate malted grains in the finish. Full City roasts are a great decaf espresso options too, so chocolate-y and rich!</p> </div>
+</div>
+</div>
+</div>
+</div>]

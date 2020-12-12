@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Mexico Special Prep Ixhuatlan Jesus Alberto" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:8.4,Flavor:8.6,Body:9.4,Finish:8.3,Sweetness:8.5,Clean Cup:8.5,Complexity:8.2,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Mexico Special Prep Ixhuatlan Jesus Alberto" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:2,Citrus:0,Berry:2,Cocoa:4,Nuts:2,Rustic:0,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Other Processes</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Ixhuatlan, Veracruz</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Honey and Wet Process</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+July 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+30</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+H1 hybrid</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHG EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.5 d/300gr, 16-19 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="17.968233" data-lng="-94.378904" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p class="">This coffee comes from the farm of Don Jesus Alberto, a small coffee producer in the Ixuatlan region of Veracruz. Altitude at the farm is 1350 meters above sea level, and Jesus Alberto has H1 planted on his farm (hybrid of Rume Sudan and a Sarchimor). We're calling this coffee "special prep" because it's a mix of wet process and honey process coffee. He processes naturals too, but unfortunately, we weren't able to pick any up this year. The coffee cherry is floated before being depulped in order to remove much of the underripe coffee. Then, it's moved to greenhouses with drying beds where the parchment coffee is brought down to a stable moisture level (generally in the 10.5-11% range). We found Jesus Alberto's coffee to be versatile and a good option for dual-use, both brew and espresso holding their own at a fairly wide roast spread.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Mexico Special Prep Ixhuatlan Jesus Alberto" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:8.4,Flavor:8.6,Body:9.4,Finish:8.3,Sweetness:8.5,Clean Cup:8.5,Complexity:8.2,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance has a brown sugar and roasted nut smells like toffee almond and candied walnut, with a raisin-like, dried fruit hint. Full City kicks the fruited smells up a notch, a blueberry note hangs in the air in the wet aroma, along with strong bittersweet roast tones. The mix of wet and honey process coffees isn't apparent at first sips. The flavors in the hot cup are well balanced, notes of sugar in the raw, mild chocolates and soft nut tones. Fruited flavors are quite restrained, but gain some clarity when the cup cools down. The cup at City and City+ have a red berry accent, sweet and tart, the latter aspect casting a soft but refreshing acidic impression on the cup profile. At Full City, chocolate bittersweetness bookends the cup, a pulpy blueberry note hints at process but then it's right back to cocoa roast tone in the finish. Bodied and bittersweet, this is a fantastic espresso option too.</p> </div>
+</div>
+</div>
+</div>
+</div>]

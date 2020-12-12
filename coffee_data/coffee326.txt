@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Inzá Las Estrellas" data-chart-score="88.2" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.8,Brightness:8.6,Flavor:8.8,Body:9,Finish:8.5,Sweetness:8.7,Clean Cup:8.5,Complexity:8.8,Uniformity:8.5" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Inzá Las Estrellas" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:3,Sugars:3,Caramel:1,Fruits:2,Citrus:1,Berry:1,Cocoa:3,Nuts:0,Rustic:0,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Inzá, Cauca</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Dried, Covered</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+28</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Variedad Colombia, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="2.551739" data-lng="-76.065452" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>"Las Estrellas", is a name we use for a regional blend of high scoring coffees from Inzá, Cauca. This season's Las Estrellas is made up from 10 different coffee farms whose deliveries ranged from a tiny 50 kgs to 300 kgs, for a total of 28 x 70 KG bags. We see a similar trend of cultivar planting and processing techniques in this region. Most of the farms are less than 2 hectares in size, Caturra heavily represented, with Variedad Colombia and Typica mixed in. The majority of coffee production is performed using depulpers powered by small gas motors or by hand crank, then fermented overnight, and finally drying in covered drying rooms ("parabolicos"). The latter helps protect the unstable, wet parchment from the elements, and ventilation facilitates good airflow and even drying. Altitude on the low end is about 1500 meters and tops out closer to 2000. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Inzá Las Estrellas" data-chart-score="88.2" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.8,Brightness:8.6,Flavor:8.8,Body:9,Finish:8.5,Sweetness:8.7,Clean Cup:8.5,Complexity:8.8,Uniformity:8.5" data-cupper-correction="1.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance has a brown sugar and raisin smell at City roast level, along with a wide range of raw sugars. The sweetness found in wet aroma is very honey-like in both our light and darker roasts and supremely sweet. Getting right into the cup, acidity has both tea-like and fruited characteristics that have a mouth cleansing affect on the palate. This coffee's base flavors are very sweet and range from honey to raw panela sugar, a layered complexity that builds as the cup cools. The profile top notes come into focus as you move through the cup, especially in the middle City+ roasts, hints of golden apple, herbal tea, and a clove spice note in the aftertaste. The heavy dark chocolate roast flavors that come with Full City roast leave space for Las Estrella's fruited characteristics and mouthfeel is still quite buoyant at this roast level. Full City and FC+ roasts make a great SO espresso option too showing equal levels of bittering cacao tones and baked sugar sweetness, with a tart lemon zing that brightens up the cup.</p> </div>
+</div>
+</div>
+</div>
+</div>]

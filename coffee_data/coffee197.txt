@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Guatemala Chimaltenango San Martin Jilotepeque" data-chart-score="86" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.5,Brightness:8.1,Flavor:8.5,Body:9.4,Finish:8.3,Sweetness:8.4,Clean Cup:8.4,Complexity:7.7,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Guatemala Chimaltenango San Martin Jilotepeque" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:2,Caramel:2,Fruits:0,Citrus:0,Berry:0,Cocoa:4,Nuts:2,Rustic:0,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Bourbon Types, Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+San Martin Jilotepeque, Chimaltenango</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+July 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+55</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+46 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Bourboncito, Caturra, Catuai, Typica, Catimor, Anacafe 14</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="14.782175" data-lng="-90.800328" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This lot is made up from the coffee of several small holders in and around the town of San Martin Jilotepeque, about 2 hours south of Antigua, in Guatemala's Chimaltenango Municipality. The group of farmers who are part of this buying project are banded together around Chepe Garcia, a local farmer himself, who's taken the job of organizing and collecting coffee cherry to be sold. Unlike some of the other Guatemala buying projects we are a part of, this one differs in that the coffee is sold by Chepe in whole cherry, not parchment. So instead of each individual lot being processed by the farmer, they are all mixed together each week and delivered to a coffee mill in nearby Antigua where it's processed. Starting with whole cherry, the mill has an added layer of control over isolating the coffee by grade, making sure that only ripe cherry makes it into the top grades. They remove the overripe and uderripe coffee using methods like floatation before the coffee is depulped, and then long washing channels after fermentation. San Martin Jilotepeque town is at about 1800 meters and Chepe's farm that we visited, Finca Magnolia, tops out at just over 1900 meters.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Guatemala Chimaltenango San Martin Jilotepeque" data-chart-score="86" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.5,Brightness:8.1,Flavor:8.5,Body:9.4,Finish:8.3,Sweetness:8.4,Clean Cup:8.4,Complexity:7.7,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This coffee from San Martin Jilotepeque makes a nice daily drinking coffee, bittersweet and balanced in middle-to-dark roasts. I found my one light roast batch to have a doughy flavor and just generally lacked sweetness. The aroma at City+ has a smell of malted milk balls, a chocolate-y nose accented by notes of hazelnut-chocolate spread. The flavors in the brewed coffee are sturdy and seem dense, a tightly-packed weft of bittering cocoa, raw sugar, tree nut and sweet cream. I pick up on flavors of pistachio ice cream and chocolate sauce, sweet almond meal and Ovaltine malted milk powder. Full City+ roasts are intense with bittering cacao flavors and rivaled by caramelized sugar sweetness. Highly recommended espresso option.</p> </div>
+</div>
+</div>
+</div>
+</div>]

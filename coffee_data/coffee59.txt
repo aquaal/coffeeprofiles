@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Agaro Kenisa" data-chart-score="90" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.9,Brightness:8.9,Flavor:9.2,Body:8.8,Finish:8.9,Sweetness:8.7,Clean Cup:8.5,Complexity:9.1,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Agaro Kenisa" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:2,Sugars:3,Caramel:1,Fruits:2,Citrus:2,Berry:1,Cocoa:2,Nuts:0,Rustic:0,Spice:2,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Agaro</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+50</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Cultivars</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15+ screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City - see roasting recommendation in cupping notes</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="7.781707" data-lng="36.477847" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p><span style="font-weight: 400;">Kenisa station is a newer coffee processing site run by the farmer's cooperative union we buy from in Agaro, who also manage Duromina, Nano Challa, Kedamai and others. "Kenisa" is the Oromifa word for "bee", and symbolizes the hard working people of the region. This region happens to produce some of the most incredible white honey we've tasted in Ethiopia, so the name is particularly fitting! The Kenisa station has registered 305 members since starting up 2 years ago. Initially, they set out on their own but lacked access to getting their coffee to the international market. The Agaro Union is well situated in this respect and is connecting them to a much wider network of buyers (lucky us!). We visited the site last January and the cleanliness and organization were impressive. They employ a water conserving Penagos 2500 to depulp the coffee and the machine looks brand new. We found the coffee from Kenisa to have a stone fruit flavor characteristic common to coffee from this region. Light roasts are delicious and the most vibrant cups. I noticed quite a few latent 'snaps' at the end of 1st crack making degree of roast a bit difficult to judge by sound alone. If you are shooting for a light roast, I would err on the side of caution and pull the roast 1:20 or so after 1st C begins and adjust from there.</span></p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Agaro Kenisa" data-chart-score="90" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.9,Brightness:8.9,Flavor:9.2,Body:8.8,Finish:8.9,Sweetness:8.7,Clean Cup:8.5,Complexity:9.1,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>If you're looking to capture the more fruited, bright side Kenisa offers at the lighter end of the roast spectrum, try pulling it as soon as 1st crack starts to slow. I encountered quite a few latent 'snaps' at the end of 1st crack causing me to miss the mark on my first light roast attempt. Second time around, I pulled 1:20 after the first audible snaps and the roast was a perfect City roast level (for me, at least!). The fragrance and aroma at City and City+ have a subtle smell of dried peach, brown sugar and a light herbal note. The fruited flavors in the cup are more potent than the aromatic profile and are integrated into a compact, sweet brew. The cup fades to herbal rue and tropical fruit aromatics, mango and orange marmalade hints and a soft floral highlight. Light roasts are the brightest and also produce the delicate aromatics that are unique to Ethiopian coffees. But even at Full City, Kenisa manages to produce a fruited underlayer amidst the bittersweet roast tone, as well as syrupy texture and sweetness.</p> </div>
+</div>
+</div>
+</div>
+</div>]

@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Rwanda Rulindo Bushoki Peaberry" data-chart-score="89.7" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9,Brightness:8.8,Flavor:9.2,Body:8.8,Finish:9.1,Sweetness:8.6,Clean Cup:8.5,Complexity:9.2,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Rwanda Rulindo Bushoki Peaberry" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:0,Citrus:2,Berry:0,Cocoa:3,Nuts:0,Rustic:0,Spice:4,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Rulindo District</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+January 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+ 18</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 15 Peaberry Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-1.688793" data-lng="29.940309" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>The Bushoki station is located in the mountainous Rulindo district, Northern Rwanda. Rulindo is one of the most mountainous regions in Rwanda and home to many other coffee stations we buy from, most notably Tumba. Bushoki wet mill sits at just under 1800 meters, and draws coffee from the surrounding hills of 2000+ meters. 500 members strong, Bushoki has grown in it's decade+ of existence, and produce Kenya-type wet processed coffee. That is, the coffee cherry is pulped of the fruit and skin, fermented overnight to break down the sticky mucilage layer, washed in long channels, and then soaked for 48 hours before being laid to dry on raised beds. The soaking step is thought to enhance cup cleanliness, which I think is evidenced in the cup. This peaberry selection from Bushoki is quite complex when roasted light, but also presents rich chocolate side when roasted to the darker end of the roast spectrum. The sort is remarkably clean too, with only a few very partial quakers found in the few hundred grams I roasted and almost zero flat beans in the mix. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Rwanda Rulindo Bushoki Peaberry" data-chart-score="89.7" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9,Brightness:8.8,Flavor:9.2,Body:8.8,Finish:9.1,Sweetness:8.6,Clean Cup:8.5,Complexity:9.2,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Aromatically, Bushoki has a sweetness that recalls brown sugars like turbinado or demurara, with a whole host of baking spice notes in tow. Clove spice comes to mind when smelling the wetted crust, also perfumed with light brown sugar and cinnamon stick. In the brewed coffee City roasts of Bushoki have a raw sugar sweetness with a toasted sugar bittersweetness that provides a nice flavor contrast. And speaking of contrasting flavors, you don't have to dig deep for complex spice notes as they seem to brim from the cup from start to finish. Cardamom and all spice are at the top of my list, with Darjeeling tea following closely. Acidity is brisk in light roasts, lemon-like and leads into a tannic mouthfeel in the aftertaste. You can develop hefty chocolate flavors in middle to dark roasting, and our Full City roast showed a spiced chocolate confectionary side that's like dark chocolate and cinnamon bark candy. </p> </div>
+</div>
+</div>
+</div>
+</div>]

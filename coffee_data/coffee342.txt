@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Colombia Urraeños de Pavón" data-chart-score="88.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.8,Brightness:8.6,Flavor:8.8,Body:8.7,Finish:8.6,Sweetness:8.8,Clean Cup:8.3,Complexity:8.9,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Colombia Urraeños de Pavón" data-chart-type="polarArea" data-chart-value="Floral:1,Honey:2,Sugars:3,Caramel:2,Fruits:2,Citrus:1,Berry:2,Cocoa:3,Nuts:0,Rustic:0,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Typica Types, Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Urrao, Antioquia</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Bed Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+20</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+70 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Caturra, Heirloom Caturra, Variedad Colombia, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.5 d/300gr, 16-18 Screen - a few partial quakers</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="6.309638" data-lng="-76.141423" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>"Urraeños" refers to the people of Urrao. You know, like "San Fransiscans", "Seattle-ites (Satellite?)", or "New Yorkers". These are the locals, those who grew up there, many of whom we bought coffee from this last harvest. This microlot is made up of a few neighboring producers in the same valley. Caturra and Variedad Colombia are heavily planted, as is a unique local heirloom type thought to be a regression from Caturra, called "Chiroso" - the seed is elongated and looks a lot like Typica. The farms span an altitude range of about 1950 - 2100 meters at the top, which in this region isn't unusual seeing the valley floor starts at 1900! These farmers are part of a small group that have been assembled based on their ability to consistently deliver high quality coffees. The project was spearheaded by an intermediary we work with in Medellín, who with the help of an Urrao coop, were allowed access to a coffee lab and warehouse space in order to manage coffee buying during the harvest.  Unfortunately, the coop's focus on fulfilling large volume blend contracts didn't quite work with our desire to separate out a bunch of small coffee lots, so this year, our Medellín partners are building their own warehouse/lab space. We have high hopes for the impact this local presence will bring, hoping that the increased visibility of the project will mean an increase in coffee coming in and higher premiums paid to the farmer.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Colombia Urraeños de Pavón" data-chart-score="88.3" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.8,Brightness:8.6,Flavor:8.8,Body:8.7,Finish:8.6,Sweetness:8.8,Clean Cup:8.3,Complexity:8.9,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance of this small producer blend has a complex sugar and spice appeal, like the smell of light brown sugar with a faint sprinkling of cinnamon. Pouring hot water, you're greeted with intense sweetness in the steam that allude to butterscotch and caramel syrups, raw honey and with red fruit accent notes. "Urraeños" makes a delicious brewed coffee, lighter roasts exerting honey and graham cracker-like sweetness that are potent and floral. City to City+ roasts cool to a wonderful mix of complex sugars and fruited accents, with flavor notes of cane juice, panela sugar and red apple. The acidic impressions are like fresh fruit and impart a crisp quality on the cup. More roast development builds up dark fruited notes that accent an underlying bittersweetness that's like high % cacao bar, and body gets a boost as well. Excellent in a range of different brew methods, including espresso. Stick to Full City for the latter in order to capture a delicious fruited-chocolate flavor - like dried cherry covered in dark chocolate.</p> </div>
+</div>
+</div>
+</div>
+</div>]

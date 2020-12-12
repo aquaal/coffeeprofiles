@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Brazil Dry Process Minas Café Pequeño" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:7.7,Wet Aroma:8.2,Brightness:7.8,Flavor:8.3,Body:8.8,Finish:7.9,Sweetness:8.2,Clean Cup:7.5,Complexity:9,Uniformity:8" data-cupper-correction="5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Brazil Dry Process Minas Café Pequeño" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:2,Caramel:2,Fruits:1,Citrus:0,Berry:1,Cocoa:4,Nuts:3,Rustic:2,Spice:1,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Minas Geraís</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+12</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+Ecotact Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Catuai, Mundo Novo</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr, 14 - 15 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-21.946956" data-lng="-45.341965" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This is the small bean separation from all of last year's Brazil lots that we brought from Minas Geraís. "Small", meaning 14 to 15 screen, measured in 1/64" (so 14 1/64ths of an inch). What does that mean? Well, generally, most of the Brazil coffee we buy is falls between the range of 15 - 17 screen. The number difference sounds small, but it does make a difference. For example, if you're roasting on a Behmor you should give the drum a shake to allow the smallest beans to fall through the grid drum before roasting. This will help keep them slipping through the proverbial cracks during roast and smoldering or smoking inside the machine. As for origin, the coffees are from the growing regions of Lambari, Cristina, Conceicao das Pedras, Bueno Brandão and Santa Rita do Sapucaí. That's a lot of different growing regions represented in a mere 12 bags! These are all small farmers, not just by Brazilian standards, but compared to any growing region we buy from. The sizes range in hectares from 2 to about 50, and altitude ranges from around 1000 to 1300 meters above sea level. Coffees grown are red and yellow Bourbon and Catuaí, as well as Mundo Novo.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Brazil Dry Process Minas Café Pequeño" data-chart-score="86.4" data-chart-type="radar" data-chart-value="Dry Fragrance:7.7,Wet Aroma:8.2,Brightness:7.8,Flavor:8.3,Body:8.8,Finish:7.9,Sweetness:8.2,Clean Cup:7.5,Complexity:9,Uniformity:8" data-cupper-correction="5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The smell of the coffee is complex, and has an odd sugar caramelization scent in the dry grounds that reminds me of cooking with BBQ sauce. It's certainly sweet, but lends to a sort of tomato-like smell in the aromatics, along with accents of molasses and date sugar. The cup at City+ blends the molasses-type, unrefined sweet flavors with cocoa bittering. I pick up on a fruited note as the coffee cools off some that has elements of amaretto - most notably almond and cherry. There's also a sweet grain flavor that adds something like bran muffin to the mix. Like most Brazil coffee, the cup flavors are rustic-tinged and meld nicely with roast flavors. A note on roasting: because of the smaller bean size and softer density, Full City is the darkest end of the recommended roast spectrum. I roasted one batch to Full City+ and the cup was mostly bitter, ashy and generally unpleasant to my taste. Full City roasting still manages to develop sweet undercurrent along with the chocolate roast flavors that come with darker roasting. It also helps to slow the roast progression if your machine has manual capabilities in order to avoid charring. See notes on screen size in the Farm Notes. </p> </div>
+</div>
+</div>
+</div>
+</div>]

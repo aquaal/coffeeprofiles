@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Guatemala Proyecto Xinabajul Cuilco" data-chart-score="87" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.7,Brightness:7.8,Flavor:8.7,Body:8.9,Finish:8.5,Sweetness:8.7,Clean Cup:8.5,Complexity:8.3,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Guatemala Proyecto Xinabajul Cuilco" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:3,Fruits:1,Citrus:1,Berry:1,Cocoa:4,Nuts:1,Rustic:0,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Bourbon Types, Typica Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Cuilco, Huehuetenango</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+May 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+27</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Caturra, Catuai, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="15.408350" data-lng="-91.945610" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This is a blend made up of coffee farms in the Cuilco sub region of Huehuetenango. Cuilco is relatively small, tucked away in the high altitude region far above Huehuetenango town. The farms are situated in a valley between two steep mountain sides, providing perfect topography for growing coffee, and ideal shade provision from the surrounding natural forest. They are planted mostly in Caturra and Bourbon, a few Typica trees mixed in, and the coffee is fully washed in small batches either at the farm or at a shared mill in the center of town. In this area coffee tops out about 1750 - 1800 meters above sea level. Given that the localities where we are buying coffee are little more than extended family groups, we have found if we involve a sister or brother, they will tell all their coffee-farming kin, and soon we have a network of farmers interested in our project. We wrote an in-depth and detailed description of this effort we've dubbed "Proyecto Xinabajul" as well that you can read <a href="https://legacy.sweetmarias.com/library/guatemala-proyecto-xinabajul/">here</a>.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Guatemala Proyecto Xinabajul Cuilco" data-chart-score="87" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.7,Brightness:7.8,Flavor:8.7,Body:8.9,Finish:8.5,Sweetness:8.7,Clean Cup:8.5,Complexity:8.3,Uniformity:8.3" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This blended lot from Cuilco has a sweet vanilla bean note in the dry fragrance along with a scent of chocolate milk. The sweetness is bolstered with the addition of hot water, wrapped up in butterscotch and creamy caramel aromatics. The cup is right in line with aroma and builds to a butterscotch base flavor with honey accent notes  when roasted to City - City+ roast levels. This flavor builds as the cup cools and is marked by hints of black tea and candied orange peel. This coffee excels across a wide range of roasts. My Full City roast boasted thick body, dark cacao bar (like 70% showing subtle sweetness), a subtle berry accent and interesting Spearmint/herbal note in the finish. A great option for those looking for Guatemalan espresso too, loads of chocolate making a lasting impression on the palate.</p> </div>
+</div>
+</div>
+</div>
+</div>]

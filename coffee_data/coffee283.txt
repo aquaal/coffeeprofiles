@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Sumatra Kerinci Tujuh Cooperative" data-chart-score="87.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:8.1,Flavor:8.8,Body:9,Finish:8.4,Sweetness:8.6,Clean Cup:8.2,Complexity:9.2,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Sumatra Kerinci Tujuh Cooperative" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:2,Sugars:3,Caramel:1,Fruits:2,Citrus:0,Berry:2,Cocoa:3,Nuts:2,Rustic:3,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Giling Basah</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Kerinci </td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Hulled (Giling Basah)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+October 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+120</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Ateng, Jember, Tim Tim</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-1.737690" data-lng="101.326764" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This coffee comes from a coffee farmer's cooperative in the Gunung Tujuh area, a higher elevation coffee zone around Mount Kerinci. The cooperative serves about 450 farmers in the area who are divided into 24 farmer groups, 4 of which are specifically women's farmer groups. Many of the farms in this area are planted in older Typica types and benefit from the high slopes, situated between 1400 - 1500 meters above sea level. This is a wet hulled coffee, also known as "<a href="https://legacy.sweetmarias.com/library/why-should-you-know-giling-basah">giling basah</a>". This is the typical process method in Sumatra and involves removing the parchment layer while the coffee is still wet, exposing it to the elements well before the coffee is stable. When handled well during the drying phase (like this coffee), this rustic process method yields an earth-toned, bodied cup, with mild acidity and syrupy sweetness, and the green bean taking on a dark green hue unlike wet or dry process coffees from other producing countries. Having roasted this coffee, I'm very pleased with the uniformity of roast color and the minimal quakers from underripe coffee making it through. Giling basah - and Sumatran coffee in general - has a reputation for being riddled with defects even at "Grade 1" standard. Our "Appearance" category score is a little on the high side as a sort of worse case scenario, even though the green I inspected looked much cleaner than this. I saw minimal broca damage for Sumatra (this is not a Latin American coffee), only a few unripe beans, and some broken beans. It's no Grade 1 Ethiopian coffee, but far better than your average Grade 1 Sumatra. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Sumatra Kerinci Tujuh Cooperative" data-chart-score="87.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.6,Brightness:8.1,Flavor:8.8,Body:9,Finish:8.4,Sweetness:8.6,Clean Cup:8.2,Complexity:9.2,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This coffee from Kerinci is so much cleaner than the typical wet-hulled and not a lot of earth tones that you might expect. The fragrance and aroma produce molasses-like sweetness when roasted to City and City+ roast levels, sweet nutty smells of praline and pecan, honey wheat bread and a thin ribbon of chocolate. Roasting Sumatra light isn't always recommended. But that's where we found this one to excel. The cup flavors at City have notes of sorghum and rice syrups, a light caramel glaze and interesting barley tea note. Our City+ roast produced a delicious dark honey flavor and a surprise fruited accent of dried blackberry. The finish had a rye hint as well as pungent cocoa and burnt seseme seed accents. Full City roasts will appeal to those who love a smokey cup, but it's a much flatter cup in terms of flavor dimension. Still, we really liked the dark baking cocoa flavors that came through and a flavor roasty campfire marshmallow added a complex touch to the cup!</p> </div>
+</div>
+</div>
+</div>
+</div>]

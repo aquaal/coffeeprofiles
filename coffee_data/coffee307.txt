@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Brazil Dry Process Sítio Cocho Velho" data-chart-score="85.2" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.4,Brightness:7.2,Flavor:8.3,Body:8.4,Finish:7.9,Sweetness:8.2,Clean Cup:7.5,Complexity:8.3,Uniformity:7.8" data-cupper-correction="5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Brazil Dry Process Sítio Cocho Velho" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:2,Fruits:0,Citrus:0,Berry:0,Cocoa:2,Nuts:3,Rustic:0,Spice:0,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Lambari, Heliodora</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+ 53</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+Ecotact Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Red and Yellow Catuaí</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.9 d/300gr, 15 - 17 Screen - found a hand full of few semi and full quakers</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-22.005080" data-lng="-45.415086" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Sitio Cocho Velho is a single farm in the Lambari region of Minas Gerais. The farm has been in the same family for many years, currently under the care of the de Fatima family. They inherited Cocho Velho from their grandparents back in 1994 and since then have expanded coffee production to 15 hectares, mostly planted in Yellow and Red Catuaí. Regina de Fatima is a member of an all-female farmer group in Lambari Municipality, the Association of Coffee Women Entrepeneurs, or  "AMECAFE" for short with more than 150 members. Under their management, the de Fatima's have entered Sitio Cocho Velho in local competitions, placing top-10 in Best of Carmo and AMECAFE Women in Coffee competitions.  </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Brazil Dry Process Sítio Cocho Velho" data-chart-score="85.2" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.4,Brightness:7.2,Flavor:8.3,Body:8.4,Finish:7.9,Sweetness:8.2,Clean Cup:7.5,Complexity:8.3,Uniformity:7.8" data-cupper-correction="5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Sitio Cocho Velho is a mild Brazil cup with soft nutty sweetness and mild spiced flecks in the aroma. The fragrance and wet aroma have buttery toffee sweetness that hints at nut brittle candy. The cup shows best when roasted to a minimum of City+. You really need that extra roast development in order to pull out sugar caramelization. Cup flavors have aspects of nut brittle as well, a mild caramel candy note with roasted peanut and sesame seed accents. Cocoa is fairly absent at City+, but casts a darker shadow at Full City. A nice, neutral cup on its own that is sure to work well as a Brazil blend ingredient in espresso blending too.</p> </div>
+</div>
+</div>
+</div>
+</div>]

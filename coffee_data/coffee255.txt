@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Panama Volcán Barú Estate" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.5,Brightness:8.4,Flavor:8.5,Body:8.5,Finish:8.3,Sweetness:8.4,Clean Cup:8.2,Complexity:7.9,Uniformity:9" data-cupper-correction="2.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Panama Volcán Barú Estate" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:2,Fruits:0,Citrus:0,Berry:0,Cocoa:3,Nuts:2,Rustic:0,Spice:0,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Typica Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Paso Ancho</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+10</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-19 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="8.764450" data-lng="-82.462078" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This is the wet-process lot from "Paso Ancho", an estate located high up in the shadow of Volcán Barú in Paso Ancho town. Due to the high altitude, the coffee has greater density, and we often taste better acidity, a more piquant cup than the coffee from some of the lower grown estates. The farm is connected to it's own, independent micro-mill down in the valley and uses the de-mucilage process where the mucilage is stripped off the parchment layer using friction, rather than traditional fermentation. (The dumicilager is ideal for producing honey process too, which we happen to have their honey process coffee available as well <a href="https://www.sweetmarias.com/panama-honey-process-paso-ancho-6570.html">HERE</a>). I was very impressed with the high altitude and excellent practices when visiting several years back and can only imagine the improvements they've made since. The entire farm is very high altitude; it starts at 1750 meters, an altitude many farms don't even reach, and goes up from there to as high as 1900! Altitude matters with coffee, and you can taste the difference here. Altitude allows coffee to ripen more slowly, creates greater bean density, and results in higher concentrations of bright, snappy, acidity in the cup when roasted to the lighter end of the roast spectrum.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Panama Volcán Barú Estate" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.5,Brightness:8.4,Flavor:8.5,Body:8.5,Finish:8.3,Sweetness:8.4,Clean Cup:8.2,Complexity:7.9,Uniformity:9" data-cupper-correction="2.5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This Panama lot ranges from a caramely coffee to a cup that shows an acidic side depending on roast development. It's not just roast level that will determine the balance between these cup characteristics, but also how fast or slow you get there. Faster roasting with a shorter time from the beginning of 1st crack to end will intensify the perceived acidity, whereas slowing the overall roast time to hit the same roast level tends to develop the coffee's sweetness, and flatten out Paso Ancho's vibrant side. I found the cup to be balanced at City+, with dark sugar and roasted nut tones highlighted by tannic vibrance that has a mouth feel of green tea or matcha powder. It's not "bright" in comparison to African coffee, but worth noting giving the origin, and certainly a welcome presence that adds cup dimension. Look for flavors of almond biscotti, caramel flavored rice cake, and chocolate macadamia accents in light to middle roasts. Full City+ brews are intense with bittersweetness, with finishing notes of chocolate graham cracker and walnut.</p> </div>
+</div>
+</div>
+</div>
+</div>]

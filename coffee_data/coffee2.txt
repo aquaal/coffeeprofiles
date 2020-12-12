@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Dry Process Abiyot Bobea" data-chart-score="91" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.8,Brightness:8.7,Flavor:9.3,Body:9,Finish:8.8,Sweetness:8.7,Clean Cup:8.1,Complexity:9.7,Uniformity:8.3" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Dry Process Abiyot Bobea" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:0,Sugars:3,Caramel:2,Fruits:4,Citrus:0,Berry:4,Cocoa:3.5,Nuts:2,Rustic:2,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Odo Shakiso, Guji Zone</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+August 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+100</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Cultivars</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr, 15+ Screen - expect a few partial quakers</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="5.757097" data-lng="38.896626" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Bobea Uke processing site serves roughly 1200 small holder coffee farmers in Woreda Odo Shakiso, Western Guji. Elevation at the site is roughly 2000 meters above sea level, and the farms they buy cherry from range from 1850 to 2250 meters above sea level. Each lot they produce is made up of coffee from hundreds of different farmers in the region, most with only a few hundred coffee trees or less. You tend to see coffee intercropped with other fruits and vegetables, "false banana" being one the more common food staples to see planted in the region. The false banana plant has many uses, and is widely utilized for it's starchy inners that are often fermented with yeast to make a bread ("kocho"), and the leaves can be transformed into roofs for houses, baskets, and more. Bobea coffee station is a privately run operation and they only produce dry process coffees at this time. Dry processing is the oldest processing method and involves drying the coffee bean and cherry whole. From pictures you see, you might think you can just dump the cherries to the beds and wait. This is not the case! The coffee has to be spread out to a layer depth of only a few centimeters, no more, in order to allow air flow. The coffee is turned hourly, or even more frequently, in order to facilitate even drying and keep the coffee from molding. It's not difficult, but requires constant attention. During this time of physical attention, workers continually pull out lower quality coffee in the form of physical defects and coffee that was not harvested at peak ripeness. This lot underwent several layers of hand picking from the whole coffee cherry to the final milled green coffee in order to achieve "Grade 1" status. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Dry Process Abiyot Bobea" data-chart-score="91" data-chart-type="radar" data-chart-value="Dry Fragrance:8.6,Wet Aroma:8.8,Brightness:8.7,Flavor:9.3,Body:9,Finish:8.8,Sweetness:8.7,Clean Cup:8.1,Complexity:9.7,Uniformity:8.3" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The ground coffee produces a fruited mixture of sweet dried fruits punctuated by hazelnut chocolate notes. Light roasts are the most fruit-focused, while hitting the City+ threshold delights in a cup laced with cocoa and caramelized sugar sweetness, along with some of the more typical dry process-type fruited notes. I found Bobea to be a much more resinous smelling coffee than how it tastes, the more rustic undertones take a back seat in the brewed coffee, which is more fruit focused in the light roasts. 'Strawberry' was the first flavor to come to mind in my City roast level brew. The cup cools to an aromatic strawberry flavor, leaning toward an artificial flavoring type in intensity, and moves into some caramelizing sweetness that plays off the fruited tones like caramelized pineapple. Acidity level is moderate considering that dry process coffees are often on the flat side, and comes across like fruit juice. City+ sees cocoa roast flavors well integrated into the fruited profile, with a chocolate-covered strawberry flavor. The fruited flavor notes are somewhat obfuscated at Full City, though not gone altogether.</p> </div>
+</div>
+</div>
+</div>
+</div>]

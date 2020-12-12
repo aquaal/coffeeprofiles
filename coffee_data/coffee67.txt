@@ -1,0 +1,126 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Dry Process Guji Gerbicho Rogicha" data-chart-score="92.4" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.5,Brightness:8.6,Flavor:9.7,Body:9,Finish:9.3,Sweetness:9,Clean Cup:8.3,Complexity:9.8,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Dry Process Guji Gerbicho Rogicha" data-chart-type="polarArea" data-chart-value="Floral:4,Honey:1,Sugars:4,Caramel:0,Fruits:4,Citrus:2,Berry:4,Cocoa:2,Nuts:0,Rustic:2,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>No</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Bule Hora, Guji Zone</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+August 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+170</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Cultivars</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d/300gr, 15+ Screen - some partial quakers (common in dry process)</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="5.685056" data-lng="38.349729" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This coffee is from a private processing site near Bule Hora in Southern Ethiopia's Guji Zone. About 1,500 small farmers in the area sell their cherry at the Gerbicho Rogicha site, where it is graded and dried in whole cherry. Typically, whole cherry is put into soaking tanks where the "floaters" (under ripe coffee) are removed. The coffee is then laid to dry on raised drying beds where it takes around 3 full weeks to dry. During this time workers tend to the drying beds, turning the coffee to facilitate even drying,and hand picking out any defects they see. There are ample natural shade trees in the area, and the altitude of the farms ranges from 1750 to just under 2000 meters. The people in this area are known as Guji Oromo, and coffee farming has been a core part of the culture in the highland areas. That being said, it's not far from the towns of Yirga Cheffe, Chelelektu and Gedeb, and the cup profile is quite similar to some of the naturals we've bought in the past from processing sites in those locations. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Dry Process Guji Gerbicho Rogicha" data-chart-score="92.4" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.5,Brightness:8.6,Flavor:9.7,Body:9,Finish:9.3,Sweetness:9,Clean Cup:8.3,Complexity:9.8,Uniformity:8.2" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Gerbicho Rogicha is one of those dry process coffees that is able to capture both the ripe fruited flavors that are bi-product of natural processing, and also the clean floral characteristics of Southern Ethiopian coffees. Fruited smells are strong in dry fragrance and wet aroma, with more than a hint of fresh berry, sweet tropical fruits, citrus and dried stone fruit. The sweet smells point to raw sugar, and maybe more like molasses and even brown rice syrup in roasts darker than City+. There are floral allusions too and at this stage offer perfumed accents to a coffee redolent with fruited smells. The cup is incredible to say the least and I had the brightest, complex results with City and City+ roasts. City brews have a flavor of strawberry lemonade, so sweet and with a slight 'tang' that adds structure to the complex fruited matrix. Cherry, raspberry, pineapple hard candy, dried mango, orange; there're so many flavor attributes to unpack here and I imagine you'll add to this list depending on where you stop along the roast spectrum. I found that City+ and Full City roasts have more dried and cooked fruited qualities. the latter pulls out a nice layer of bittersweetness, though still nowhere near the pungency of fruit flavors. Star jasmine floral notes are easy to put your finger on when the coffee is roasted light and proliferate in the aroma and finish. We were so impressed by Gerbicho Rogicha using multiple brew methods, and recommend as espresso to those who enjoy wild, fruity shots. (I'm withholding the recommendation in coffee "specs" though as I don't think it's for everyone.)</p> </div>
+</div>
+</div>
+</div>
+</div>]

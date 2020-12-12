@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Ethiopia Dry Process Hambela Buku 13 Screen" data-chart-score="89" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:8.9,Brightness:8,Flavor:8.9,Body:9.5,Finish:8.7,Sweetness:8.7,Clean Cup:7.5,Complexity:9.3,Uniformity:7.7" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Ethiopia Dry Process Hambela Buku 13 Screen" data-chart-type="polarArea" data-chart-value="Floral:2,Honey:1,Sugars:3,Caramel:3,Fruits:3,Citrus:0,Berry:3,Cocoa:3,Nuts:0,Rustic:3,Spice:1,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Buku Village, Hambela Wamena District, Guji Zone</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+September 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+100</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Heirloom Varietals</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.8 d per 300 gr; 13 screen - some partial and full quaker beans</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City - lighter roasting captures a floral aroma - a little tricky to roast so please see comments in the Farm Notes!</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="5.646449" data-lng="38.216378" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>The first thing you're likely to notice when you receive this coffee is how small the beans are. They're pretty tiny when put up against your average flat bean. And that does mean there's a bit of a trick to roasting. The main thing to keep in mind is that it's best if you can actually see your coffee while you roast it. The 'crack' isn't all that audible, if heard at all, but fracturing is easy to spot. If you are roasting in a Behmor, my advice is to listen and watch carefully, track your roast time, try pulling a little earlier than you might normally cool a batch and adjust from there. You shouldn't have an issue on roasters where you have a good visual of the bean as long as you're comfortable roasting by sight rather than sound. This coffee is from a private washing station in Buku village, Hambela Wamena district of Guji Zone. Farmers sell their coffee to the station in whole cherry where it is processed using both the wet process/fermentation method as well as dry process, where the coffee is dried in whole cherry. This is a fully natural processed coffee, dried in whole cherry on raised beds for upwards of 30 days. If you're not versed in the cup this processing technic tends to produce, you can expect a fruit forward cup, bigger body and low acid for the most part. In the case of this particular lot, you'll also likely sense floral and berry aromatics when roasted light. The average farm altitude is 2000 meters in Buku, some as high as 2200 meters. They produce a lot of very small-sized coffee beans which we had separated as a strictly 13-screen lot (measured in 1/64ths of an inch). </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Ethiopia Dry Process Hambela Buku 13 Screen" data-chart-score="89" data-chart-type="radar" data-chart-value="Dry Fragrance:8.8,Wet Aroma:8.9,Brightness:8,Flavor:8.9,Body:9.5,Finish:8.7,Sweetness:8.7,Clean Cup:7.5,Complexity:9.3,Uniformity:7.7" data-cupper-correction="3">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Hambela Buku offers a good reminder that good things often come in small packages. And bean size is about the only thing small about this coffee. Hambela Buku's cup is overloaded with fruit flavors - dried, stewed and often rustic - touching on many facets of these coveted flavor notes. There's a floral aroma found in light roasts that adds a delicate touch to dense smells of berry fruit leather, dried prune, stewed plum, with plenty of sugar browning tying it all together. Light roasts shine a light on the floral aroma in the brewed coffee too, with a bevy of fruited flavor notes and unrefined sweetness underneath. Allusions to dried strawberry and prune are conjured as the coffee cools, as are notes of tamarind paste, burdock root, anise and molasses. Closer to Full City roasting produces a coffee that reminds me of some of our best Yemeni coffees, a berry-toned, herbaceous coffee intertwined with rustic roast and leathery tones. On the one hand, this coffee has some of the earthy-berry flavors that you might associate with Harar, but with floral and cleaner fruited side that is Guji coffee all the way. In terms of roasting, you really have to pay attention to physical changes, especially at first crack. The 'snaps' are practically inaudible (sometimes completely) and so being able to see the coffee is a plus. We were mainly worried about the screen size being too small for Behmor, which thankfully isn't the case. Only a few beans made it through the drum screen, but then you're face with the problem of trying to see the fracturing since you can't really hear it well. If you are roasting in a Behmor, my advice is to listen and watch carefully and track your roast time, try pulling a little earlier than you might normally cool a batch and adjust from there. You shouldn't have an issue on roasters where you have a good visual of the bean as long as you're comfortable roasting by sight rather than sound.</p> </div>
+</div>
+</div>
+</div>
+</div>]

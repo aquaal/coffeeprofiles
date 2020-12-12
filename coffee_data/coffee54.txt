@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Burundi Yeast Fermentaion Yandaro" data-chart-score="88.1" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.6,Brightness:8.9,Flavor:8.7,Body:9.5,Finish:8.6,Sweetness:8.5,Clean Cup:8,Complexity:9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Burundi Yeast Fermentaion Yandaro" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:2,Fruits:2,Citrus:2,Berry:1,Cocoa:4,Nuts:0,Rustic:2,Spice:3,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Other Processes</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Kabarore Commune, Kayanza Province</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Yeast Process, Anaerobic</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+10</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 15-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.920861" data-lng="29.625449" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This is a special process experiment managed by the Yandaro Station in Kayanza, Burundi's northern province that borders neighboring Rwanda. An outside company in Belgium has developed yeast strains specifically for coffee processing. When I heard "yeast process", I immediately thought "faster fermentation". That's actually not the case. This particular yeast helps to stabilize fermentation, even at very low water temperatures, and is said to enhance cup flavors, acidity and body. Unlike the typical washed coffee Yandaro processes, this yeast coffee (they call it "Oro Anaerobic") is fermented in plastic tanks sealed off from the outside air, with water and yeast, and takes 36 hours to complete. That's a fairly long time, considering their regular wet process coffee ferments for 12 hours. Is it really all that different? I think in terms of body and acidity, yes. The cup is bright at a range of roasts and body is opaque, and the intensity of these two characteristics alone set them apart. Yandaro sits at just under 1800 meters above sea level, though many farmers have coffee planted higher than this. Yandaro was built in the mid 1980s, a time when the World Bank was investing heavily in Burundi's coffee sector, building out washing stations like Yandaro to serve the surrounding coffee communities. More recently they've come under the direction of a Burundi coffee investment group who are able to offer Yandaro, and several other Kayanza stations (Kibingo is another), agronomical assistance to station members, regular maintenance of washing station equipment and drying beds, and management teams who follow the coffee deliveries from cherry selection, to keeping lots separated by quality tiers. Since partnering with this group, several of the stations have seen top placement in Burundi coffee competitions, including Yandaro placing 7th and 19th in recent Burundi Cup of Excellence competitions.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Burundi Yeast Fermentaion Yandaro" data-chart-score="88.1" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.6,Brightness:8.9,Flavor:8.7,Body:9.5,Finish:8.6,Sweetness:8.5,Clean Cup:8,Complexity:9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>This is a coffee that's been processed with the addition of a specially formulated yeast that's been produced specifically for coffee. The idea was to create a product aids in the fermentation stage of wet processing by helping to create a stable environment and also enhancing the cup. We've tasted some of the tests over the last couple of years and there is a discernible difference from between lots from the same station processed with and without the yeast. This lot from Yandaro specifically showed a much brighter cup than expected based on our washed coffees from this site, brisk at in light and dark roasts and with pronounced tea-like characteristics with lemon (think black tea tannins, like the flavor of Lipton or PG Tibs). The cup has rounded sweetness that fades to a flavor of toasted marshmallow and a baked apple accent. Yandaro's cup weight is dense, body coating your tongue and leaving an array of spiced hints in aroma including cinnamon and sandalwood. I loved my Full City roast of this coffee, a sturdy sweetness backing a strong flavor of cocoa powder that brings to mind Mexican drinking chocolate.</p> </div>
+</div>
+</div>
+</div>
+</div>]

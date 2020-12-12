@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Kenya Nyeri Ichamama Peaberry" data-chart-score="91" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.2,Brightness:9.1,Flavor:9.3,Body:8.8,Finish:8.8,Sweetness:8.7,Clean Cup:8.3,Complexity:9.3,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Kenya Nyeri Ichamama Peaberry" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:0,Fruits:4,Citrus:3,Berry:3,Cocoa:1,Nuts:0,Rustic:0,Spice:2,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Karima Hill, Nyeri</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+14</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+SL-28, SL-34, Ruiru 11</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Peaberry</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15 Peaberry Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-0.438238" data-lng="36.958363" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This coffee is from the Ichamama Factory, a washing station near Karima Hill in Nyeri. The station was named after the Ichamama river which flows near enough to the station to be the source of water for processing coffee. Ichamama is one of 19 washing stations that make up the Othaya Farmer's Coopertive Society, a coop-run organization, one of the older ones I might add. Othaya started in the mid-1950s, ballooning from 250 original members to 15,000 strong today. Karima is one of the older of the group, erected in 1964, and currently with nearly 1,000 farmer members (and is one of the most productive of the 19). The station sits at about 1750 meters above sea level, and coffee is grown in the higher altitude areas surrounding it. This is the Peaberry outturn, a separation of all of the small round beans from the flat beans (traded as grades AA, AB, C, and others). We find that the Peaberries can be a bit more fruit-forward than the AA and AB grades, even when they're all from the same process batch.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Kenya Nyeri Ichamama Peaberry" data-chart-score="91" data-chart-type="radar" data-chart-value="Dry Fragrance:9,Wet Aroma:9.2,Brightness:9.1,Flavor:9.3,Body:8.8,Finish:8.8,Sweetness:8.7,Clean Cup:8.3,Complexity:9.3,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Ichamama peaberry has a complex flavor compound, offering juicy and jammy fruit characteristics, intense raw sugar, and bright, citrus acidity from light City roasting on up to Full City. There are elements of orange juice in the dry ground coffee, pulpy and sweet, and a spiced fruit punch note. The wet aroma has a high level of fruit and brown sugar smells, like pie filling, juicy as well. Ichamama is a punchy cup in terms of acidity at a wide roast range. You can expect a lively citric vibrance to endure all the way up to Full City roast level. City and City+ roasts are a real treat, fruited flavors like blood orange, cranberry juice, tart lemon and red berry accents culminate in a delicious fruited mix. There's a lot to take in with Ichamama, a brew that any coffee drinker can run up a lengthy list of adjectives to describe. It's a bodied, sweet cup, so full of fruited flavor notes that are much more than 'accents'. Full City roasts display bittersweet chocolate roast tones along with flavor aspects of mulled grape juice. All-in-all a delicious and complex pour-over brew.</p> </div>
+</div>
+</div>
+</div>
+</div>]

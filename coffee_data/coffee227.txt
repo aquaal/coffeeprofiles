@@ -1,0 +1,134 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Guatemala Xinabajul Familia Villatoro" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.4,Flavor:8.6,Body:9.5,Finish:8.5,Sweetness:8.5,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Guatemala Xinabajul Familia Villatoro" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:1,Citrus:1,Berry:1,Cocoa:4,Nuts:2,Rustic:0,Spice:0,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Caturra Types, Bourbon Types, Typica Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Peña Blanca, La Libertad</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+May 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+39</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon, Caturra, Catuai, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHB EP</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="15.514104" data-lng="-91.878930" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This coffee is made up of two lots of coffee from the Villatoro family, a group we buy coffee from in the Huehuetenango highlands (Peña Blanca to be exact!). A good portion of this lot came from Rosalio and Rosiela, the elder Villatoro's of the clan (see photo 1). They have a couple of plots in Peña Blanca town, La Libertad. The wet mill is shared by the family and sits at 1750 meters above sea level, the farms stretching up another 100 meters. They pull water from springs above, but are working to capture clean water from the river that runs below the farm and is punctuated by a 50 foot waterfall a bout 100 meters from the farm! This coffee comes to us through a joint-effort of a local micro-mill owner who is able to process and separate the micro-lots we approve, and a highly sophisticated dry-mill who handle the finishing touches and export the coffees for us. It's also part of our "Proyecto Xinabajul" small holder project in the region, which you can read more about <a href="https://legacy.sweetmarias.com/library/guatemala-proyecto-xinabajul/">HERE</a>.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Guatemala Xinabajul Familia Villatoro" data-chart-score="86.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.5,Wet Aroma:8.7,Brightness:8.4,Flavor:8.6,Body:9.5,Finish:8.5,Sweetness:8.5,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance of this lot from Familia Villatoro has a raw sugar sweetness at a wide array of roasts, along with sweet to bitter cocoa smells and a sprinkling of cinnamon powder. The level of intensity comes up in the steam off the wetted grounds, culminating in a no-frills, bittersweet chocolate smell. The cup at City+ shows developed sugar sweetness paired with a bittersweet flavor of high % cacao bar and walnut. Body is "cut it with a knife" dense, a characteristic that you can easily develop further with a longer roast too, though sacrificing acidity. But in these lighter roasts there's still room for a mild to moderate acidity to come through and is a lot like red apple. This isn't a fruity coffee by any means, but it does produce a mellow raisin hint. I found this coffee to have a sturdy core of sweet and bittering tones (think flourless chocolate torte) at Full City roast, which will lend itself to milk drinks nicely. Brewing as pour over yielded excellent results but I'm sure this will work well as full immersion brew like French Press too, highlighting body and dense mouthgeel. As espresso, this coffee's a home run. Our Full City roast extracted silky dark chocolate flavors, some berry skin-like vibrance and licorice hint in the long finish.</p>
+<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style>
+<style type="text/css"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--><span id="mce_marker" data-mce-type="bookmark"></span><span id="__caret">_</span></style> </div>
+</div>
+</div>
+</div>
+</div>]

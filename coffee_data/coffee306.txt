@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Brazil Dry Process Sítio Alto da Serra" data-chart-score="85.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8,Wet Aroma:8.4,Brightness:7.7,Flavor:8.3,Body:8.8,Finish:8.1,Sweetness:8.3,Clean Cup:7.9,Complexity:7.6,Uniformity:8.3" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Brazil Dry Process Sítio Alto da Serra" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:2,Caramel:2,Fruits:1,Citrus:0,Berry:1,Cocoa:4,Nuts:4,Rustic:2,Spice:0,Body:3">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Dry Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Lambari, Minas Geraís</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Dry Process (Natural)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+30</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Red and Yellow Catuaí</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Estate</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.7 d per 300 gr; 15+ screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+ Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-21.993302" data-lng="-45.375947" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Sítio Alto da Serra is a farm located in the Lambari Municipality of Minas Geraís. Wife and husband Ariane and Bruno bought the small piece of land that would be the future farm site only 5 years ago, already planted in coffee. Today, there are more than 9,000 trees planted, mostly a mix of yellow and red Catuaí. One important factor that sets them apart from some of the larger estates in Brazil is the fact that they are manually harvesting the coffee. Mechanical harvesting is the norm in Brazil, an indiscriminant process that strip picks the coffee regardless of ripeness. Hand selection, on the other hand, is much more intentional and allows them to pick only the ripe coffee. The farm is located far up the mountainside at 1450 meters above sea level, which is quite high for Brazil. Ariane is a member of AMECAFE, a coffee association specifically for female producers in the region. This is a full natural-processed coffee, meaning the coffee is dried whole in the cherry. Being that it is the whole fruit, it generally takes more than twice as long to dry the seed/bean down to 11% moisture. The intact fruit tends to add a fruited quality to the cup, as well as add body and mute acidity. Natural Brazils can be prime blend ingredients, used to add body and bittersweetness to espresso. This coffee was bought through an exporter who is new to us this year. The woman at the head of the operation, Laura Barros, is uniquely positioned as both a coffee farmer and associate member of AMECAFE. Look for more coffee through this exciting new venture over the Spring and Summer months.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Brazil Dry Process Sítio Alto da Serra" data-chart-score="85.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8,Wet Aroma:8.4,Brightness:7.7,Flavor:8.3,Body:8.8,Finish:8.1,Sweetness:8.3,Clean Cup:7.9,Complexity:7.6,Uniformity:8.3" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Sítio Alto da Serra has a "classic" Brazil cup profile, bittersweet and nutty flavors when roasted to medium and darker roast levels, with a subtle fruited quality that comes through in middle roasts.  Cocoa powder smells connect roasted nut to dried fruited hints, City+ roasts giving off impressions of pecan pie filling and crushed peanut. The cup is bodied all along our recommended roast range, a silky texture lending to an almond milk flavor found in the brew. Notes of Brazil nut and hazelnut, dark chocolate and baking cocoa, and a fruited note underneath that comes off like the rustic side of dried fruit. Sítio Alto da Serra will make a great French Press brew, pour-over too, but I think immersion brewing will help highlight body and bittersweetness, which is what this coffee is all about. It's also a great body/bittersweet blend component or can be used as single origin espresso too.</p> </div>
+</div>
+</div>
+</div>
+</div>]

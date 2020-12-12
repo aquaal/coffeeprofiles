@@ -1,0 +1,124 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Espresso Workshop #46 Hama-O-Rama" data-chart-score="89.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.7,Brightness:8.8,Flavor:9.3,Body:9.3,Finish:8.7,Sweetness:8.7,Clean Cup:8.5,Complexity:9,Uniformity:9" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Espresso Workshop #46 Hama-O-Rama" data-chart-type="polarArea" data-chart-value="Floral:1,Honey:1,Sugars:4,Caramel:3,Fruits:2,Citrus:2,Berry:2,Cocoa:5,Nuts:0,Rustic:0,Spice:2,Body:5">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Machine Washed</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types, Heirloom Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Guji Zone, Ethiopia - Ahuachapán, El Salvador - Nyeri, Kenya</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried, Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+All Current Crop</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Ethiopian Heirloom Cultivars, Bourbon, SL-28, SL-34, Rurui-11</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Top Grades</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 15+ Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+Full City to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value">
+<div class="column-left">
+</div>
+<div class="column-right">
+<p>I know, "O-Rama" is generally used to refer to an event or store of some sort - Bargain-O-Rama, Produce-O-Rama, Coffee-O-Rama (yes, it's out there), etc. So let's just call this an espresso event, one that sees a shining star of an washed Ethiopian coffee paired with a classic, chocolatey toned El Salvador and just a small dash of wet-processed Kenya for vibrance. It's the kind of flavor-o-rama you can only get through blending. It's an "event" because it's limited, only around for a short time. Why "Hama"? Because 1/2 of this blend is made up of Ethiopia Kochore Jet Hama Station, a 92 point washed Ethiopian coffee that's a real floral bomb when roasted light and doubles as a deliciously fruited and chocolate-y espresso shot. The other 1/2 is mostly comprised of an El Salvador bourbon that adds to a bittersweet core and inclredibly inky body and an AB Kenya that provides tangy lemon flavors that are sure to wake up your taste buds at Full City and even Full City+. Full City is my recommended starting point for this Workshop and what the review is mostly based off of. For me, that's where the perfect flavor combination is conjured; bittersweet, fruited and vibrant. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Espresso Workshop #46 Hama-O-Rama" data-chart-score="89.7" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.7,Brightness:8.8,Flavor:9.3,Body:9.3,Finish:8.7,Sweetness:8.7,Clean Cup:8.5,Complexity:9,Uniformity:9" data-cupper-correction="1">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>Start with a Full City roast of Hama-O-Rama and adjust from there, but I have a feeling you may not need to. That's my favorite espresso roast, where a nice balance is struck between unrefined sugary sweetness and opaque bittersweet roast flavors, leaving plenty of space for top notes to make their presence known in the shot. The aroma has subtle floral allusions, afforded by the healthy dose of washed Ethiopian coffee and most noticeable in ristretto shots. Whether pulled long or short, you should expect bracing acidity. After all, 2/3 of the blend is made up of washed African coffee! The flavors are certainly bittersweet from the outset, but the hefty chocolate roast tones are matched by tangy citrus flavors too. Tart lemonade is the bright spot in this chocolate-laden espresso, shifting to a note of bittering orange peel in the finish, mingling with rich, dark chocolate flavors like high % cacao bar. Dark berry juice like blackberry and blueberry were noted on subsequent sips as was an aromatic pipe tobacco note in the very long finish. Sweetness can still be found at Full City+ as roast tones reach their apex and herbal accents of burdock and anise pleasantly fill out the finish. FC+ would be the better option for milk drinks, but I wouldn't personally want to dilute these flavors at all!</p> </div>
+</div>
+</div>
+</div>
+</div>]

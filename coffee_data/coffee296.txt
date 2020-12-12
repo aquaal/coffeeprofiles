@@ -1,0 +1,129 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Papua New Guinea Kainantu Farmers" data-chart-score="87.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.6,Brightness:8.7,Flavor:8.7,Body:9,Finish:8.2,Sweetness:8.7,Clean Cup:8,Complexity:8.8,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Papua New Guinea Kainantu Farmers" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:3,Citrus:2,Berry:2,Cocoa:2,Nuts:0,Rustic:2,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types, Typica Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Aiyura, Eastern Highlands</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+December 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+35</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Arusha, Typica, Bourbon, Mondonovo</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A/X</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.6 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-6.545427" data-lng="145.541277" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>The Baroida Plantation, located in the Eastern Highlands of Papua New Guinea, was founded by Ben Colbran in the 1960s. Ben first purchased the land from a local man named Taro and they were amongst the first people to cultivate crops in these valleys. In 1965, the government encouraged the early settlers to start growing coffee as a long-term sustainable crop. Ben started to plant coffee trees becoming one of the first coffee producers of the Eastern Highlands. The Colbran Family is now in its third generation with Ben's son Nichol and grandson Chris running Baroida plantation. Through either luck or good design, the Baroida plantation sits at the apex of the Lamari river valley and Mount Jabarra range. The plantation itself is at about 1700 meters amongst thousands of hectares of cleared land with former colonial coffee estates surrounding them (now run by native landowners) and flanked by mountains (up to 2300 meters) filled with small holder coffee producers. In addition to processing their own coffee, the Colbrans buy from some of the small holders nearby and process separately by location. This coffee is a blend of small farmer coffee that was bought and processed at the estate separately from their own coffee. </p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Papua New Guinea Kainantu Farmers" data-chart-score="87.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.4,Wet Aroma:8.6,Brightness:8.7,Flavor:8.7,Body:9,Finish:8.2,Sweetness:8.7,Clean Cup:8,Complexity:8.8,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance and aroma show somewhat overt fruit and spice notes when kept to City+, wrapped in a sweet layer of dark brown sugar and with a roasted corn accent. City was just a tad too light for my taste and I felt the sweetness opens up at City+ and remains an underlying cup quality on into Full City. City+ made for a fantastic pour-over brew, with a dried green apple and raisin flavor notes, along with unrefined sweetness that comes through like date sugar. The acidity has a mouth-refreshing quality like citrus and finishing flavors nod to aromatic cedar shakes and soft baking spices. Full City roasts offer a delicious fruited chocolate flavor that reminded me of chocolate-covered dried pear. Body is immense along the roast spectrum, and while somewhat rounded off, acidity still comes through like fruit juice when roasted to the darker end of our roast recommendations. </p> </div>
+</div>
+</div>
+</div>
+</div>]

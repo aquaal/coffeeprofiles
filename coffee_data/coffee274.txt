@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Sumatra Aceh Tengah Bies" data-chart-score="86.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.4,Brightness:7.3,Flavor:8.5,Body:9.3,Finish:8,Sweetness:8.4,Clean Cup:7,Complexity:9.5,Uniformity:8" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Sumatra Aceh Tengah Bies" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:1,Citrus:1,Berry:1,Cocoa:4,Nuts:0,Rustic:4,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Hulled</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Bies, Aceh Tengah</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Hulled (Giling Basah)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+40</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Ateng, Tim Tim Gayo</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Grade 1 Triple Picked</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+1+ d/300gr, 16-19 screen; you'll find broken, insect damaged, off color and more - BUT this lot is "triple picked", which means it was hand sorted 3 different times and much cleaner than your average Sumatra "Gr 1"</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="4.614884" data-lng="96.785982" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This lot is from a coffee farmer and collector in the hills west of Lake Tawar near the small village of Bies. This "Collectors" are essentially coffee buyers who purchase coffee from local farmers in the region, in this case around the Bies sub-district of Aceh Tengah. Typically, the coffee has already been processed down to the wet parchment and dried to roughly 50% moisture before being sold to the collector, who will then take the coffee back to their own facility where they will peel the parchment layer and dry the coffee the rest of the way (down to 10-12% moisture more or less). This method is what we refer to as wet hulled, or "Giling Basah" as it termed locally. Altitude in this area ranges from 1300 to 1600 meters above sea level, and you mostly see Ateng, Tim Tim and Gayo cultivars planted. This coffee was graded to Grade 1 Triple Picked standard, which just as it sounds, is subjected to three different rounds of hand sorting in order to remove as much of the physical defects as possible. This does not mean you should expect a completely "clean" looking coffee. This is Sumatran coffee after all, and it has the usual broken beans, dark hue, and bug holes. But there are <em>less </em>than you're typical Grade 1.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Sumatra Aceh Tengah Bies" data-chart-score="86.6" data-chart-type="radar" data-chart-value="Dry Fragrance:8.2,Wet Aroma:8.4,Brightness:7.3,Flavor:8.5,Body:9.3,Finish:8,Sweetness:8.4,Clean Cup:7,Complexity:9.5,Uniformity:8" data-cupper-correction="4">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>At City+ the ground coffee has a resin-like pine scent, green herbal sweetness and accents of fresh cut wood. It's sweet for sure, and the wet aroma gives off more of a baked goods sweetness with molasses and the pungent smell of sugar caramelizing in a pan, along with the expected herbal and earth tones. City+ is our minimal roast recommendation and is where bittering cocoa flavors are propped up by unrefined sweetness. The cup is loaded with bittersweet cocoa from City+ to Full City+ and body that's thick and syrupy. Herbaceous and earthy accent notes help construct a complex cup profile at City+, with suggestions of brown rice syrup, lemon balm, basil and aromatics that fall somewhere in between a pine cone and a pepper cask! The intense herbal side is quieted by roast development, Full City+ delivers a much more balanced bitter-to-sweet, deep chocolate roast-toned cup of coffee. I don't normally recommend Sumatra as single origin espresso, but Full City+ makes for an inky, chocolatey shot of espresso.</p> </div>
+</div>
+</div>
+</div>
+</div>]

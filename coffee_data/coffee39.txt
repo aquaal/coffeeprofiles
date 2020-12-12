@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Burundi Kabarore Commune Yandaro " data-chart-score="87.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.7,Flavor:8.8,Body:8.3,Finish:8.6,Sweetness:8.6,Clean Cup:8,Complexity:8.9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Burundi Kabarore Commune Yandaro " data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:3,Caramel:2,Fruits:2,Citrus:2,Berry:1,Cocoa:2,Nuts:0,Rustic:1,Spice:3,Body:2">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Kabarore Commune, Kayanza Province</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Raised Bed and Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+February 2020 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+50</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Bourbon</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+A1</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.2 d/300gr, 16-18 Screen</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="-2.920861" data-lng="29.625449" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>Yandaro Station is a coffee cherry collection site located in Kayanza, Burundi's northern province that borders neighboring Rwanda. The station itself is in the Kabarore Commune, which it serves, but also is a central coffee cherry delivery site for 22 of the surrounding villages. Farmers grow mostly older bourbon types, the original coffee cultivar introduced to the area in the 1930s by Catholic monks traveling from the island of Reunion. Yandaro sits at just under 1800 meters above sea level, and many of the farmers have coffee planted much higher than this. Yandaro was built in the mid 1980s, a time when the World Bank was investing heavily in Burundi's coffee sector, building out washing stations like Yandaro to serve the surrounding coffee communities. More recently they've come under the direction of a Burundi coffee investment group who are able to offer Yandaro, and several other Kayanza stations (Kibingo is another), agronomical assistance to station members, regular maintenance of washing station equipment and drying beds, and management teams who follow the coffee deliveries from cherry selection, to keeping lots separated by quality tiers. Since partnering with this group, several of the stations have seen top placement in Burundi coffee competitions, including Yandaro placing 7th and 19th in recent Burundi Cup of Excellence competitions.</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Burundi Kabarore Commune Yandaro " data-chart-score="87.4" data-chart-type="radar" data-chart-value="Dry Fragrance:8.7,Wet Aroma:8.8,Brightness:8.7,Flavor:8.8,Body:8.3,Finish:8.6,Sweetness:8.6,Clean Cup:8,Complexity:8.9,Uniformity:8" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>At City+ roast level, the dry fragrance of Yandaro shows smells of raw cane sugar with notes of vanilla bean and dark spices. I roasted this coffee to a couple different roast levels and with a shade more development a cherry note is palpable as is semi-sweet chocolate. Pouring hot water draws out the sweetness even more and you catch whiffs of cola soda and raw cane sugar in the steam. As a brew, City roast is perhaps too light and shows a sort of grainy flavor characteristic that I don't find appealing. But at City+, caramel sweetness floods the cup and a wide range of molasses-type sugar flavor notes come through. Lemon-like brightness compliments raw sugar and black tea flavor notes and leads into a brisk finishing flavor. Though I pick up on black currant and raisin hints, fruit flavors are understated and it's the spiced top notes that leave a lasting impression. A sachet of spice flavors come through in the nose like all spice, clove, mace and more. Full City roasts work great for espresso (brewed coffee too!), offering a distilled citric snap up front that gives way to syrupy chocolate and a dried tamarind note in the finish.</p> </div>
+</div>
+</div>
+</div>
+</div>]

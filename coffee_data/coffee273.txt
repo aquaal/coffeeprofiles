@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="Sumatra Aceh Tenang Uken" data-chart-score="86.6" data-chart-type="radar" data-chart-value="Dry Fragrance:7.7,Wet Aroma:8,Brightness:7.4,Flavor:8.3,Body:9,Finish:7.9,Sweetness:8.5,Clean Cup:7,Complexity:9.8,Uniformity:8" data-cupper-correction="5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="Sumatra Aceh Tenang Uken" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:1,Sugars:3,Caramel:2,Fruits:1,Citrus:0,Berry:1,Cocoa:3,Nuts:1,Rustic:5,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Hulled</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Typica Types, Modern Hybrids</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Tenang Uken Village, Bener Meriah Disctrict, Aceh Province</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Hulled (Giling Basah)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Covered Sun-dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+April 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+50</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+60 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+Gayo, Tim Tim, Typica</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+Triple Picked</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+1+ d/300gr, 16-19 screen; you'll find broken, insect damaged, off color and more - BUT this lot is "triple picked", which means it was hand sorted 3 different times and much cleaner than your average Sumatra "Gr 1"</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City+ to Full City+</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="4.840480" data-lng="96.955756" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>This lot is from a coffee farmer and collector in Bener Meriah District, Western Aceh Province. It's actually the same collector who brought us our Honey Labu, honey/wet-hulled, hybrid process coffee a few months back. He goes by Pak Radian and his farm and processing facility are located in Tenang Uken Village ("Pak" is short for "Bupak", and an honorary way of addressing elder me, whereas "Ibu" or "Bu" is used when addressing elder women). Collectors are essentially coffee buyers who purchase coffee from local farmers in the region. Typically, the coffee has already been processed down to the wet parchment and dried to roughly 50% moisture before being sold to the collector, who will then take the coffee back to their own facility where they will peel the parchment layer and dry the coffee the rest of the way (down to 10-12% moisture more or less). We call this method wet hulled, or "Giling Basah". If you'd like to learn more about Sumatra and Aceh specifically, check out our post, "<a href="https://legacy.sweetmarias.com/library/sumatra-some-things-i-have-learned-about-aceh-perhaps/">Sumatra: Some Things I Have Learned About Aceh, Perhaps</a>".</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="Sumatra Aceh Tenang Uken" data-chart-score="86.6" data-chart-type="radar" data-chart-value="Dry Fragrance:7.7,Wet Aroma:8,Brightness:7.4,Flavor:8.3,Body:9,Finish:7.9,Sweetness:8.5,Clean Cup:7,Complexity:9.8,Uniformity:8" data-cupper-correction="5">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>It seems like no matter where your roast falls along the recommended spectrum, you're sure to capture Tenang Uken's earth-toned sweetness. Rice syrup and palm sugar are the types of sugars that come to mind when working through the cup, two sweeteners so full of flavor. The aroma has mild mossy smells that remind me of aged scotch, and mirky fruited hints link these earth tones to the intense sweetness underneath. The coffee cools to an intense profile of caramel and rustic molasses topped with roasted grain, malted cocoa, pipe tobacco and more. Body is massive and opaque which assists in a long, contemplative finish. City+ is where the sweetness seems to really open up, whereas at  Full City+ bittersweetness is the dominant cup characteristic.</p> </div>
+</div>
+</div>
+</div>
+</div>]

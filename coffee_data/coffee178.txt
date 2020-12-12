@@ -1,0 +1,132 @@
+[<div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+<div aria-labeledby="tab-label-product.info.description-title" class="data item title" data-role="collapsible" id="tab-label-product.info.description">
+<a class="data switch" data-toggle="switch" href="#product.info.description" id="tab-label-product.info.description-title" tabindex="-1">
+Overview </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.description">
+<div class="overview-data">
+<div class="product attribute description">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="charts-list">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart" data-chart-label="El Salvador Santa Ana Miravalle H1" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.5,Brightness:8.4,Flavor:8.7,Body:9.2,Finish:8,Sweetness:8.4,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart"></canvas>
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-FlavorChart-01.png" data-chart-id="flavor-chart" data-chart-label="El Salvador Santa Ana Miravalle H1" data-chart-type="polarArea" data-chart-value="Floral:0,Honey:0,Sugars:2,Caramel:2,Fruits:1,Citrus:0,Berry:1,Cocoa:4,Nuts:2,Rustic:0,Spice:2,Body:4">
+</div>
+<canvas class="chart-area type-polar loading" id="flavor-chart"></canvas>
+</div>
+</div>
+<div class="column-right">
+<div class="box-description">
+<div class="list-info">
+<ul class="list-info">
+<li>
+<strong>Process Method</strong>
+<span>Wet Process</span>
+</li>
+<li>
+<strong>Cultivar</strong>
+<span>Bourbon Types</span>
+</li>
+<li>
+<strong>Farm Gate</strong>
+<span>Yes</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-labeledby="tab-label-product.info.specs-title" class="data item title" data-role="collapsible" id="tab-label-product.info.specs">
+<a class="data switch" data-toggle="switch" href="#product.info.specs" id="tab-label-product.info.specs-title" tabindex="-1">
+Specs </a>
+</div>
+<div class="data item content" data-role="content" id="product.info.specs">
+<div class="additional-attributes-wrapper table-wrapper table-scroll">
+<table class="additional-attributes-table" id="product-attribute-specs-table">
+<tbody>
+<tr>
+<th class="col label" scope="row">Region</th>
+<td class="col data" data-th="Region">
+Apaneca, Ahuachapan</td></tr><tr>
+<th class="col label" scope="row">Processing</th>
+<td class="col data" data-th="Processing">
+Wet Process (Washed)</td></tr><tr>
+<th class="col label" scope="row">Drying Method</th>
+<td class="col data" data-th="Drying Method">
+Patio Sun-Dried</td></tr><tr>
+<th class="col label" scope="row">Arrival date</th>
+<td class="col data" data-th="Arrival date">
+June 2019 Arrival</td></tr><tr>
+<th class="col label" scope="row">Lot size</th>
+<td class="col data" data-th="Lot size">
+28</td></tr><tr>
+<th class="col label" scope="row">Bag size</th>
+<td class="col data" data-th="Bag size">
+69 KG</td></tr><tr>
+<th class="col label" scope="row">Packaging</th>
+<td class="col data" data-th="Packaging">
+GrainPro Liner</td></tr><tr>
+<th class="col label" scope="row">Farm Gate</th>
+<td class="col data" data-th="Farm Gate">
+Yes</td></tr><tr>
+<th class="col label" scope="row">Cultivar Detail</th>
+<td class="col data" data-th="Cultivar Detail">
+H1</td></tr><tr>
+<th class="col label" scope="row">Grade</th>
+<td class="col data" data-th="Grade">
+SHG</td></tr><tr>
+<th class="col label" scope="row">Appearance</th>
+<td class="col data" data-th="Appearance">
+.4 d/300gr, 16-18 Screen - a few partial quakers</td></tr><tr>
+<th class="col label" scope="row">Roast Recommendations</th>
+<td class="col data" data-th="Roast Recommendations">
+City to Full City+, very versatile!</td></tr><tr>
+<th class="col label" scope="row">Type</th>
+<td class="col data" data-th="Type">
+Farm Gate</td></tr><tr>
+<th class="col label" scope="row">Recommended for Espresso</th>
+<td class="col data" data-th="Recommended for Espresso">
+Yes</td></tr> </tbody>
+</table>
+</div>
+</div>
+<div aria-labeledby="tab-label-product-info-origin-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-origin-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-origin-notes" id="tab-label-product-info-origin-notes-title" tabindex="-1">
+Farm Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-origin-notes">
+<div class="product attribute origin-notes">
+<div class="value layout-2-columns">
+<div class="column-left">
+<div class="map-circle" data-color="15z" data-lat="13.981126" data-lng="-89.560505" data-radius="2000" id="circle1">
+</div>
+</div>
+<div class="column-right">
+<p>No, "H1" is not a Formula 1 car. It's a hybrid cultivar, also commonly referred to as "Centroamericano". It's also what's called an F1 hybrid, which are first generation offspring from two very different parent plants; in this case a Sarchimor (Timor hybrid and Villa Sarchi) and an African heirloom cultivar Rume Sudan. An important aspect of F1 hybrids is that you have to buy the 1st generation seeds in order to produce. Essentially, you can't re-plant seed from an F1 and expect to get the same "Centroamericano" characteristics like you would with other commercial varieties. The upside is that being 1st generation, they have what's called "hybrid vigor", which in this case is expressed as resistance to leaf rust ("la roya") and the ability to outproduce many of the older Bourbon and Caturra types. We've also noticed a somewhat delicate flavor profile with H1 cultivar that I can best describe as having citrus-like brightness and sometimes floral cup character; I think it comes through in this lot as vibrant acidity. Finca Miravalle is perched on the verdant slopes of the Apaneca-Ilamatepec mountain region. It's about 1500 meters above sea level, and is planted in Pacamara, Bourbon, H1 and Sanpacho, which owner Luis Duarte processes separately. This is an all H1 separation and tastes quite different from the Bourbon lot we're also selling. It's a great opportunity to taste two different cultivars from the same farm side by side!</p> </div>
+</div>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIM3wNOD-JZKwba-4L0f_E0_rEiKRcAsI" type="text/javascript"></script>
+</div>
+<div aria-labeledby="tab-label-product-info-cupping-notes-title" class="data item title" data-role="collapsible" id="tab-label-product-info-cupping-notes">
+<a class="data switch" data-toggle="switch" href="#product-info-cupping-notes" id="tab-label-product-info-cupping-notes-title" tabindex="-1">
+Cupping Notes </a>
+</div>
+<div class="data item content" data-role="content" id="product-info-cupping-notes">
+<div class="product attribute cupping-notes">
+<div class="value layout-2-columns">
+<div class="chart-cupping-notes column-left">
+<div class="forix-chartjs" data-chart-background="https://www.sweetmarias.com/media/wysiwyg/Bg-Cupping-02.png" data-chart-id="cupping-chart2" data-chart-label="El Salvador Santa Ana Miravalle H1" data-chart-score="86.5" data-chart-type="radar" data-chart-value="Dry Fragrance:8.3,Wet Aroma:8.5,Brightness:8.4,Flavor:8.7,Body:9.2,Finish:8,Sweetness:8.4,Clean Cup:8.5,Complexity:8,Uniformity:8.5" data-cupper-correction="2">
+</div>
+<canvas class="chart-area type-radar loading" id="cupping-chart2"></canvas>
+</div>
+<div class="column-right">
+<p>The dry fragrance has smells of cocoa powder and cinnamon, along with light brown sugar and hazelnut. The wet aroma is has dense sweetness and pushes a smell of Mexican cocoa in the steam, with a sweet nutty side that's like almond paste. Drinking my lightest City roast, there's a toffee/caramel underlying sweetness with a flavor green tea that also defines the acidity. This H1 separation is fairly brilliant for El Salvador coffee and adds a mouth refreshing quality to a candied nut flavored finish (especially in lighter roasts). Full City roasts have roasted cacao nibs, chocolate syrup and more in the real of bitter-to-sweet roast tone. Fruited flavors also appear in these darker roasts like raisin and Mission figs. I pick up on some of that dried fruit character in espresso shots too, which brought to mind dark chocolate covered raisins.</p> </div>
+</div>
+</div>
+</div>
+</div>]
